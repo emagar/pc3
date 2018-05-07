@@ -1,5 +1,21 @@
-**Política Comparada III**
-Departamento de Ciencia Política ITAM, primavera 2018
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<tbody>
+<tr>
+<td class="org-left">**Política Comparada III**</td>
+<td class="org-left">Departamento de Ciencia Política ITAM</td>
+<td class="org-left">Primavera 2018</td>
+</tr>
+</tbody>
+</table>
 
 Profesor: Eric Magar Meurs [emagar@itam.mx](mailto:emagar@itam.mx)
 
