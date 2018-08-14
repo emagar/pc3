@@ -1,29 +1,26 @@
-ITAM, Departamento de Ciencia Política
+\noindent *Objetivo*: Este es último curso de la serie de política comparada del programa de ciencia política. El primero cubrió las explicaciones estructurales de la política y el segundo las institucionales. El hilo conductor del tercer curso será la representación democrática en perspectiva comparada. Haremos hincapié en varios de los procesos de la representación, como la distinción de los aspectos sustanciales y simbólicos, el papel de las elecciones periódicas y la ambición política, el factor que juegan las reglas electorales y los partidos.
 
-**Temario de Política Comparada III**
+\bigskip
 
-Primavera 2018
+\noindent *Horas de oficina*: Martes y jueves de 17:30 a 18:30, o con cita.  
 
-Profesor: Eric Magar Meurs [emagar@itam.mx](mailto:emagar@itam.mx)
+\bigskip
 
----
+\noindent *Evaluación*: Habrá un examen parcial y otro final. En su momento anunciaré el formato. A priori, cada uno contará 40% de la calificación final y el 20% restante valorará la participación en clase y la impresión general que deje en su profesor.  
 
-*Objetivo*: Este es último curso de la serie de política comparada del programa de ciencia política. El primero cubrió las explicaciones estructurales de la política y el segundo las institucionales. El hilo conductor del tercer curso será la representación democrática en perspectiva comparada. Haremos hincapié en varios de los procesos de la representación, como la distinción de los aspectos sustanciales y simbólicos, el papel de las elecciones periódicas y la ambición política, el factor que juegan las reglas electorales y los partidos.
+\bigskip
 
-*Horas de oficina*: Martes y jueves de 17:30 a 18:30, o con cita.  
+\noindent *Notas*: (1) La página del curso es \url{http://ericmagar.com/clases/pc3/}. Alberga este temario y las lecturas. (2) El temario sufrirá modificaciones marginales en el transcurso del semestre para quitar, añadir o cambiar la secuencia de algunos temas. Anunciaré esto en clase. (3) Coordinaré reposición de clases faltantes más adelante.
 
-*Evaluación*: Habrá un trabajo parcial y otro final. En su momento anunciaré el formato. A priori, cada uno contará 40% de la calificación final y el 20% restante valorará la participación en clase y la impresión general que deje en su profesor.  
+\bigskip
 
-*Notas*: (1) La página del curso es <http://ericmagar.com/clases/pc3/>. Alberga este temario y las lecturas. (2) El temario sufrirá modificaciones marginales en el transcurso del semestre para quitar, añadir o cambiar la secuencia de algunos temas. Anunciaré esto en clase. (3) Coordinaré reposición de clases faltantes más adelante.
+\noindent *No habrá clases*
 
-*No habrá clases*
+-   2018-10-30 mar y 2018-11-02 jue (Muertos)
 
--   2018-02-13 y 2018-02-15
--   2018-03-27 y 2018-03-29 (semana santa)
--   2018-05-01 (asueto)
--   2018-05-10 (asueto)
+\bigskip
 
-Última clase
+\noindent Última clase
 
 -   2018-05-17
 
@@ -33,13 +30,25 @@ Profesor: Eric Magar Meurs [emagar@itam.mx](mailto:emagar@itam.mx)
 # Causalidad y método comparativo
 
 -   Holland (1986) "Statistics and causal inference" 16 pp.
--   [Scientific Method](https://plato.stanford.edu/entries/scientific-method/#SciMetSciEduSeeSci) (2015) Stanford Encyclopedia of Philosophy
+-   [Scientific Method (2015) Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/scientific-method/#SciMetSciEduSeeSci)
 
 
 # Representación política
 
 -   Pitkin (2004) "Representation and Democracy: Uneasy Alliance", 8 pp.
 -   Urbinati (2000) "Representation as Advocacy", 22 pp.
+
+
+# Revueltas electorales: Italia
+
+-   Nanetti y Leonardi (2015) en Hancock 
+    -   cap 4.1 The context of Italian politics 21 pp.
+    -   cap 4.2 Where is the power? 22 pp.
+    -   cap 4.3 Who has the power? 54 pp.
+    -   cap 4.4 How is power used? 20 pp.
+    -   cap 4.5 What is the future of Italian politcs 16 pp.
+-   Algo sobre revueltas
+-   Colapso del sistema de partidos
 
 
 # Coordinación electoral
@@ -93,7 +102,7 @@ Profesor: Eric Magar Meurs [emagar@itam.mx](mailto:emagar@itam.mx)
 
 # Cuotas de género y acción afirmativa
 
--   Bhavnani (2009) Do Electoral Quotas Work after They Are Withdrawn? Evidence from a Natural Experiment in India 13pp.
+-   Bhavnani (2009) "Do Electoral Quotas Work after They Are Withdrawn? Evidence from a Natural Experiment in India" 13 pp.
 -   Schwindt-Bayer (2010) Political Power and Women's Representation in Latin America's Legislatures 
     -   cap. 1 Introduction A theory of women's political representation 37 pp.
     -   cap. 3 Preferences and priorities 19 pp.
@@ -101,9 +110,19 @@ Profesor: Eric Magar Meurs [emagar@itam.mx](mailto:emagar@itam.mx)
 -   Piscopo
 
 
-# Las relaciones ejecutivo-legislativo
+# Los partidos como agentes de gobierno
 
--   Magar, Palanza y Sin (2018) Presidents on the fast track: Fighting floor amendments in the Chilean Cámara 31pp.
+-   Cox (1987) *The Efficient Secret*.
+-   Krehbiel (1993) "Where's the party"
+-   Cox y McCubbins (1993) *Legislative Leviathan*, 
+    -   Introduction, 15 pp.
+    -   cap. 3 "Subgovernments and the representativeness of committees" 21 pp.
+    -   cap. 5 "A theory of legislative parties" 30 pp.
+    -   cap. 8 "Contingents and parties" 42 pp.
+-   Cox y McCubbins (1995) "Bonding, structure, and the stability of parties" 17 pp.
+-   Cox y Magar (1999) "How Much is Majority Status in US Congress Worth?" 12 pp.
+-   DenHartog and Monroe (2010) Parties in the Senate.
+-   Jones y Hwang (2005) "Party Government in Presidential Democracies: Extending Cartel Theory beyond the U.S. Congress" 16 pp.
 
 
 # Redistritación
@@ -131,21 +150,6 @@ Profesor: Eric Magar Meurs [emagar@itam.mx](mailto:emagar@itam.mx)
 -   Fama, "Agency Problems and the Theory of the Firm," pp. 196-208.
 
 
-# Los partidos como agentes de gobierno
-
--   Cox (1987) *The Efficient Secret*.
--   Krehbiel (1993) "Where's the party"
--   Cox y McCubbins (1993) *Legislative Leviathan*, 
-    -   Introduction, 15 pp.
-    -   cap. 3 "Subgovernments and the representativeness of committees" 21 pp.
-    -   cap. 5 "A theory of legislative parties" 30 pp.
-    -   cap. 8 "Contingents and parties" 42 pp.
--   Cox y McCubbins (1995) "Bonding, structure, and the stability of parties" 17 pp.
--   Cox y Magar (1999) "How Much is Majority Status in US Congress Worth?" 12 pp.
--   DenHartog and Monroe (2010) Parties in the Senate.
--   Jones y Hwang (2005) "Party Government in Presidential Democracies: Extending Cartel Theory beyond the U.S. Congress" 16 pp.
-
-
 # Negociación en el Congreso estadounidense
 
 -   Shepsle y Weingast, "Institutional foundations of committee power" (1987) 20 pp.
@@ -171,4 +175,7 @@ Profesor: Eric Magar Meurs [emagar@itam.mx](mailto:emagar@itam.mx)
 -   O'Donnell Delegative Democracy
 -   Carey y Shugart
 -   Amorim Neto en Brasil
+
+
+# Algo más?
 
