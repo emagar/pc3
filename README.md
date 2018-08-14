@@ -1,28 +1,18 @@
-\noindent *Objetivo*: Este es último curso de la serie de política comparada del programa de ciencia política. El primero cubrió las explicaciones estructurales de la política y el segundo las institucionales. El hilo conductor del tercer curso será la representación democrática en perspectiva comparada. Haremos hincapié en varios de los procesos de la representación, como la distinción de los aspectos sustanciales y simbólicos, el papel de las elecciones periódicas y la ambición política, el factor que juegan las reglas electorales y los partidos.
+*Objetivo*: Este es último curso de la serie de política comparada del programa de ciencia política. El primero cubrió las explicaciones estructurales de la política y el segundo las institucionales. El hilo conductor del tercer curso será la representación democrática en perspectiva comparada. Haremos hincapié en varios de los procesos de la representación, como la distinción de los aspectos sustanciales y simbólicos, el papel de las elecciones periódicas y la ambición política, el factor que juegan las reglas electorales y los partidos.
 
-\bigskip
+*Horas de oficina*: Martes y jueves de 17:30 a 18:30, o con cita.  
 
-\noindent *Horas de oficina*: Martes y jueves de 17:30 a 18:30, o con cita.  
+*Evaluación*: Habrá un examen parcial y otro final. En su momento anunciaré el formato. A priori, cada uno contará 40% de la calificación final y el 20% restante valorará la participación en clase y la impresión general que deje en su profesor.  
 
-\bigskip
+*Notas*: (1) La página del curso es \url{http://ericmagar.com/clases/pc3/}. Alberga este temario y las lecturas. (2) El temario sufrirá modificaciones marginales en el transcurso del semestre para quitar, añadir o cambiar la secuencia de algunos temas. Anunciaré esto en clase. (3) Coordinaré reposición de clases faltantes más adelante.
 
-\noindent *Evaluación*: Habrá un examen parcial y otro final. En su momento anunciaré el formato. A priori, cada uno contará 40% de la calificación final y el 20% restante valorará la participación en clase y la impresión general que deje en su profesor.  
-
-\bigskip
-
-\noindent *Notas*: (1) La página del curso es \url{http://ericmagar.com/clases/pc3/}. Alberga este temario y las lecturas. (2) El temario sufrirá modificaciones marginales en el transcurso del semestre para quitar, añadir o cambiar la secuencia de algunos temas. Anunciaré esto en clase. (3) Coordinaré reposición de clases faltantes más adelante.
-
-\bigskip
-
-\noindent *No habrá clases*
+*No habrá clases*
 
 -   2018-10-30 mar y 2018-11-02 jue (Muertos)
 
-\bigskip
+Última clase
 
-\noindent Última clase
-
--   2018-05-17
+-   2018-12-06
 
 ---
 
