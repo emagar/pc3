@@ -4,7 +4,7 @@
 
 *Evaluación*: Habrá un examen parcial y otro final. En su momento anunciaré el formato. A priori, cada uno contará 40% de la calificación final y el 20% restante valorará la participación en clase y la impresión general que deje en su profesor.  
 
-*Notas*: (1) La página del curso es \url{http://ericmagar.com/clases/pc3/}. Alberga este temario y las lecturas. (2) El temario sufrirá modificaciones marginales en el transcurso del semestre para quitar, añadir o cambiar la secuencia de algunos temas. Anunciaré esto en clase. (3) Coordinaré reposición de clases faltantes más adelante.
+*Notas*: (1) La página del curso es <http://ericmagar.com/clases/pc3/>. Alberga este temario y las lecturas. (2) El temario sufrirá modificaciones marginales en el transcurso del semestre para quitar, añadir o cambiar la secuencia de algunos temas. Anunciaré esto en clase. (3) Coordinaré reposición de clases faltantes más adelante.
 
 *No habrá clases*
 
@@ -19,14 +19,14 @@
 
 # Causalidad y método comparativo
 
--   Holland (1986) "Statistics and causal inference" 16 pp.
+-   Holland (1986) ["Statistics and causal inference"](https://github.com/emagar/pc3/blob/master/lecturas/01causalidad/hollandCausalInference1986jasa.pdf) 16 pp.
 -   [Scientific Method (2015) Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/scientific-method/#SciMetSciEduSeeSci)
 
 
 # Representación política
 
--   Pitkin (2004) "Representation and Democracy: Uneasy Alliance", 8 pp.
--   Urbinati (2000) "Representation as Advocacy", 22 pp.
+-   Pitkin (2004) ["Representation and Democracy: Uneasy Alliance"](https://github.com/emagar/pc3/blob/master/lecturas/01causalidad/pitkin2004representationAndDemocUneasyAlliance.pdf) 8 pp.
+-   Urbinati (2000) ["Representation as Advocacy"](https://github.com/emagar/pc3/blob/master/lecturas/01causalidad/urbinati2000representationAsAdvocacy) 22 pp.
 
 
 # Revueltas electorales: Italia
