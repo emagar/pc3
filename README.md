@@ -37,8 +37,18 @@
     -   cap 4.3 Who has the power? 54 pp.
     -   cap 4.4 How is power used? 20 pp.
     -   cap 4.5 What is the future of Italian politcs 16 pp.
--   Algo sobre revueltas
+-   Achen y Bartels (2016) Democracy for Realists
+    -   cap 1 Democratic idels and realities 20 pp.
+    -   cap 4 A rational God of vengeance and of reward? The logic of retrospective accountability 25 pp.
+    -   cap 5 Blind retrospection: electoral responses to droughts, floods, and shark attacks 29 pp.       <&#x2013;
+    -   cap 7 A chicken in every pot: ideology and retrospection in the Great Depression 36 pp.
+    -   cap 8 The very bases of reasons: groups, social identities, and political psychology 18 pp.
+    -   cap 10 It feels like we're thinking: the rationalizing voter 29 pp.                                <&#x2013;
+
+-   Algo sobre revueltas, rational peasant?
 -   Colapso del sistema de partidos
+    -   Walter Dean Burnham?
+    -   Colapso Liberales UK?
 
 
 # Coordinación electoral
