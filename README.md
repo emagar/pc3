@@ -21,12 +21,21 @@
 
 -   Holland (1986) ["Statistics and causal inference"](https://github.com/emagar/pc3/blob/master/lecturas/01causalidad/hollandCausalInference1986jasa.pdf) 16 pp.
 -   [Scientific Method (2015) Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/scientific-method/#SciMetSciEduSeeSci)
+-   Lijphart (1971) ["Comparative politics and the comparative method"](https://github.com/emagar/pc3/blob/master/lecturas/01causalidad/lijphartCompPol1971apsr.pdf) (opcional) 12 pp.
 
 
 # Representación política
 
--   Pitkin (2004) ["Representation and Democracy: Uneasy Alliance"](https://github.com/emagar/pc3/blob/master/lecturas/01causalidad/pitkin2004representationAndDemocUneasyAlliance.pdf) 8 pp.
--   Urbinati (2000) ["Representation as Advocacy"](https://github.com/emagar/pc3/blob/master/lecturas/01causalidad/urbinati2000representationAsAdvocacy) 22 pp.
+-   Pitkin (2004) ["Representation and Democracy: Uneasy Alliance"](https://github.com/emagar/pc3/blob/master/lecturas/02representacion/pitkin2004representationAndDemocUneasyAlliance.pdf) 8 pp.
+-   Urbinati (2000) ["Representation as Advocacy"](https://github.com/emagar/pc3/blob/master/lecturas/02representacion/urbinati2000representationAsAdvocacy) 22 pp.
+
+
+# La delegación: piedra nodal del gobierno
+
+-   Kiewiet y McCubbins (1991) *The Logic of Delegation*,
+    -   cap. 2 ["Delegation and agency problems"](https://github.com/emagar/pc3/blob/master/lecturas/03delegacion/kiewiet.mccubbinsLogicDelegationCap2.pdf) 17 pp.
+-   McCubbins y Schwartz (1984) ["Congressional oversight overlooked: police patrols vs. fire alarms"](https://github.com/emagar/pc3/blob/master/lecturas/03delegacion/mccubbins.schwartzFireAlarms1984ajps.pdf) 15 pp.
+-   Raustiala (2004) ["Police patrols and fire alarms in the NAAEC"](https://github.com/emagar/pc3/blob/master/lecturas/03delegacion/raustialaFireAlarmsNAFTA2004.pdf) 25 pp.
 
 
 # Revueltas electorales: Italia
@@ -49,6 +58,8 @@
 -   Colapso del sistema de partidos
     -   Walter Dean Burnham?
     -   Colapso Liberales UK?
+    -   Plot poll-of-polls italiano
+    -   Italy review Economist?
 
 
 # Coordinación electoral
@@ -65,14 +76,6 @@
     -   cap. 7 Some concluding comments on strategic voting 10 pp.
     -   cap. 8 Strategic voting, party labels, and entry  24 pp.
     -   cap. 9 Rational entry and the conservation of disproportionality: Evidence from Japan 6 pp.
-
-
-# La delegación: piedra nodal del gobierno y de la democracia
-
--   Kiewiet y McCubbins (1991) *The Logic of Delegation*,
-    -   cap. 2 "Delegation and agency problems" 17 pp.
--   McCubbins y Schwartz (1984) "Congressional oversight overlooked: police patrols vs. fire alarms" 15 pp.
--   Raustiala (2004) "Police patrols and fire alarms in the NAAEC" 25 pp.
 
 
 # La conexión electoral
