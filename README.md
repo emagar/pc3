@@ -48,19 +48,12 @@
 -   Putnam (1993) *Making Democracy Work*
     -   cap 5 Tracing the roots of the civic community 40 pp.
 -   Achen y Bartels (2016) Democracy for Realists
-    -   cap 1 Democratic idels and realities 20 pp.
+    -   cap 1 Democratic ideals and realities 20 pp.
     -   cap 4 A rational God of vengeance and of reward? The logic of retrospective accountability 25 pp.
     -   cap 5 Blind retrospection: electoral responses to droughts, floods, and shark attacks 29 pp.       <&#x2013;
     -   cap 7 A chicken in every pot: ideology and retrospection in the Great Depression 36 pp.
     -   cap 8 The very bases of reasons: groups, social identities, and political psychology 18 pp.
     -   cap 10 It feels like we're thinking: the rationalizing voter 29 pp.                                <&#x2013;
-
--   Algo sobre revueltas, rational peasant?
--   Colapso del sistema de partidos
-    -   Walter Dean Burnham?
-    -   Colapso Liberales UK?
-    -   Plot poll-of-polls italiano
-    -   Italy review Economist?
 
 
 # Coordinación electoral
