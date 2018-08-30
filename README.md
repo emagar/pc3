@@ -4,7 +4,7 @@
 
 *Evaluación*: Habrá un examen parcial y otro final. En su momento anunciaré el formato. A priori, cada uno contará 40% de la calificación final y el 20% restante valorará la participación en clase y la impresión general que deje en su profesor.  
 
-*Notas*: (1) La página del curso es <http://ericmagar.com/clases/pc3/>. Alberga este temario y las lecturas. (2) El temario sufrirá modificaciones marginales en el transcurso del semestre para quitar, añadir o cambiar la secuencia de algunos temas. Anunciaré esto en clase. (3) Coordinaré reposición de clases faltantes más adelante.
+*Notas*: (1) La página del curso es <https://github.com/emagar/pc3/>. Alberga este temario, las lecturas y materiales diversos. (2) El temario sufrirá modificaciones marginales en el transcurso del semestre para quitar, añadir o cambiar la secuencia de algunos temas. Anunciaré esto en clase.
 
 *No habrá clases*
 
@@ -40,12 +40,13 @@
 
 # Revueltas electorales: Italia
 
--   Nanetti y Leonardi (2015) en Hancock 
+-   Nanetti y Leonardi (2015) en Hancock *Politics in Europe* 
     -   cap 4.1 The context of Italian politics 21 pp.
     -   cap 4.2 Where is the power? 22 pp.
     -   cap 4.3 Who has the power? 54 pp.
-    -   cap 4.4 How is power used? 20 pp.
-    -   cap 4.5 What is the future of Italian politcs 16 pp.
+
+-   Putnam (1993) *Making Democracy Work*
+    -   cap 5 Tracing the roots of the civic community 40 pp.
 -   Achen y Bartels (2016) Democracy for Realists
     -   cap 1 Democratic idels and realities 20 pp.
     -   cap 4 A rational God of vengeance and of reward? The logic of retrospective accountability 25 pp.
