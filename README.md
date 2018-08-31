@@ -41,12 +41,12 @@
 # Revueltas electorales: Italia
 
 -   Nanetti y Leonardi (2015) en Hancock *Politics in Europe* 
-    -   cap 4.1 The context of Italian politics 21 pp.
-    -   cap 4.2 Where is the power? 22 pp.
-    -   cap 4.3 Who has the power? 54 pp.
+    -   cap 4.1 [The context of Italian politics](https://github.com/emagar/pc3/blob/master/lecturas/02representacion/nanetti-leonardi4.1TheContextOfItalianPolitics.pdf) 21 pp.
+    -   cap 4.2 [Where is the power?](https://github.com/emagar/pc3/blob/master/lecturas/02representacion/nanetti-leonardi4.2WhereIsThePower.pdf) 22 pp.
+    -   cap 4.3 [Who has the power?](https://github.com/emagar/pc3/blob/master/lecturas/02representacion/nanetti-leonardi4.3WhoHasThePower.pdf) 54 pp.
 
 -   Putnam (1993) *Making Democracy Work*
-    -   cap 5 Tracing the roots of the civic community 40 pp.
+    -   cap 5 [Tracing the roots of the civic community](https://github.com/emagar/pc3/blob/master/lecturas/02representacion/putnam-MakingDemWork-cap5.pdf) 40 pp.
 -   Achen y Bartels (2016) Democracy for Realists
     -   cap 1 Democratic ideals and realities 20 pp.
     -   cap 4 A rational God of vengeance and of reward? The logic of retrospective accountability 25 pp.
