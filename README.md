@@ -41,19 +41,21 @@
 # Revueltas electorales: Italia
 
 -   Nanetti y Leonardi (2015) en Hancock *Politics in Europe* 
-    -   cap 4.1 [The context of Italian politics](https://github.com/emagar/pc3/blob/master/lecturas/02representacion/nanetti-leonardi4.1TheContextOfItalianPolitics.pdf) 21 pp.
-    -   cap 4.2 [Where is the power?](https://github.com/emagar/pc3/blob/master/lecturas/02representacion/nanetti-leonardi4.2WhereIsThePower.pdf) 22 pp.
-    -   cap 4.3 [Who has the power?](https://github.com/emagar/pc3/blob/master/lecturas/02representacion/nanetti-leonardi4.3WhoHasThePower.pdf) 54 pp.
+    -   cap 4.1 [The context of Italian politics](https://github.com/emagar/pc3/blob/master/lecturas/04italia/nanetti-leonardi4.1TheContextOfItalianPolitics.pdf) 21 pp.
+    -   cap 4.2 [Where is the power?](https://github.com/emagar/pc3/blob/master/lecturas/04italia/nanetti-leonardi4.2WhereIsThePower.pdf) 22 pp.
+    -   cap 4.3 [Who has the power?](https://github.com/emagar/pc3/blob/master/lecturas/04italia/nanetti-leonardi4.3WhoHasThePower.pdf) 54 pp.
 
 -   Putnam (1993) *Making Democracy Work*
-    -   cap 5 [Tracing the roots of the civic community](https://github.com/emagar/pc3/blob/master/lecturas/02representacion/putnam-MakingDemWork-cap5.pdf) 40 pp.
+    -   cap 5 [Tracing the roots of the civic community](https://github.com/emagar/pc3/blob/master/lecturas/04italia/putnam-MakingDemWork-cap5.pdf) 40 pp.
 -   Achen y Bartels (2016) Democracy for Realists
-    -   cap 1 Democratic ideals and realities 20 pp.
-    -   cap 4 A rational God of vengeance and of reward? The logic of retrospective accountability 25 pp.
-    -   cap 5 Blind retrospection: electoral responses to droughts, floods, and shark attacks 29 pp.       <&#x2013;
-    -   cap 7 A chicken in every pot: ideology and retrospection in the Great Depression 36 pp.
-    -   cap 8 The very bases of reasons: groups, social identities, and political psychology 18 pp.
-    -   cap 10 It feels like we're thinking: the rationalizing voter 29 pp.                                <&#x2013;
+
+-   cap 5 [Blind retrospection: electoral responses to droughts, floods, and shark attacks](https://github.com/emagar/pc3/blob/master/lecturas/04italia/achen-bartels-Democ4realists-ch05.pdf) 29 pp.
+
+-   cap 8 The very bases of reasons: groups, social identities, and political psychology 18 pp.
+-   cap 10 It feels like we're thinking: the rationalizing voter 29 pp.                                <&#x2013;
+
+-   Miller y Schofield (2003) Activists and Partisan Realignment in the United States 16 pp.
+-   Aldrich (1983) A Downsian Spatial Model with Party Activism 27 pp.
 
 
 # Coordinación electoral
