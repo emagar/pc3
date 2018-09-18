@@ -54,8 +54,8 @@
 -   cap 8 The very bases of reasons: groups, social identities, and political psychology 18 pp.
 -   cap 10 It feels like we're thinking: the rationalizing voter 29 pp.                                <&#x2013;
 
--   Miller y Schofield (2003) Activists and Partisan Realignment in the United States 16 pp.
--   Aldrich (1983) A Downsian Spatial Model with Party Activism 27 pp.
+-   Aldrich (1983) [A Downsian Spatial Model with Party Activism](https://github.com/emagar/pc3/blob/master/lecturas/04italia/aldrichDownsianActivists1983apsr.pdf) 27 pp.
+-   Miller y Schofield (2003) [Activists and Partisan Realignment in the United States](https://github.com/emagar/pc3/blob/master/lecturas/04italia/miller-schofield2003apsr.pdf) 16 pp.
 
 
 # Coordinación electoral
