@@ -60,11 +60,11 @@
 
 # Cuotas de género y acción afirmativa
 
--   Bhavnani (2009) "Do Electoral Quotas Work after They Are Withdrawn? Evidence from a Natural Experiment in India" 13 pp.
+-   Bhavnani (2009) ["Do Electoral Quotas Work after They Are Withdrawn? Evidence from a Natural Experiment in India"](https://github.com/emagar/pc3/blob/master/lecturas/05repFem/bhavnani-quotas-india-withdrawn2009apsr.pdf) 13 pp.
 -   Schwindt-Bayer (2010) Political Power and Women's Representation in Latin America's Legislatures 
-    -   cap. 1 Introduction A theory of women's political representation 37 pp.
-    -   cap. 3 Preferences and priorities 19 pp.
-    -   cap. 4 Making policy 22 pp.
+    -   cap. 1 [Introduction A theory of women's political representation](https://github.com/emagar/pc3/blob/master/lecturas/05repFem/schwindt-bayerBook-Intro-A-Theory-of-W-pol-rep.pdf) 37 pp.
+    -   cap. 3 [Preferences and priorities](https://github.com/emagar/pc3/blob/master/lecturas/05repFem/schwindt-bayerBook-ch3-Preferences-and-priorities.pdf) 19 pp.
+    -   cap. 4 [Making policy](https://github.com/emagar/pc3/blob/master/lecturas/05repFem/schwindt-bayerBook-ch4-Making-policy.pdf) 22 pp.
 
 
 # La conexión electoral

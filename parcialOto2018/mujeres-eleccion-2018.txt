@@ -1,0 +1,61 @@
+              ____________________________________________
+
+               POLÍTICA COMPARADA III --- TRABAJO PARCIAL
+
+                               Eric Magar
+              ____________________________________________
+
+
+                           10 de octubre 2018
+
+
+
+
+
+1 Contexto
+==========
+
+  La elección del 1o de julio pasado produjo un hito histórico: la
+  paridad de mujeres y hombres en las cámaras del Congreso. Analizará
+  los factores que permiten explicarlo. Trabajará en equipo con alguien
+  más del curso (equipos de dos) y entregarán su reporte el jueves 1o de
+  noviembre a la hora de clase. Recomiendo incluir diagramas y cuadros
+  para sintetizar sus hallazgos. Cuiden que la redacción del reporte sea
+  *clara y concisa* --- penalizaré el rollo. ¡MUCHA SUERTE!
+
+
+2 Preguntas
+===========
+
+  1. Evalúe si hay evidencia de un sesgo de género comparando la
+     votación distrital por diputados y por presidente en 2018 para cada
+     partido/coalición. (Use los votos agregados en caso de coalición,
+     de lo contrario use la fracción que le corresponde al partido en
+     cuestión.) Discuta qué debe entenderse por sesgo positivo o
+     negativo y cómo puede medirse.
+
+  2. Hubo paridad en 2018 pero no en 2015. ¿Por qué la misma ley ha dado
+     resultados diferentes?
+
+
+3 Los datos
+===========
+
+  Algunos de los datos que requiere su análisis han sido sistematizados
+  (otros no). Los archivos anexos incluyen los datos siguientes:
+  - votos para diputados de mayoría en 2018 a nivel distrito
+  - votos para presidente en 2018 a nivel distrito
+  - candidatos a diputados federal en cada distrito en 2018
+  - candidatos a diputados federal en cada distrito en 2015 (ojo: los
+    distritos no son comparables con los de 2018, hubo redistritación!)
+
+
+4 Algunas lecturas
+==================
+
+  - Magar E. et al (2017) Components of partisan bias originating from
+    single-member districts in multi-party systems.
+  - Balinski M. y Young P. (2001) /Fair Representation/.
+  - Lijphart A. (1994) /Electoral Systems and Party Systems/:
+    - 4. Disproportionality, Multipartism, and Majority Victories.
+  - Consulte la CPEUM, LGIPE, Ley Partidos.
