@@ -58,20 +58,13 @@
 -   Miller y Schofield (2003) [Activists and Partisan Realignment in the United States](https://github.com/emagar/pc3/blob/master/lecturas/04italia/miller-schofield2003apsr.pdf) 16 pp.
 
 
-# Coordinación electoral
+# Cuotas de género y acción afirmativa
 
--   Duverger (1951) *Los partidos políticos*, 
-    -   cap. 1 El dualismo de los partidos 49 pp.
--   Bogdanor
--   Riker
--   Cox, *Making Votes Count*
-    -   cap. 2 Duverger's propositions 21 pp.
-    -   cap. 3 On electoral systems 32 pp.
-    -   cap. 4 Strategic voting in single-member single-ballot systems 29 pp.
-    -   cap. 5 Strategic voting in multimember systems 24 pp.
-    -   cap. 7 Some concluding comments on strategic voting 10 pp.
-    -   cap. 8 Strategic voting, party labels, and entry  24 pp.
-    -   cap. 9 Rational entry and the conservation of disproportionality: Evidence from Japan 6 pp.
+-   Bhavnani (2009) "Do Electoral Quotas Work after They Are Withdrawn? Evidence from a Natural Experiment in India" 13 pp.
+-   Schwindt-Bayer (2010) Political Power and Women's Representation in Latin America's Legislatures 
+    -   cap. 1 Introduction A theory of women's political representation 37 pp.
+    -   cap. 3 Preferences and priorities 19 pp.
+    -   cap. 4 Making policy 22 pp.
 
 
 # La conexión electoral
@@ -99,14 +92,20 @@
     -   cap. 5 Inherited incumbency advantage 25 pp.
 
 
-# Cuotas de género y acción afirmativa
+# Coordinación electoral
 
--   Bhavnani (2009) "Do Electoral Quotas Work after They Are Withdrawn? Evidence from a Natural Experiment in India" 13 pp.
--   Schwindt-Bayer (2010) Political Power and Women's Representation in Latin America's Legislatures 
-    -   cap. 1 Introduction A theory of women's political representation 37 pp.
-    -   cap. 3 Preferences and priorities 19 pp.
-    -   cap. 4 Making policy 22 pp.
--   Piscopo
+-   Duverger (1951) *Los partidos políticos*, 
+    -   cap. 1 El dualismo de los partidos 49 pp.
+-   Bogdanor
+-   Riker
+-   Cox, *Making Votes Count*
+    -   cap. 2 Duverger's propositions 21 pp.
+    -   cap. 3 On electoral systems 32 pp.
+    -   cap. 4 Strategic voting in single-member single-ballot systems 29 pp.
+    -   cap. 5 Strategic voting in multimember systems 24 pp.
+    -   cap. 7 Some concluding comments on strategic voting 10 pp.
+    -   cap. 8 Strategic voting, party labels, and entry  24 pp.
+    -   cap. 9 Rational entry and the conservation of disproportionality: Evidence from Japan 6 pp.
 
 
 # Los partidos como agentes de gobierno
