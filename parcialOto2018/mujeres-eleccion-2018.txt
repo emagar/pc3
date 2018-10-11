@@ -18,7 +18,7 @@
   La elección del 1o de julio pasado produjo un hito histórico: la
   paridad de mujeres y hombres en las cámaras del Congreso. Analizará
   los factores que permiten explicarlo. Trabajará en equipo con alguien
-  más del curso (equipos de dos) y entregarán su reporte el jueves 1o de
+  más del curso (equipos de dos) y entregarán su reporte el martes 6 de
   noviembre a la hora de clase. Recomiendo incluir diagramas y cuadros
   para sintetizar sus hallazgos. Cuiden que la redacción del reporte sea
   *clara y concisa* --- penalizaré el rollo. ¡MUCHA SUERTE!
@@ -44,6 +44,7 @@
   Algunos de los datos que requiere su análisis han sido sistematizados
   (otros no). Los archivos anexos incluyen los datos siguientes:
   - votos para diputados de mayoría en 2018 a nivel distrito
+  - votos para diputados de mayoría en 2015 a nivel distrito
   - votos para presidente en 2018 a nivel distrito
   - candidatos a diputados federal en cada distrito en 2018
   - candidatos a diputados federal en cada distrito en 2015 (ojo: los
