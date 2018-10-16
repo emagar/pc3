@@ -69,15 +69,15 @@
 
 # La conexión electoral
 
--   Mayhew, Congress: The Electoral Connection (1974), pp. 18-29.
+-   Mayhew, [Congress: The Electoral Connection](https://github.com/emagar/pc3/blob/master/lecturas/06reeleccion/mayhewInMcSullivan.pdf) (1974), pp. 18-29. ([Aquí](https://github.com/emagar/pc3/blob/master/lecturas/06reeleccion/mayhewCongressTheElectoralConnection2004book.pdf) el libro completo.)
 -   Cain, Ferejohn y Fiorina, The personal vote
-    -   Introduction 24 pp.
-    -   cap. 1 Member visibility and member images 23 pp.
-    -   cap. 5 Unravelling a paradox 14 pp.
--   Micozzi (2014) From House to Home: Strategic Bill Drafting with Non-Static Ambition.
+    -   [Introduction](https://github.com/emagar/pc3/blob/master/lecturas/06reeleccion/cainFerejohnFiorinaIntro.pdf) 24 pp.
+    -   cap. 1 [Member visibility and member images](https://github.com/emagar/pc3/blob/master/lecturas/06reeleccion/cainFerejohnFiorina1.pdf) 23 pp.
+    -   cap. 5 [Unravelling a paradox](https://github.com/emagar/pc3/blob/master/lecturas/06reeleccion/cainFerejohnFiorina5.pdf) 14 pp.
 -   Merino, Fierro, Zarkin (2013) [Por qué la reelección sirve y por qué no servirá en México](https://www.animalpolitico.com/blogueros-salir-de-dudas/2013/12/05/por-que-la-reeleccion-sirve-y-por-que-servira-en-mexico/)
 -   Zaller (1998) Politicians as Prize Fighters: Electoral Selection and Incumbency Advantage.
 -   Magar y Moreno (2018) Reelección en Coahuila.
+-   Micozzi (2014) From House to Home: Strategic Bill Drafting with Non-Static Ambition.
 -   Kerevel (2015) Pork-Barreling without Reelection? Evidence from the Mexican Congress
 -   Carson y Engstrom (2005) Assessing the Electoral Connection in the Early United States.
 
