@@ -47,13 +47,13 @@
 
 -   Putnam (1993) *Making Democracy Work*
     -   cap 5 [Tracing the roots of the civic community](https://github.com/emagar/pc3/blob/master/lecturas/04italia/putnam-MakingDemWork-cap5.pdf) 40 pp.
--   Achen y Bartels (2016) Democracy for Realists
-
--   cap 5 [Blind retrospection: electoral responses to droughts, floods, and shark attacks](https://github.com/emagar/pc3/blob/master/lecturas/04italia/achen-bartels-Democ4realists-ch05.pdf) 29 pp.
-
--   cap 8 The very bases of reasons: groups, social identities, and political psychology 18 pp.
--   cap 10 It feels like we're thinking: the rationalizing voter 29 pp.                                <&#x2013;
-
+-   Achen y Bartels (2016) [Democracy for Realists](https://github.com/emagar/pc3/blob/master/lecturas/04italia/achen-bartels2016democracy-for-realists.pdf)
+    -   cap 1 Democratic ideals and realities 20 pp.
+    -   cap 4 A rational God of vengeance and of reward? The logic of retrospective accountability 25 pp.
+    -   cap 5 Blind retrospection: electoral responses to droughts, floods, and shark attacks 29 pp.
+    -   cap 7 A chicken in every pot: ideology and retrospection in the Great Depression 36 pp.
+    -   cap 8 The very bases of reasons: groups, social identities, and political psychology 18 pp.
+    -   cap 10 It feels like we're thinking: the rationalizing voter 29 pp.                                <&#x2013;
 -   Aldrich (1983) [A Downsian Spatial Model with Party Activism](https://github.com/emagar/pc3/blob/master/lecturas/04italia/aldrichDownsianActivists1983apsr.pdf) 27 pp.
 -   Miller y Schofield (2003) [Activists and Partisan Realignment in the United States](https://github.com/emagar/pc3/blob/master/lecturas/04italia/miller-schofield2003apsr.pdf) 16 pp.
 
