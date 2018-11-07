@@ -84,7 +84,7 @@
 
 # Dinastías políticas
 
--   Smith (2017) Dynasties and Democracy
+-   Smith (2017) [Dynasties and Democracy](https://github.com/emagar/pc3/blob/master/lecturas/07dinastias/smithDanDynasticBookManuscript-1-24-2017.pdf)
     -   cap. 1 Introduction 27 pp.
     -   cap. 2 Japan into comparative perspective 20 pp.
     -   cap. 3 Theory of dynastic candidate selection 34 pp.
