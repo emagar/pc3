@@ -90,6 +90,9 @@
     -   cap. 3 Theory of dynastic candidate selection 34 pp.
     -   cap. 4 Selection 50 pp.
     -   cap. 5 Inherited incumbency advantage 25 pp.
+-   Ríos (2018) [El déficit meritocrático](https://github.com/emagar/pc3/blob/master/lecturas/07dinastias/riosDeficitMeritocratico2018.pdf) 70 pp.
+-   Enríquez (2017) [Dinastías políticas municipales](https://github.com/emagar/pc3/blob/master/lecturas/07dinastias/jose-ramon-enriquez-dinastias2017tesis.pdf) 110 pp.
+-   Querubín (2016) [Family and Politics: Dynastic persistence in the Philippines](https://github.com/emagar/pc3/blob/master/lecturas/07dinastias/querubin2016qjps.pdf) 30 pp.
 
 
 # Coordinación electoral
