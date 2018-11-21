@@ -95,6 +95,17 @@
 -   Querubín (2016) [Family and Politics: Dynastic persistence in the Philippines](https://github.com/emagar/pc3/blob/master/lecturas/07dinastias/querubin2016qjps.pdf) 30 pp.
 
 
+# Redistritación
+
+-   Handley y Grofman (2008) [*Redistricting in Comparative Perspective*](https://github.com/emagar/pc3/blob/master/lecturas/08redistritacion/grofmanHandleyRedistrictingCompPersBook.pdf)
+    -   cap. 3 Lujambio y Vives "From politics to technicalities: Mexican redistricting" 12 pp.
+    -   cap. 4 McDonald "United States redistricting: comparative look at the 50 states" 18 pp.
+-   Cox y Katz (2002) [*Elbridge Gerry's Salamander*](https://github.com/emagar/pc3/blob/master/lecturas/08redistritacion/cox.katzEgerrySalamander2002book.pdf)
+-   Johnston, Pattie y Rossiter (2008) "Electoral distortion despite redistricting by independent commissions" 20 pp.
+-   Magar et al polGeo
+-   Engstrom Partisan gerrymandering
+
+
 # Coordinación electoral
 
 -   Duverger (1951) *Los partidos políticos*, 
@@ -124,15 +135,6 @@
 -   Cox y Magar (1999) "How Much is Majority Status in US Congress Worth?" 12 pp.
 -   DenHartog and Monroe (2010) Parties in the Senate.
 -   Jones y Hwang (2005) "Party Government in Presidential Democracies: Extending Cartel Theory beyond the U.S. Congress" 16 pp.
-
-
-# Redistritación
-
--   Lujambio y Vives (2008) "From politics to technicalities: Mexican redistricting" 12 pp.
--   McDonald (2008) "United States redistricting: comparative look at the 50 states" 18 pp.
--   Johnston, Pattie y Rossiter (2008) "Electoral distortion despite redistricting by independent commissions" 20 pp.
--   Magar et al polGeo
--   Engstrom Partisan gerrymandering
 
 
 # El mercado de los votos
