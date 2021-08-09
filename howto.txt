@@ -16,3 +16,7 @@ git rm -rf file-to-drop
 git commit
 
 There is a hook that pushes subset to 'public_repo' remote whenever master is committed. 
+
+It can be done manually thus:
+
+git push public_repo github:master  # ie. push github to public_repo/master
