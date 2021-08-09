@@ -5,13 +5,13 @@ branches: master - all files
 
 Add files to subset:
 
-git checkout publish
+git checkout github
 git checkout master file-name
 git commit
 
 Drop files from subset:
 
-git checkout publish
+git checkout github
 git rm -rf file-to-drop
 git commit
 

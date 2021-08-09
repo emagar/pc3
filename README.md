@@ -1,36 +1,84 @@
-*Objetivo*: Este es último curso de la serie de política comparada del programa de ciencia política. El primero cubrió las explicaciones estructurales de la política y el segundo las institucionales. El hilo conductor del tercer curso será la representación democrática en perspectiva comparada. Haremos hincapié en varios de los procesos de la representación, como la distinción de los aspectos sustanciales y simbólicos, el papel de las elecciones periódicas y la ambición política, el factor que juegan las reglas electorales y los partidos.
+ITAM Depto. de ciencia política, otoño 2021
 
-*Horas de oficina*: Martes y jueves de 17:30 a 18:30, o con cita.  
+**Política Comparada III**
 
-*Evaluación*: Habrá un examen parcial y otro final. En su momento anunciaré el formato. A priori, cada uno contará 40% de la calificación final y el 20% restante valorará la participación en clase y la impresión general que deje en su profesor.  
+Profesor: Eric Magar Meurs ([emagar@itam.mx](mailto:emagar@itam.mx))
 
-*Notas*: (1) La página del curso es <https://github.com/emagar/pc3/>. Alberga este temario, las lecturas y materiales diversos. (2) El temario sufrirá modificaciones marginales en el transcurso del semestre para quitar, añadir o cambiar la secuencia de algunos temas. Anunciaré esto en clase.
+Lunes y miércoles 11:30&#x2013;13:00, salón B-5 (RH)
 
-*No habrá clases*
+*Objetivo*: El curso cierra la serie de política comparada del programa de ciencia política. El hilo conductor del tercer curso será la representación política. Repasaremos la estructura y procesos de la representación, la distinción de sus aspectos sustanciales y simbólicos, el papel de las elecciones periódicas y la ambición política, así como el papel que juegan las reglas electorales y los partidos. Haremos hincapié en la conexión fundamental entre la teoría y la evidencia que la sustenta.
 
--   2018-10-30 mar y 2018-11-02 jue (Muertos)
+*Horas de oficina*: Serán únicamente con cita para evitar hacinamientos, y podrán ser en mi oficina o vía zoom.
 
-Última clase
+*Clases presenciales*: Este curso migra a la modalidad híbrida en la **etapa 2** el 30 de agosto. Esto podría cambiar según evolucionen las condiciones y los lineamientos de vicerrectoría. 
 
--   2018-12-06
+*Evaluación*: Habrá un trabajo final que contará 80% de su calificación final. El 20% restante valorará la participación en clase y la impresión general que deje en su profesor.  
+
+*Notas*: (1) La página del curso es <https://github.com/emagar/pc3/>. Alberga este temario, las lecturas y materiales diversos. (2) El temario sufrirá modificaciones marginales en el transcurso del semestre para quitar, añadir o cambiar la secuencia de algunos temas. Anunciaré esto en clase y se verá reflejado en el temario.
+
+*Días de asueto*: 2021-11-01 (muertos) y 2021-11-15 (Aniv. de la Rev.?)
+
+*No habrá clases*: 2021-10-25 ni el 2021-10-27
+
+*Última clase*
+
+-   2021-12-01
 
 ---
 
 
-# Causalidad y método comparativo
-
--   Holland (1986) ["Statistics and causal inference"](https://github.com/emagar/pc3/blob/master/lecturas/01causalidad/hollandCausalInference1986jasa.pdf) 16 pp.
--   [Scientific Method (2015) Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/scientific-method/#SciMetSciEduSeeSci)
--   Lijphart (1971) ["Comparative politics and the comparative method"](https://github.com/emagar/pc3/blob/master/lecturas/01causalidad/lijphartCompPol1971apsr.pdf) (opcional) 12 pp.
+# Tres escuelas de política comparada (semana 1)
 
 
-# Representación política
+# Prueba de hipótesis y regresión lineal, un repaso (semanas 1 y 2)
+
+-   Shively (1974) *The Craft of Political Research*, 
+    -   cap. 7 ["Introduction to statistics: measuring relationships for interval data"](https://github.com/emagar/pc3/blob/master/lecturas/shivelyRegression.pdf) 22 pp.
+
+Articule la hipótesis principal de cada uno de los siguientes trabajos, por qué importa teóricamente y resuma la evidencia que aportan los modelos de regresión:
+
+-   Garfias (2018) ["Elite competition and State capacity development: Theory and evidence from post-Revolutionary Mexico"](https://github.com/emagar/pc3/blob/master/lecturas/garfias-state-developmnebt2018apsr.pdf) 19 pp.
+-   Magar (2021) ["Mexico: Parties and Floor Access in the Cámara de Diputados"](https://github.com/emagar/pc3/blob/master/lecturas/magar-Speech-camara-Mx-2021oup.pdf) 27 pp.
+-   Franco et al. (2021) ["Long-term effects of the Inca road"](https://github.com/emagar/pc3/blob/master/lecturas/franco-etal-Inca-road2021.pdf) 30 pp.
+
+
+# Representación política (semana 3)
 
 -   Pitkin (2004) ["Representation and Democracy: Uneasy Alliance"](https://github.com/emagar/pc3/blob/master/lecturas/02representacion/pitkin2004representationAndDemocUneasyAlliance.pdf) 8 pp.
 -   Urbinati (2000) ["Representation as Advocacy"](https://github.com/emagar/pc3/blob/master/lecturas/02representacion/urbinati2000representationAsAdvocacy) 22 pp.
 
 
-# La delegación: piedra nodal del gobierno
+# La conexión electoral (semanas 4 a 6)
+
+-   Mayhew, [Congress: The Electoral Connection](https://github.com/emagar/pc3/blob/master/lecturas/06reeleccion/mayhewInMcSullivan.pdf) (1974), pp. 18-29. ([Aquí](https://github.com/emagar/pc3/blob/master/lecturas/06reeleccion/mayhewCongressTheElectoralConnection2004book.pdf) el libro completo.)
+-   Jacobson (1985) Money and votes reconsidered, Congressional elections 57 pp.
+-   Incumbency advantage review
+-   Cain, Ferejohn y Fiorina, The personal vote
+    -   [Introduction](https://github.com/emagar/pc3/blob/master/lecturas/06reeleccion/cainFerejohnFiorinaIntro.pdf) 24 pp.
+    -   cap. 1 [Member visibility and member images](https://github.com/emagar/pc3/blob/master/lecturas/06reeleccion/cainFerejohnFiorina1.pdf) 23 pp.
+    -   cap. 5 [Unravelling a paradox](https://github.com/emagar/pc3/blob/master/lecturas/06reeleccion/cainFerejohnFiorina5.pdf) 14 pp.
+-   Merino, Fierro, Zarkin (2013) [Por qué la reelección sirve y por qué no servirá en México](https://www.animalpolitico.com/blogueros-salir-de-dudas/2013/12/05/por-que-la-reeleccion-sirve-y-por-que-servira-en-mexico/)
+-   Zaller (1998) Politicians as Prize Fighters: Electoral Selection and Incumbency Advantage.
+-   Magar y Moreno (2018) Reelección en Coahuila.
+-   Micozzi (2014) From House to Home: Strategic Bill Drafting with Non-Static Ambition.
+-   Kerevel (2015) Pork-Barreling without Reelection? Evidence from the Mexican Congress
+-   Carson y Engstrom (2005) Assessing the Electoral Connection in the Early United States.
+
+
+# Dinastías políticas (semana 7)
+
+-   Smith (2017) [Dynasties and Democracy](https://github.com/emagar/pc3/blob/master/lecturas/07dinastias/smithDanDynasticBookManuscript-1-24-2017.pdf)
+    -   cap. 1 Introduction 27 pp.
+    -   cap. 2 Japan into comparative perspective 20 pp.
+    -   cap. 3 Theory of dynastic candidate selection 34 pp.
+    -   cap. 4 Selection 50 pp.
+    -   cap. 5 Inherited incumbency advantage 25 pp.
+-   Ríos (2018) [El déficit meritocrático](https://github.com/emagar/pc3/blob/master/lecturas/07dinastias/riosDeficitMeritocratico2018.pdf) 70 pp.
+-   Enríquez (2017) [Dinastías políticas municipales](https://github.com/emagar/pc3/blob/master/lecturas/07dinastias/jose-ramon-enriquez-dinastias2017tesis.pdf) 110 pp.
+-   Querubín (2016) [Family and Politics: Dynastic persistence in the Philippines](https://github.com/emagar/pc3/blob/master/lecturas/07dinastias/querubin2016qjps.pdf) 30 pp.
+
+
+# La delegación: piedra nodal del gobierno (semanas 8 y 9)
 
 -   Kiewiet y McCubbins (1991) *The Logic of Delegation*,
     -   cap. 2 ["Delegation and agency problems"](https://github.com/emagar/pc3/blob/master/lecturas/03delegacion/kiewiet.mccubbinsLogicDelegationCap2.pdf) 17 pp.
@@ -38,8 +86,29 @@
 -   Raustiala (2004) ["Police patrols and fire alarms in the NAAEC"](https://github.com/emagar/pc3/blob/master/lecturas/03delegacion/raustialaFireAlarmsNAFTA2004.pdf) 25 pp.
 
 
-# Revueltas electorales: Italia
+# Los partidos como agentes de gobierno (semanas 10 y 11)
 
+-   Cox (1987) The Efficient Secret.
+-   Krehbiel (1993) "Where's the party"
+-   Cox y McCubbins (1993) Legislative Leviathan, 
+    -   Introduction, 15 pp.
+    -   cap. 3 "Subgovernments and the representativeness of committees" 21 pp.
+    -   cap. 5 "A theory of legislative parties" 30 pp.
+    -   cap. 8 "Contingents and parties" 42 pp.
+-   Cox y Magar (1999) "How Much is Majority Status in US Congress Worth?" 12 pp.
+-   DenHartog and Monroe (2010) Parties in the Senate.
+-   Jones y Hwang (2005) "Party Government in Presidential Democracies: Extending Cartel Theory beyond the U.S. Congress" 16 pp.
+
+
+# Luminosidad (semana 12)
+
+-   Chen y Nordhaus (2011) "Using luminosity data as a proxy for economic statistics" 6 pp.
+-   Mis datos
+
+
+# Revueltas electorales: Italia (semanas 13 y 14)
+
+-   Rhodes-Purdy et al. (2021) ["Populist psychology: econimics, culture, and emotions"](https://github.com/emagar/pc3/blob/master/lecturas/rhodes-purdy-etal-Populist-Psychology-2021jop.pdf) 30 pp. (excluya el largo apéndice).
 -   Nanetti y Leonardi (2015) en Hancock *Politics in Europe* 
     -   cap 4.1 [The context of Italian politics](https://github.com/emagar/pc3/blob/master/lecturas/04italia/nanetti-leonardi4.1TheContextOfItalianPolitics.pdf) 21 pp.
     -   cap 4.2 [Where is the power?](https://github.com/emagar/pc3/blob/master/lecturas/04italia/nanetti-leonardi4.2WhereIsThePower.pdf) 22 pp.
@@ -58,44 +127,7 @@
 -   Miller y Schofield (2003) [Activists and Partisan Realignment in the United States](https://github.com/emagar/pc3/blob/master/lecturas/04italia/miller-schofield2003apsr.pdf) 16 pp.
 
 
-# Cuotas de género y acción afirmativa
-
--   Bhavnani (2009) ["Do Electoral Quotas Work after They Are Withdrawn? Evidence from a Natural Experiment in India"](https://github.com/emagar/pc3/blob/master/lecturas/05repFem/bhavnani-quotas-india-withdrawn2009apsr.pdf) 13 pp.
--   Schwindt-Bayer (2010) Political Power and Women's Representation in Latin America's Legislatures 
-    -   cap. 1 [Introduction A theory of women's political representation](https://github.com/emagar/pc3/blob/master/lecturas/05repFem/schwindt-bayerBook-Intro-A-Theory-of-W-pol-rep.pdf) 37 pp.
-    -   cap. 3 [Preferences and priorities](https://github.com/emagar/pc3/blob/master/lecturas/05repFem/schwindt-bayerBook-ch3-Preferences-and-priorities.pdf) 19 pp.
-    -   cap. 4 [Making policy](https://github.com/emagar/pc3/blob/master/lecturas/05repFem/schwindt-bayerBook-ch4-Making-policy.pdf) 22 pp.
-
-
-# La conexión electoral
-
--   Mayhew, [Congress: The Electoral Connection](https://github.com/emagar/pc3/blob/master/lecturas/06reeleccion/mayhewInMcSullivan.pdf) (1974), pp. 18-29. ([Aquí](https://github.com/emagar/pc3/blob/master/lecturas/06reeleccion/mayhewCongressTheElectoralConnection2004book.pdf) el libro completo.)
--   Cain, Ferejohn y Fiorina, The personal vote
-    -   [Introduction](https://github.com/emagar/pc3/blob/master/lecturas/06reeleccion/cainFerejohnFiorinaIntro.pdf) 24 pp.
-    -   cap. 1 [Member visibility and member images](https://github.com/emagar/pc3/blob/master/lecturas/06reeleccion/cainFerejohnFiorina1.pdf) 23 pp.
-    -   cap. 5 [Unravelling a paradox](https://github.com/emagar/pc3/blob/master/lecturas/06reeleccion/cainFerejohnFiorina5.pdf) 14 pp.
--   Merino, Fierro, Zarkin (2013) [Por qué la reelección sirve y por qué no servirá en México](https://www.animalpolitico.com/blogueros-salir-de-dudas/2013/12/05/por-que-la-reeleccion-sirve-y-por-que-servira-en-mexico/)
--   Zaller (1998) Politicians as Prize Fighters: Electoral Selection and Incumbency Advantage.
--   Magar y Moreno (2018) Reelección en Coahuila.
--   Micozzi (2014) From House to Home: Strategic Bill Drafting with Non-Static Ambition.
--   Kerevel (2015) Pork-Barreling without Reelection? Evidence from the Mexican Congress
--   Carson y Engstrom (2005) Assessing the Electoral Connection in the Early United States.
-
-
-# Dinastías políticas
-
--   Smith (2017) [Dynasties and Democracy](https://github.com/emagar/pc3/blob/master/lecturas/07dinastias/smithDanDynasticBookManuscript-1-24-2017.pdf)
-    -   cap. 1 Introduction 27 pp.
-    -   cap. 2 Japan into comparative perspective 20 pp.
-    -   cap. 3 Theory of dynastic candidate selection 34 pp.
-    -   cap. 4 Selection 50 pp.
-    -   cap. 5 Inherited incumbency advantage 25 pp.
--   Ríos (2018) [El déficit meritocrático](https://github.com/emagar/pc3/blob/master/lecturas/07dinastias/riosDeficitMeritocratico2018.pdf) 70 pp.
--   Enríquez (2017) [Dinastías políticas municipales](https://github.com/emagar/pc3/blob/master/lecturas/07dinastias/jose-ramon-enriquez-dinastias2017tesis.pdf) 110 pp.
--   Querubín (2016) [Family and Politics: Dynastic persistence in the Philippines](https://github.com/emagar/pc3/blob/master/lecturas/07dinastias/querubin2016qjps.pdf) 30 pp.
-
-
-# Redistritación
+# La redistritación (semanas 15 y 16)
 
 -   Handley y Grofman (2008) [*Redistricting in Comparative Perspective*](https://github.com/emagar/pc3/blob/master/lecturas/08redistritacion/grofmanHandleyRedistrictingCompPersBook.pdf)
     -   cap. 3 Lujambio y Vives "From politics to technicalities: Mexican redistricting" 12 pp.
@@ -106,79 +138,39 @@
 -   Engstrom Partisan gerrymandering
 
 
-# Coordinación electoral
+# CSES papers
 
--   Duverger (1951) *Los partidos políticos*, 
-    -   cap. 1 El dualismo de los partidos 49 pp.
--   Bogdanor
--   Riker
--   Cox, *Making Votes Count*
-    -   cap. 2 Duverger's propositions 21 pp.
-    -   cap. 3 On electoral systems 32 pp.
-    -   cap. 4 Strategic voting in single-member single-ballot systems 29 pp.
-    -   cap. 5 Strategic voting in multimember systems 24 pp.
-    -   cap. 7 Some concluding comments on strategic voting 10 pp.
-    -   cap. 8 Strategic voting, party labels, and entry  24 pp.
-    -   cap. 9 Rational entry and the conservation of disproportionality: Evidence from Japan 6 pp.
+Kernell, G. (2010). A Tale of Two Constituencies: How Party Decentralization and Preference Voting Force (Some) Candidates to Balance between Party Members and the General Electorate. Northwestern University. Retrieved from <https://netfiles.uiuc.edu/msvolik/www/workshop/Fall2010/kernell_taleoftwo.pdf>
 
+Kernell, G. (2013, June 2013). How Party Experience and Consistency Shapes Partisanship and Vote Choice. [Draft, do not cite without permission]. IPR Working Paper Series, (WP-13-14). Institute for Policy Research Northwestern University.
 
-# Los partidos como agentes de gobierno
+Huber, J. D. (2010). Measuring ethnic voting: Does proportional representation politicize ethnicity? Working Paper. Columbia University. New York. Retrieved from <http://www.columbia.edu/~jdh39/Site/Research.html>
 
--   Cox (1987) *The Efficient Secret*.
--   Krehbiel (1993) "Where's the party"
--   Cox y McCubbins (1993) *Legislative Leviathan*, 
-    -   Introduction, 15 pp.
-    -   cap. 3 "Subgovernments and the representativeness of committees" 21 pp.
-    -   cap. 5 "A theory of legislative parties" 30 pp.
-    -   cap. 8 "Contingents and parties" 42 pp.
--   Cox y McCubbins (1995) "Bonding, structure, and the stability of parties" 17 pp.
--   Cox y Magar (1999) "How Much is Majority Status in US Congress Worth?" 12 pp.
--   DenHartog and Monroe (2010) Parties in the Senate.
--   Jones y Hwang (2005) "Party Government in Presidential Democracies: Extending Cartel Theory beyond the U.S. Congress" 16 pp.
+Huber, J. D., & Stanig, P. (2009). Individual income and voting for redistribution across democracies. Working paper. Columbia University. New York. Retrieved from <http://www.columbia.edu/~jdh39/Site/Research.html>
 
+Gschwend, T. (2004). Comparative Politics of Strategic Voting: A Hierarchy of Electoral Systems. SFB 504 Discussion Paper 04-41. Universität Mannheim, Mannheim.
 
-# El mercado de los votos
+Lupu, N. (2013). Elite Polarization and Voter Partisanship: A Comparative Perspective.
 
--   Díaz Cayeros, Estévez y Magaloni (2009) "The Political Manipulation of Pronasol Transfers" 33 pp.
--   Cox y McCubbins (1986) "Electoral politics as a redistributive game" 20 pp.
--   Cox (2010) "Swing voters, core voters, and distributive politics" 23 pp.
--   Nichter (2008) "Vote Buying or Turnout Buying? Machine Politics and the Secret Ballot". American Political Science Review, 102(1):19–31, 2008
+Potter, J. D. (2013). Within-District and Cross-District Latent Diversity And their Impacts on Party System Size.
 
+Simpser, A. (2004). Making Votes Not Count: Strategic Incentives for Electoral Corruption. Working Paper. Stanford University.
 
-# La teoría de la empresa
+Aldrich, J., Mehling, K. R., & Renberg, K. M. (2019). Of Time and Partisan Stability in Former Soviet States. Paper presented at the Annual Meeting of the American Political Science Association (APSA), Washington DC.
 
--   Smith, The Wealth of Nations (extractos), pp. 33-43.
--   Coase, "The Nature of the Firm," pp. 72-85.
--   Alchian y Demsetz, "Production, Information Costs, and Economic Organization," pp. 111-134.
--   Fama, "Agency Problems and the Theory of the Firm," pp. 196-208.
+Aldrich, J. H., Dorobantu, S., & Fernández, M. A. (2010). The Use of the Left-Right Scale in Individual’s Voting Decisions. Paper presented at the Annual Meeting of the American Political Science Association, Washington D.C.
 
+Aldrich, J. H., Fernandez, M., Ley, S. J., & Schober, G. (2013). Uncertainty or Ambiguity? Sources of Variation in Ideological Placements of Political Parties. Paper presented at the Annual Meeting of the American Political Science Association, Chicago.
 
-# Negociación en el Congreso estadounidense
+Aldrich, J. H., Gibson, R. K., Cantijoch, M., & Malgalhaes, P. (2014). Offline and Online Political Mobilization: Prevalence and Consequences on Electoral Participation. Paper presented at the Annual Meeting of the American Political Science Association, Washington, DC.
 
--   Shepsle y Weingast, "Institutional foundations of committee power" (1987) 20 pp.
--   Weingast y Marshall, "The industrial organization of Congress; or why legislatures, like firms, are not organized as markets" (1988), 31 pp.
--   Shepsle y Weingast, "Positive Theories of Congressional Institutions," pp. 5-36.
--   Hammond y Miller (1987) "The core of the constitution"
--   Baron y Ferejohn (1989) "Bargaining in legislatures" 26 pp.
--   Fiorina, "The Decline of Collective Responsibility in American Politics," pp. 25-44.
+Aldrich, J. H., Gibson, R. K., & Magalhaes, P. C. (2019). Political Parties & New Modes of Mobilization in Comparative Perspective. Paper presented at the Annual Meeting of the American Political Science Association (APSA), Washington DC.
 
+Aldrich, J. H., & Lerner, J. Y. (2016). Institutional Influences on Behavior and Selection Effects. Paper presented at the American Political Science Association (APSA), Philadephia, PA.
 
-# Proceso legislativo
+Beltrán, U. (2006, April 20-23,). Contextual Effects on the Individual Rationality: Economic Conditions and Vote. Paper presented at the 64th Annual Meeting of the Midwest Political Science Association, Chicago, IL.
 
--   Power et al Brasil.
--   Magar, Urgencia en Chile
--   Magar, Urgencia en Brasil
--   Cox y Morgenstern, Proactive reactive
--   Magar y Moraes (2008) "Facciones y legislación en Uruguay".
--   Palanza y Sin, veto.
+Carroll, R. A., & Kubo, H. (2016). Dimensionality, Contexts, and Ideological Congruence between Parties and Voters. Paper presented at the American Political Science Association (APSA), Philadelphia, PA.
 
-
-# Decretos
-
--   O'Donnell Delegative Democracy
--   Carey y Shugart
--   Amorim Neto en Brasil
-
-
-# Algo más?
+Huber, J., Kernell, G., & Leoni, E. (2003, April 3-6, ). The Institutional Origins of Party Identification. Paper presented at the 61st Annual Meeting of the Midwest Political Science Association, Chicago, IL.
 
