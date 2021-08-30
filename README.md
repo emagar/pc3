@@ -45,18 +45,18 @@ Articule la hipótesis principal de cada uno de los siguientes trabajos, por qu�
 # Representación política (semana 3)
 
 -   Pitkin (2004) ["Representation and Democracy: Uneasy Alliance"](https://github.com/emagar/pc3/blob/master/lecturas/02representacion/pitkin2004representationAndDemocUneasyAlliance.pdf) 8 pp.
--   Urbinati (2000) ["Representation as Advocacy"](https://github.com/emagar/pc3/blob/master/lecturas/02representacion/urbinati2000representationAsAdvocacy) 22 pp.
+-   Urbinati (2000) ["Representation as Advocacy"](https://github.com/emagar/pc3/blob/master/lecturas/02representacion/urbinati2000representationAsAdvocacy.pdf) 22 pp.
 
 
 # La conexión electoral (semanas 4 a 6)
 
 -   Mayhew, [Congress: The Electoral Connection](https://github.com/emagar/pc3/blob/master/lecturas/06reeleccion/mayhewInMcSullivan.pdf) (1974), pp. 18-29. ([Aquí](https://github.com/emagar/pc3/blob/master/lecturas/06reeleccion/mayhewCongressTheElectoralConnection2004book.pdf) el libro completo.)
--   Jacobson (1985) Money and votes reconsidered, Congressional elections 57 pp.
--   Incumbency advantage review
 -   Cain, Ferejohn y Fiorina, The personal vote
     -   [Introduction](https://github.com/emagar/pc3/blob/master/lecturas/06reeleccion/cainFerejohnFiorinaIntro.pdf) 24 pp.
     -   cap. 1 [Member visibility and member images](https://github.com/emagar/pc3/blob/master/lecturas/06reeleccion/cainFerejohnFiorina1.pdf) 23 pp.
     -   cap. 5 [Unravelling a paradox](https://github.com/emagar/pc3/blob/master/lecturas/06reeleccion/cainFerejohnFiorina5.pdf) 14 pp.
+-   Jacobson (1985) Money and votes reconsidered, Congressional elections 57 pp.
+-   Incumbency advantage review
 -   Merino, Fierro, Zarkin (2013) [Por qué la reelección sirve y por qué no servirá en México](https://www.animalpolitico.com/blogueros-salir-de-dudas/2013/12/05/por-que-la-reeleccion-sirve-y-por-que-servira-en-mexico/)
 -   Zaller (1998) Politicians as Prize Fighters: Electoral Selection and Incumbency Advantage.
 -   Magar y Moreno (2018) Reelección en Coahuila.
