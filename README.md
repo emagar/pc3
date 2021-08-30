@@ -10,7 +10,7 @@ Lunes y miércoles 11:30&#x2013;13:00, salón B-5 (RH)
 
 *Horas de oficina*: Serán únicamente con cita para evitar hacinamientos, y podrán ser en mi oficina o vía zoom.
 
-*Clases presenciales*: Este curso migra a la modalidad híbrida en la **etapa 2** el 30 de agosto. Esto podría cambiar según evolucionen las condiciones y los lineamientos de vicerrectoría. 
+*Clases presenciales*: Este curso migra a la modalidad híbrida en la **etapa 2** el 30 de agosto. Esto podría cambiar según evolucionen las condiciones y los [lineamientos de vicerrectoría](https://www.itam.mx/es/conoce-las-medidas-para-el-inicio-de-las-actividades-semipresenciales-en-el-itam). 
 
 *Evaluación*: Habrá un trabajo final que contará 80% de su calificación final. El 20% restante valorará la participación en clase y la impresión general que deje en su profesor.  
 
