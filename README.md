@@ -56,7 +56,8 @@ Articule la hipótesis principal de cada uno de los siguientes trabajos, por qu�
     -   cap. 1 [Member visibility and member images](https://github.com/emagar/pc3/blob/master/lecturas/06reeleccion/cainFerejohnFiorina1.pdf) 23 pp.
     -   cap. 5 [Unravelling a paradox](https://github.com/emagar/pc3/blob/master/lecturas/06reeleccion/cainFerejohnFiorina5.pdf) 14 pp.
 -   Jacobson (1985) Money and votes reconsidered, Congressional elections 57 pp.
--   Incumbency advantage review
+-   Carson et al. (2020) [Nationalization and the Incumbency Advantage](https://github.com/emagar/pc3/blob/master/lecturas/06reeleccion/carson-etal-Incumb-advantage-2020prq.pdf) 13 pp.
+-   Cox y Katz (2002) [Elbridge Gerry's Salamander](https://github.com/emagar/pc3/blob/master/lecturas/06reeleccion/cox.katzEgerrySalamander2002book.pdf), caps. 8 y 9, 34 pp.
 -   Merino, Fierro, Zarkin (2013) [Por qué la reelección sirve y por qué no servirá en México](https://www.animalpolitico.com/blogueros-salir-de-dudas/2013/12/05/por-que-la-reeleccion-sirve-y-por-que-servira-en-mexico/)
 -   Zaller (1998) Politicians as Prize Fighters: Electoral Selection and Incumbency Advantage.
 -   Magar y Moreno (2018) Reelección en Coahuila.
