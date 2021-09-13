@@ -104,6 +104,8 @@ Articule la hip√≥tesis principal de cada uno de los siguientes trabajos, por qu√
 # Luminosidad (semana 12)
 
 -   Chen y Nordhaus (2011) "Using luminosity data as a proxy for economic statistics" 6 pp.
+-   Livny (2021) ["Can religiosity be sensed with satellite data?"](https://academic.oup.com/poq/advance-article-abstract/doi/10.1093/poq/nfab013/6361037?redirectedFrom=fulltext)
+-   Goettsch et al. (2021) [Extinction risk of Mesoamerican crop wild relatives](https://nph.onlinelibrary.wiley.com/doi/full/10.1002/ppp3.10225)
 -   Mis datos
 
 
