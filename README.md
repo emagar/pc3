@@ -55,15 +55,12 @@ Articule la hipótesis principal de cada uno de los siguientes trabajos, por qu�
     -   [Introduction](https://github.com/emagar/pc3/blob/master/lecturas/06reeleccion/cainFerejohnFiorinaIntro.pdf) 24 pp.
     -   cap. 1 [Member visibility and member images](https://github.com/emagar/pc3/blob/master/lecturas/06reeleccion/cainFerejohnFiorina1.pdf) 23 pp.
     -   cap. 5 [Unravelling a paradox](https://github.com/emagar/pc3/blob/master/lecturas/06reeleccion/cainFerejohnFiorina5.pdf) 14 pp.
--   Jacobson (1985) Money and votes reconsidered, Congressional elections 57 pp.
 -   Carson et al. (2020) [Nationalization and the Incumbency Advantage](https://github.com/emagar/pc3/blob/master/lecturas/06reeleccion/carson-etal-Incumb-advantage-2020prq.pdf) 13 pp.
+-   Merino, Fierro, Zarkin (2013) [Por qué la reelección sirve y por qué no servirá en México](https://www.animalpolitico.com/blogueros-salir-de-dudas/2013/12/05/por-que-la-reeleccion-sirve-y-por-que-servira-en-mexico/).
+-   Zaller (1998) [Politicians as Prize Fighters: Electoral Selection and Incumbency Advantage](https://github.com/emagar/pc3/blob/master/lecturas/06reeleccion/zallerPrizeFighters1998.pdf).
+-   Motolinia (2020) [Electoral Accountability and Particularistic Legislation: Evidence from an Electoral Reform in Mexico](https://github.com/emagar/pc3/blob/master/lecturas/06reeleccion/motolinia2020particularistic.pdf).
+-   Jacobson (1985) Money and votes reconsidered, Congressional elections 57 pp.
 -   Cox y Katz (2002) [Elbridge Gerry's Salamander](https://github.com/emagar/pc3/blob/master/lecturas/06reeleccion/cox.katzEgerrySalamander2002book.pdf), caps. 8 y 9, 34 pp.
--   Merino, Fierro, Zarkin (2013) [Por qué la reelección sirve y por qué no servirá en México](https://www.animalpolitico.com/blogueros-salir-de-dudas/2013/12/05/por-que-la-reeleccion-sirve-y-por-que-servira-en-mexico/)
--   Zaller (1998) Politicians as Prize Fighters: Electoral Selection and Incumbency Advantage.
--   Magar y Moreno (2018) Reelección en Coahuila.
--   Micozzi (2014) From House to Home: Strategic Bill Drafting with Non-Static Ambition.
--   Kerevel (2015) Pork-Barreling without Reelection? Evidence from the Mexican Congress
--   Carson y Engstrom (2005) Assessing the Electoral Connection in the Early United States.
 
 
 # Dinastías políticas (semana 7)
