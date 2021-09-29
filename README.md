@@ -39,7 +39,6 @@ Articule la hipótesis principal de cada uno de los siguientes trabajos, por qu�
 
 -   Garfias (2018) ["Elite competition and State capacity development: Theory and evidence from post-Revolutionary Mexico"](https://github.com/emagar/pc3/blob/master/lecturas/garfias-state-developmnebt2018apsr.pdf) 19 pp.
 -   Magar (2021) ["Mexico: Parties and Floor Access in the Cámara de Diputados"](https://github.com/emagar/pc3/blob/master/lecturas/magar-Speech-camara-Mx-2021oup.pdf) 27 pp.
--   Franco et al. (2021) ["Long-term effects of the Inca road"](https://github.com/emagar/pc3/blob/master/lecturas/franco-etal-Inca-road2021.pdf) 30 pp.
 
 
 # Representación política (semana 3)
@@ -77,7 +76,17 @@ Articule la hipótesis principal de cada uno de los siguientes trabajos, por qu�
 -   Querubín (2016) [Family and Politics: Dynastic persistence in the Philippines](https://github.com/emagar/pc3/blob/master/lecturas/07dinastias/querubin2016qjps.pdf) 30 pp.
 
 
-# La delegación: piedra nodal del gobierno (semanas 8 y 9)
+# Luminosidad (semana 8)
+
+-   Chen y Nordhaus (2011) "Using luminosity data as a proxy for economic statistics" 6 pp.
+-   Livny (2021) ["Can religiosity be sensed with satellite data?"](https://academic.oup.com/poq/advance-article-abstract/doi/10.1093/poq/nfab013/6361037?redirectedFrom=fulltext)
+-   Goettsch et al. (2021) [Extinction risk of Mesoamerican crop wild relatives](https://nph.onlinelibrary.wiley.com/doi/full/10.1002/ppp3.10225)
+-   Franco et al. (2021) ["Long-term effects of the Inca road"](https://github.com/emagar/pc3/blob/master/lecturas/franco-etal-Inca-road2021.pdf) 30 pp.
+
+-   Mis datos
+
+
+# La delegación: piedra nodal del gobierno (semanas 9 y 10)
 
 -   Kiewiet y McCubbins (1991) *The Logic of Delegation*,
     -   cap. 2 ["Delegation and agency problems"](https://github.com/emagar/pc3/blob/master/lecturas/03delegacion/kiewiet.mccubbinsLogicDelegationCap2.pdf) 17 pp.
@@ -85,7 +94,7 @@ Articule la hipótesis principal de cada uno de los siguientes trabajos, por qu�
 -   Raustiala (2004) ["Police patrols and fire alarms in the NAAEC"](https://github.com/emagar/pc3/blob/master/lecturas/03delegacion/raustialaFireAlarmsNAFTA2004.pdf) 25 pp.
 
 
-# Los partidos como agentes de gobierno (semanas 10 y 11)
+# Los partidos como agentes de gobierno (semanas 11 y 12)
 
 -   Cox (1987) The Efficient Secret.
 -   Krehbiel (1993) "Where's the party"
@@ -99,17 +108,9 @@ Articule la hipótesis principal de cada uno de los siguientes trabajos, por qu�
 -   Jones y Hwang (2005) "Party Government in Presidential Democracies: Extending Cartel Theory beyond the U.S. Congress" 16 pp.
 
 
-# Luminosidad (semana 12)
-
--   Chen y Nordhaus (2011) "Using luminosity data as a proxy for economic statistics" 6 pp.
--   Livny (2021) ["Can religiosity be sensed with satellite data?"](https://academic.oup.com/poq/advance-article-abstract/doi/10.1093/poq/nfab013/6361037?redirectedFrom=fulltext)
--   Goettsch et al. (2021) [Extinction risk of Mesoamerican crop wild relatives](https://nph.onlinelibrary.wiley.com/doi/full/10.1002/ppp3.10225)
--   Mis datos
-
-
 # Revueltas electorales: Italia (semanas 13 y 14)
 
--   Rhodes-Purdy et al. (2021) ["Populist psychology: econimics, culture, and emotions"](https://github.com/emagar/pc3/blob/master/lecturas/rhodes-purdy-etal-Populist-Psychology-2021jop.pdf) 30 pp. (excluya el largo apéndice).
+-   Rhodes-Purdy et al. (2021) ["Populist psychology: economics, culture, and emotions"](https://github.com/emagar/pc3/blob/master/lecturas/rhodes-purdy-etal-Populist-Psychology-2021jop.pdf) 30 pp. (excluya el largo apéndice).
 -   Nanetti y Leonardi (2015) en Hancock *Politics in Europe* 
     -   cap 4.1 [The context of Italian politics](https://github.com/emagar/pc3/blob/master/lecturas/04italia/nanetti-leonardi4.1TheContextOfItalianPolitics.pdf) 21 pp.
     -   cap 4.2 [Where is the power?](https://github.com/emagar/pc3/blob/master/lecturas/04italia/nanetti-leonardi4.2WhereIsThePower.pdf) 22 pp.
