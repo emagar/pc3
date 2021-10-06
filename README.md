@@ -78,8 +78,8 @@ Articule la hip√≥tesis principal de cada uno de los siguientes trabajos, por qu√
 
 # Luminosidad (semana 8)
 
--   Chen y Nordhaus (2011) ["Using luminosity data as a proxy for economic statistics"](https://github.com/emagar/pc3/blob/master/lecturas/chen-nordhaus-Luminosity-gdp-2011pnas.pdf) 6 pp.
--   Livny (2021) ["Can religiosity be sensed with satellite data?"](https://github.com/emagar/pc3/blob/master/lecturas/livny-Religiosity-satellite2021.pdf) 28 pp.
+-   Chen y Nordhaus (2011) ["Using luminosity data as a proxy for economic statistics"](https://github.com/emagar/pc3/blob/master/lecturas/08luminosidad/chen-nordhaus-Luminosity-gdp-2011pnas.pdf) 6 pp.
+-   Livny (2021) ["Can religiosity be sensed with satellite data?"](https://github.com/emagar/pc3/blob/master/lecturas/08luminosidad/livny-Religiosity-satellite2021.pdf) 28 pp.
 -   Goettsch et al. (2021) [Extinction risk of Mesoamerican crop wild relatives](https://nph.onlinelibrary.wiley.com/doi/full/10.1002/ppp3.10225)
 -   Franco et al. (2021) ["Long-term effects of the Inca road"](https://github.com/emagar/pc3/blob/master/lecturas/franco-etal-Inca-road2021.pdf) 30 pp.
 
