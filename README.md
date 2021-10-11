@@ -83,20 +83,12 @@ Articule la hipótesis principal de cada uno de los siguientes trabajos, por qu�
 -   Goettsch et al. (2021) [Extinction risk of Mesoamerican crop wild relatives](https://nph.onlinelibrary.wiley.com/doi/full/10.1002/ppp3.10225)
 -   Franco et al. (2021) ["Long-term effects of the Inca road"](https://github.com/emagar/pc3/blob/master/lecturas/franco-etal-Inca-road2021.pdf) 30 pp.
 
--   Mis datos
+-   Datos de luninosidad satelital en municipios y secciones electorales de México [aquí](https://github.com/emagar/luminosity)
 
 
-# La delegación: piedra nodal del gobierno (semanas 9 y 10)
+# Los partidos como agentes de gobierno (semanas 9 y 10)
 
--   Kiewiet y McCubbins (1991) *The Logic of Delegation*,
-    -   cap. 2 ["Delegation and agency problems"](https://github.com/emagar/pc3/blob/master/lecturas/03delegacion/kiewiet.mccubbinsLogicDelegationCap2.pdf) 17 pp.
--   McCubbins y Schwartz (1984) ["Congressional oversight overlooked: police patrols vs. fire alarms"](https://github.com/emagar/pc3/blob/master/lecturas/03delegacion/mccubbins.schwartzFireAlarms1984ajps.pdf) 15 pp.
--   Raustiala (2004) ["Police patrols and fire alarms in the NAAEC"](https://github.com/emagar/pc3/blob/master/lecturas/03delegacion/raustialaFireAlarmsNAFTA2004.pdf) 25 pp.
-
-
-# Los partidos como agentes de gobierno (semanas 11 y 12)
-
--   Cox (1987) The Efficient Secret.
+-   Cox (1987) [The Efficient Secret](https://github.com/emagar/pc3/blob/master/lecturas/09partidos/cox.1987.efficientSecret.bookFi.org.djvu).
 -   Krehbiel (1993) "Where's the party"
 -   Cox y McCubbins (1993) Legislative Leviathan, 
     -   Introduction, 15 pp.
@@ -106,6 +98,14 @@ Articule la hipótesis principal de cada uno de los siguientes trabajos, por qu�
 -   Cox y Magar (1999) "How Much is Majority Status in US Congress Worth?" 12 pp.
 -   DenHartog and Monroe (2010) Parties in the Senate.
 -   Jones y Hwang (2005) "Party Government in Presidential Democracies: Extending Cartel Theory beyond the U.S. Congress" 16 pp.
+
+
+# La delegación: piedra nodal del gobierno (semanas 11 y 12)
+
+-   Kiewiet y McCubbins (1991) *The Logic of Delegation*,
+    -   cap. 2 ["Delegation and agency problems"](https://github.com/emagar/pc3/blob/master/lecturas/03delegacion/kiewiet.mccubbinsLogicDelegationCap2.pdf) 17 pp.
+-   McCubbins y Schwartz (1984) ["Congressional oversight overlooked: police patrols vs. fire alarms"](https://github.com/emagar/pc3/blob/master/lecturas/03delegacion/mccubbins.schwartzFireAlarms1984ajps.pdf) 15 pp.
+-   Raustiala (2004) ["Police patrols and fire alarms in the NAAEC"](https://github.com/emagar/pc3/blob/master/lecturas/03delegacion/raustialaFireAlarmsNAFTA2004.pdf) 25 pp.
 
 
 # Revueltas electorales: Italia (semanas 13 y 14)
