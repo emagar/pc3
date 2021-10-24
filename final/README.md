@@ -1,8 +1,8 @@
 
 # Table of Contents
 
-1.  [Variables en los archivos `phys-mu.csv` (nivel municipio) y `phys-se.csv` (nivel sección)](#org39bdcdd)
-2.  [Variables en los archivos `censo2020-mu.csv` (nivel municipio) y `censo2020-se.csv` (nivel sección)](#orga5744ca)
+1.  [Variables en los archivos `phys-mu.csv` (nivel municipio) y `phys-se.csv` (nivel sección)](#org14d7afd)
+2.  [Variables en los archivos `censo2020-mu.csv` (nivel municipio) y `censo2020-se.csv` (nivel sección)](#org80ec84f)
 
 **Trabajo final de PC3**
 
@@ -81,10 +81,10 @@ que es estadísticamente distinta de cero. O incluso especificar un modelo multi
     Multiple R-squared:  0.2093,	Adjusted R-squared:  0.2083 
     F-statistic: 216.4 on 3 and 2453 DF,  p-value: < 2.2e-16
 
-Etcétera.
+Nótese el coeficiente del norte que, controlando por occidente y por terreno accidentado, pierde significancia estadística. Quizás haya interacciones por descubrir. 
 
 
-<a id="org39bdcdd"></a>
+<a id="org14d7afd"></a>
 
 # Variables en los archivos `phys-mu.csv` (nivel municipio) y `phys-se.csv` (nivel sección)
 
@@ -103,7 +103,7 @@ Etcétera.
 -   `area` = área de la unidad en km<sup>2</sup>.
 
 
-<a id="orga5744ca"></a>
+<a id="org80ec84f"></a>
 
 # Variables en los archivos `censo2020-mu.csv` (nivel municipio) y `censo2020-se.csv` (nivel sección)
 
