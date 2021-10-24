@@ -1,8 +1,8 @@
 
 # Table of Contents
 
-1.  [Variables en los archivos `phys-mu.csv` (nivel municipio) y `phys-se.csv` (nivel sección)](#orgfd34e5e)
-2.  [Variables en los archivos `censo2020-mu.csv` (nivel municipio) y `censo2020-se.csv` (nivel sección)](#orgb0d3da4)
+1.  [Variables en los archivos `phys-mu.csv` (nivel municipio) y `phys-se.csv` (nivel sección)](#org39bdcdd)
+2.  [Variables en los archivos `censo2020-mu.csv` (nivel municipio) y `censo2020-se.csv` (nivel sección)](#orga5744ca)
 
 **Trabajo final de PC3**
 
@@ -31,22 +31,20 @@ Suponga que quiere explorar la relación entre la medición de pobreza de Facebo
     > dat$norte <- dat$lat
     > dat$occid <- -dat$lon
 
-Los diagramas
-
     > plot(dat$norte,  dat$mean.rwi)
     > plot(dat$occid,  dat$mean.rwi)
 
-![img](../graph/nor.png)
-![img](../graph/occ.png)
+![img](./graph/nor.png)
+![img](./graph/occ.png)
 
-sugieren algún asociación, aunque con ruido. Habrá que ver cómo cambian con más controles. Un candidato es la geografía accidentada
+Los diagramas sugieren asociación, aunque con ruido. Habrá que ver cómo cambia con más controles. Un posible control es la geografía accidentada
 
     > plot(dat$tri, dat$mean.rwi)
     > abline(lm(dat$mean.rwi ~ dat$tri))
 
-![img](../graph/tri.png)
+![img](./graph/tri.png)
 
-También puede mirarse la correlación
+También puede mirarse el coeficiente de correlación
 
     > cor.test(dat$mean.rwi, dat$tri, method = "pearson", use = "complete.obs")
     
@@ -61,7 +59,7 @@ También puede mirarse la correlación
            cor 
     -0.4413679 
 
-o especificar un modelo multivariado
+que es estadísticamente distinta de cero. O incluso especificar un modelo multivariado
 
     > reg <- lm(dat$mean.rwi ~ dat$tri + dat$norte + dat$occid)
     > summary(reg)
@@ -86,7 +84,7 @@ o especificar un modelo multivariado
 Etcétera.
 
 
-<a id="orgfd34e5e"></a>
+<a id="org39bdcdd"></a>
 
 # Variables en los archivos `phys-mu.csv` (nivel municipio) y `phys-se.csv` (nivel sección)
 
@@ -105,7 +103,7 @@ Etcétera.
 -   `area` = área de la unidad en km<sup>2</sup>.
 
 
-<a id="orgb0d3da4"></a>
+<a id="orga5744ca"></a>
 
 # Variables en los archivos `censo2020-mu.csv` (nivel municipio) y `censo2020-se.csv` (nivel sección)
 

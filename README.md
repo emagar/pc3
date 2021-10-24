@@ -26,6 +26,10 @@ Lunes y miércoles 11:30&#x2013;13:00, salón B-5 (RH)
 
 ---
 
+Vínculo al trabajo final [aquí](./final/)
+
+---
+
 
 # Tres escuelas de política comparada (semana 1)
 
