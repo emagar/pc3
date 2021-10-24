@@ -1,6 +1,12 @@
 *.*~
 #*.*#
 
+## ignore couple of links
+ln-to-censos-data
+ln-to-phys-data
+
+README.org
+
 ## Core latex/pdflatex auxiliary files:
 *.aux
 *.lof
