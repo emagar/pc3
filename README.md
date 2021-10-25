@@ -18,11 +18,9 @@ Lunes y miércoles 11:30&#x2013;13:00, salón B-5 (RH)
 
 *Días de asueto*: 2021-11-01 (muertos) y 2021-11-15 (Aniv. de la Rev.?)
 
-*No habrá clases*: 2021-10-25 ni el 2021-10-27
+*No habrá clases*: <del>2021-10-25 ni el</del> 2021-10-27
 
-*Última clase*
-
--   2021-12-01
+*Última clase*: 2021-12-01
 
 ---
 
