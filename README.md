@@ -24,7 +24,10 @@ Lunes y miércoles 11:30&#x2013;13:00, salón B-5 (RH)
 
 ---
 
-Enlace al trabajo final [aquí](./final/). Fechas: la primera entrega (individual, que describe lo que piensan explorar) deben hacerla antes del lunes 8 de noviembre; la entrega final (individual o en equipo) el día que nos asigne Dirección Escolar. 
+
+# Trabajo final
+
+Enlace [aquí](./final/). Fechas: la primera entrega (individual, que describe lo que piensan explorar) deben hacerla antes del lunes 8 de noviembre; la entrega final (individual o en equipo) el día que nos asigne Dirección Escolar. 
 
 ---
 
