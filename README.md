@@ -12,7 +12,7 @@ Lunes y miércoles 11:30&#x2013;13:00, salón B-5 (RH)
 
 *Clases presenciales*: Este curso migra a la modalidad híbrida en la **etapa 2** el 30 de agosto. Esto podría cambiar según evolucionen las condiciones y los [lineamientos de vicerrectoría](https://www.itam.mx/es/conoce-las-medidas-para-el-inicio-de-las-actividades-semipresenciales-en-el-itam). 
 
-*Evaluación*: Habrá un trabajo final que contará 80% de su calificación final: 30% la primera entrega y 50% la final. El 20% restante valorará la participación en clase y la impresión general que deje en su profesor.  
+*Evaluación*: Habrá un trabajo final que contará 80% de su calificación final. El 20% restante valorará la participación en clase y la impresión general que deje en su profesor.  
 
 *Notas*: (1) La página del curso es <https://github.com/emagar/pc3/>. Alberga este temario, las lecturas y materiales diversos. (2) El temario sufrirá modificaciones marginales en el transcurso del semestre para quitar, añadir o cambiar la secuencia de algunos temas. Anunciaré esto en clase y se verá reflejado en el temario.
 
@@ -24,7 +24,7 @@ Lunes y miércoles 11:30&#x2013;13:00, salón B-5 (RH)
 
 ---
 
-Enlace al trabajo final [aquí](./final/). Fechas: la primera entrega (individual, que describe lo que piensan explorar) deben hacerla antes del lunes 8 de noviembre; la entrega final (individual o en equipo) el día que nos asigne Dirección Escolar. 
+Vínculo al trabajo final [aquí](./final/)
 
 ---
 

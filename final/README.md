@@ -1,8 +1,8 @@
 
 # Table of Contents
 
-1.  [Variables en los archivos `phys-mu.csv` (nivel municipio) y `phys-se.csv` (nivel sección)](#org0507733)
-2.  [Variables en los archivos `censo2020-mu.csv` (nivel municipio) y `censo2020-se.csv` (nivel sección)](#orgb2e2c98)
+1.  [Variables en los archivos `phys-mu.csv` (nivel municipio) y `phys-se.csv` (nivel sección)](#org14d7afd)
+2.  [Variables en los archivos `censo2020-mu.csv` (nivel municipio) y `censo2020-se.csv` (nivel sección)](#org80ec84f)
 
 **Trabajo final de PC3**
 
@@ -17,12 +17,14 @@ Por ejemplo, en `R` (puede usar `stata` o `excel`) lea los datos municipales
 
 explore su contenido
 
-    > str(ce.mu)
-    > str(ph.mu)
+> str(ce.mu)
+> str(ph.mu)
+\#+END<sub>SRC</sub>
 
 y consolide los datos
 
-    > dat <- merge(x = ph.mu, y = ce.mu, by = "inegi", all = TRUE)
+> dat <- merge(x = ph.mu, y = ce.mu, by = "inegi", all = TRUE)
+\#+END<sub>SRC</sub>
 
 Suponga que quiere explorar la relación entre la medición de pobreza de Facebook y la latitud/longitud. Recodifiquemos las variables para interpetarlas como ubicación más al norte o más occidental
 
@@ -82,7 +84,7 @@ que es estadísticamente distinta de cero. O incluso especificar un modelo multi
 Nótese el coeficiente del norte que, controlando por occidente y por terreno accidentado, pierde significancia estadística. Quizás haya interacciones por descubrir. 
 
 
-<a id="org0507733"></a>
+<a id="org14d7afd"></a>
 
 # Variables en los archivos `phys-mu.csv` (nivel municipio) y `phys-se.csv` (nivel sección)
 
@@ -101,7 +103,7 @@ Nótese el coeficiente del norte que, controlando por occidente y por terreno ac
 -   `area` = área de la unidad en km<sup>2</sup>.
 
 
-<a id="orgb2e2c98"></a>
+<a id="org80ec84f"></a>
 
 # Variables en los archivos `censo2020-mu.csv` (nivel municipio) y `censo2020-se.csv` (nivel sección)
 
