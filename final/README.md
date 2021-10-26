@@ -1,8 +1,8 @@
 
 # Table of Contents
 
-1.  [Variables en los archivos `phys-mu.csv` (nivel municipio) y `phys-se.csv` (nivel sección)](#org14d7afd)
-2.  [Variables en los archivos `censo2020-mu.csv` (nivel municipio) y `censo2020-se.csv` (nivel sección)](#org80ec84f)
+1.  [Variables en los archivos `phys-mu.csv` (nivel municipio) y `phys-se.csv` (nivel sección)](#orgad94961)
+2.  [Variables en los archivos `censo2020-mu.csv` (nivel municipio) y `censo2020-se.csv` (nivel sección)](#orgc2bbf9e)
 
 **Trabajo final de PC3**
 
@@ -17,14 +17,12 @@ Por ejemplo, en `R` (puede usar `stata` o `excel`) lea los datos municipales
 
 explore su contenido
 
-> str(ce.mu)
-> str(ph.mu)
-\#+END<sub>SRC</sub>
+    > str(ce.mu)
+    > str(ph.mu)
 
 y consolide los datos
 
-> dat <- merge(x = ph.mu, y = ce.mu, by = "inegi", all = TRUE)
-\#+END<sub>SRC</sub>
+    > dat <- merge(x = ph.mu, y = ce.mu, by = "inegi", all = TRUE)
 
 Suponga que quiere explorar la relación entre la medición de pobreza de Facebook y la latitud/longitud. Recodifiquemos las variables para interpetarlas como ubicación más al norte o más occidental
 
@@ -84,7 +82,7 @@ que es estadísticamente distinta de cero. O incluso especificar un modelo multi
 Nótese el coeficiente del norte que, controlando por occidente y por terreno accidentado, pierde significancia estadística. Quizás haya interacciones por descubrir. 
 
 
-<a id="org14d7afd"></a>
+<a id="orgad94961"></a>
 
 # Variables en los archivos `phys-mu.csv` (nivel municipio) y `phys-se.csv` (nivel sección)
 
@@ -103,7 +101,7 @@ Nótese el coeficiente del norte que, controlando por occidente y por terreno ac
 -   `area` = área de la unidad en km<sup>2</sup>.
 
 
-<a id="org80ec84f"></a>
+<a id="orgc2bbf9e"></a>
 
 # Variables en los archivos `censo2020-mu.csv` (nivel municipio) y `censo2020-se.csv` (nivel sección)
 
@@ -162,4 +160,5 @@ Nótese el coeficiente del norte que, controlando por occidente y por terreno ac
 -   `VPH_C_SERV` = Viviendas particulares habitadas que tienen energía eléctrica, agua entubada dentro de la vivienda o sólo en el patio o terreno y drenaje conectado a la red pública; una fosa séptica o tanque séptico (biodigestor); una tubería que va a dar a una barranca o grieta, río, lago o mar. Comprende las viviendas particulares para las que se captaron las características de la vivienda, clasificadas como: casa única en el terreno; casa que comparte terreno con otra(s); casa dúplex; departamento en edificio; vivienda en vecindad o cuartería; vivienda en cuarto de azotea de un edificio y no especificado de vivienda particular. Incluye a las viviendas particulares sin información de ocupantes.
 -   `VPH_NDEAED` = Viviendas particulares habitadas que no tienen energía eléctrica, agua entubada ni drenaje. Comprende las viviendas particulares para las que se captaron las características de la vivienda, clasificadas como: casa única en el terreno; casa que comparte terreno con otra(s); casa dúplex; departamento en edificio; vivienda en vecindad o cuartería; vivienda en cuarto de azotea de un edificio y no especificado de vivienda particular. Incluye a las viviendas particulares sin información de ocupantes.
 -   `VPH_REFRI` = Viviendas particulares habitadas que tienen refrigerador. Comprende las viviendas particulares para las que se captaron las características de la vivienda, clasificadas como: casa única en el terreno; casa que comparte terreno con otra(s); casa dúplex; departamento en edificio; vivienda en vecindad o cuartería; vivienda en cuarto de azotea de un edificio y no especificado de vivienda particular. Incluye a las viviendas particulares sin información de ocupantes.
+-   `p1def2020` = promedio anual 2010-2019 de defunciones infantiles (menores de 1 año de edad).
 
