@@ -1,8 +1,8 @@
 
 # Table of Contents
 
-1.  [Variables en los archivos `phys-mu.csv` (nivel municipio) y `phys-se.csv` (nivel sección)](#orgad94961)
-2.  [Variables en los archivos `censo2020-mu.csv` (nivel municipio) y `censo2020-se.csv` (nivel sección)](#orgc2bbf9e)
+1.  [Variables en los archivos `phys-mu.csv` (nivel municipio) y `phys-se.csv` (nivel sección)](#org4b5a7cd)
+2.  [Variables en los archivos `censo2020-mu.csv` (nivel municipio) y `censo2020-se.csv` (nivel sección)](#orga2f92d4)
 
 **Trabajo final de PC3**
 
@@ -82,7 +82,7 @@ que es estadísticamente distinta de cero. O incluso especificar un modelo multi
 Nótese el coeficiente del norte que, controlando por occidente y por terreno accidentado, pierde significancia estadística. Quizás haya interacciones por descubrir. 
 
 
-<a id="orgad94961"></a>
+<a id="org4b5a7cd"></a>
 
 # Variables en los archivos `phys-mu.csv` (nivel municipio) y `phys-se.csv` (nivel sección)
 
@@ -95,13 +95,14 @@ Nótese el coeficiente del norte que, controlando por occidente y por terreno ac
 -   `lon`, `lat` = longitud y latitud del centro geométrico (centroide) de la unidad.
 -   `di.urb` = distancia en kms al polígono urbano más próximo.
 -   `di.ffcc` = distancia en kms a la vía férrea más próxima.
+-   `di.road` = distancia en kms a la carretera más próxima.
 -   `di.pyram` = distancia en kms a la pirámide prehispánica más próxima.
 -   `mean.alt`, `med.alt`, `sd.alt`  = the unit's altitude in metres, from <https://eros.usgs.gov/>. As for \(tri\), source provides 30 arc-seconds grid with altitude. I report the mean, median, and standard deviation of cells inside the unit's borders.
 -   `mean.rwi`, `med.rwi`, `sd.rwi` = Facebook's Relative Wealth Index, from <https://dataforgood.facebook.com/dfg/tools/relative-wealth-index> (data updated 8 April 2021). Household surveys-trained machine learning algorithms applied to discover relative welfare patterns in satellite images, topographic maps, mobile phone and Facebook networks. Source distributes micro-estimates of wealth and poverty covering the populated surface at 2.4km resolution. I report the mean, median, and standard deviation of cells inside the unit's borders (with missing data for units containing no tile in the source.)
 -   `area` = área de la unidad en km<sup>2</sup>.
 
 
-<a id="orgc2bbf9e"></a>
+<a id="orga2f92d4"></a>
 
 # Variables en los archivos `censo2020-mu.csv` (nivel municipio) y `censo2020-se.csv` (nivel sección)
 
