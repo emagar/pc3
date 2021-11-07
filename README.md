@@ -22,12 +22,11 @@ Lunes y miércoles 11:30&#x2013;13:00, salón B-5 (RH)
 
 *Última clase*: 2021-12-01
 
+*Examen final*: 2021-12-14 7:00-10:00
+
 ---
 
-
-# Trabajo final
-
-Enlace [aquí](./final/). Fechas: la primera entrega (individual, que describe lo que piensan explorar) deben hacerla antes del lunes 8 de noviembre; la entrega final (individual o en equipo) el día que nos asigne Dirección Escolar. 
+Enlace al trabajo final [aquí](./final/). Fechas: la primera entrega (individual, que describe lo que piensan explorar) deben hacerla antes del lunes 8 de noviembre; la entrega final (individual o en equipo) el día que nos asigne Dirección Escolar. 
 
 ---
 
