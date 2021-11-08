@@ -22,6 +22,8 @@ Lunes y miércoles 11:30&#x2013;13:00, salón B-5 (RH)
 
 *Última clase*: 2021-12-01
 
+*Examen final*: 2021-12-14 7:00-10:00. 
+
 ---
 
 
