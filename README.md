@@ -22,11 +22,12 @@ Lunes y miércoles 11:30&#x2013;13:00, salón B-5 (RH)
 
 *Última clase*: 2021-12-01
 
-*Examen final*: 2021-12-14 7:00-10:00
-
 ---
 
-Enlace al trabajo final [aquí](./final/). Fechas: la primera entrega (individual, que describe lo que piensan explorar) deben hacerla antes del lunes 8 de noviembre; la entrega final (individual o en equipo) el día que nos asigne Dirección Escolar. 
+
+# Trabajo final
+
+Enlace [aquí](./final/). Fechas: la primera entrega (individual, que describe lo que piensan explorar) deben hacerla antes del lunes 8 de noviembre; la entrega final (individual o en equipo) el día que nos asigne Dirección Escolar. 
 
 ---
 
@@ -110,6 +111,8 @@ Articule la hipótesis principal de cada uno de los siguientes trabajos, por qu�
     -   cap. 2 ["Delegation and agency problems"](https://github.com/emagar/pc3/blob/master/lecturas/03delegacion/kiewiet.mccubbinsLogicDelegationCap2.pdf) 17 pp.
 -   McCubbins y Schwartz (1984) ["Congressional oversight overlooked: police patrols vs. fire alarms"](https://github.com/emagar/pc3/blob/master/lecturas/03delegacion/mccubbins.schwartzFireAlarms1984ajps.pdf) 15 pp.
 -   Raustiala (2004) ["Police patrols and fire alarms in the NAAEC"](https://github.com/emagar/pc3/blob/master/lecturas/03delegacion/raustialaFireAlarmsNAFTA2004.pdf) 25 pp.
+-   Siavelis (2000) ["Disconnected fire alarms in postauthoritarian Chile"](https://github.com/emagar/pc3/blob/master/lecturas/03delegacion/siavelis-Fire-alarms-chileJISWA2000.pdf) 27 pp.
+-   Polga y Trelles (2016) ["A research agenda for the study of bureaucratic politics in Latin America"](https://github.com/emagar/pc3/blob/master/lecturas/03delegacion/polga-trelles-Burpol-latam-reviewLAPS2016.pdf) 23 pp.
 
 
 # Revueltas electorales: Italia (semanas 13 y 14)
