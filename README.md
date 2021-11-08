@@ -1,3 +1,18 @@
+
+# &Iacute;ndice
+
+1.  [Trabajo final](#orgf4dafc3)
+2.  [Tres escuelas de política comparada (semana 1)](#org201d32a)
+3.  [Prueba de hipótesis y regresión lineal, un repaso (semanas 1 y 2)](#orgbb9456f)
+4.  [Representación política (semana 3)](#orge85438b)
+5.  [La conexión electoral (semanas 4 a 6)](#org2b42b85)
+6.  [Dinastías políticas (semana 7)](#orgfba746d)
+7.  [Luminosidad (semana 8)](#org47c8a4d)
+8.  [Los partidos como agentes de gobierno (semanas 9 y 10)](#org14f2087)
+9.  [La delegación: piedra nodal del gobierno (semanas 11 y 12)](#org1016f93)
+10. [Revueltas electorales: Italia (semanas 13 y 14)](#orgd2af878)
+11. [La redistritación (semanas 15 y 16)](#org5e7be45)
+
 ITAM Depto. de ciencia política, otoño 2021
 
 **Política Comparada III**
@@ -27,6 +42,8 @@ Lunes y miércoles 11:30&#x2013;13:00, salón B-5 (RH)
 ---
 
 
+<a id="orgf4dafc3"></a>
+
 # Trabajo final
 
 Enlace [aquí](./final/). Fechas: la primera entrega (individual, que describe lo que piensan explorar) deben hacerla antes del lunes 8 de noviembre; la entrega final (individual o en equipo) el día que nos asigne Dirección Escolar. 
@@ -34,8 +51,12 @@ Enlace [aquí](./final/). Fechas: la primera entrega (individual, que describe l
 ---
 
 
+<a id="org201d32a"></a>
+
 # Tres escuelas de política comparada (semana 1)
 
+
+<a id="orgbb9456f"></a>
 
 # Prueba de hipótesis y regresión lineal, un repaso (semanas 1 y 2)
 
@@ -48,11 +69,15 @@ Articule la hipótesis principal de cada uno de los siguientes trabajos, por qu�
 -   Magar (2021) ["Mexico: Parties and Floor Access in the Cámara de Diputados"](https://github.com/emagar/pc3/blob/master/lecturas/magar-Speech-camara-Mx-2021oup.pdf) 27 pp.
 
 
+<a id="orge85438b"></a>
+
 # Representación política (semana 3)
 
 -   Pitkin (2004) ["Representation and Democracy: Uneasy Alliance"](https://github.com/emagar/pc3/blob/master/lecturas/02representacion/pitkin2004representationAndDemocUneasyAlliance.pdf) 8 pp.
 -   Urbinati (2000) ["Representation as Advocacy"](https://github.com/emagar/pc3/blob/master/lecturas/02representacion/urbinati2000representationAsAdvocacy.pdf) 22 pp.
 
+
+<a id="org2b42b85"></a>
 
 # La conexión electoral (semanas 4 a 6)
 
@@ -69,6 +94,8 @@ Articule la hipótesis principal de cada uno de los siguientes trabajos, por qu�
 -   Cox y Katz (2002) [Elbridge Gerry's Salamander](https://github.com/emagar/pc3/blob/master/lecturas/06reeleccion/cox.katzEgerrySalamander2002book.pdf), caps. 8 y 9, 34 pp.
 
 
+<a id="orgfba746d"></a>
+
 # Dinastías políticas (semana 7)
 
 -   Smith (2017) [Dynasties and Democracy](https://github.com/emagar/pc3/blob/master/lecturas/07dinastias/smithDanDynasticBookManuscript-1-24-2017.pdf)
@@ -83,6 +110,8 @@ Articule la hipótesis principal de cada uno de los siguientes trabajos, por qu�
 -   Querubín (2016) [Family and Politics: Dynastic persistence in the Philippines](https://github.com/emagar/pc3/blob/master/lecturas/07dinastias/querubin2016qjps.pdf) 30 pp.
 
 
+<a id="org47c8a4d"></a>
+
 # Luminosidad (semana 8)
 
 -   Chen y Nordhaus (2011) ["Using luminosity data as a proxy for economic statistics"](https://github.com/emagar/pc3/blob/master/lecturas/08luminosidad/chen-nordhaus-Luminosity-gdp-2011pnas.pdf) 6 pp.
@@ -92,6 +121,8 @@ Articule la hipótesis principal de cada uno de los siguientes trabajos, por qu�
 
 -   Datos de luninosidad satelital en municipios y secciones electorales de México [aquí](https://github.com/emagar/luminosity)
 
+
+<a id="org14f2087"></a>
 
 # Los partidos como agentes de gobierno (semanas 9 y 10)
 
@@ -107,6 +138,8 @@ Articule la hipótesis principal de cada uno de los siguientes trabajos, por qu�
 -   Jones y Hwang (2005) "Party Government in Presidential Democracies: Extending Cartel Theory beyond the U.S. Congress" 16 pp.
 
 
+<a id="org1016f93"></a>
+
 # La delegación: piedra nodal del gobierno (semanas 11 y 12)
 
 -   Kiewiet y McCubbins (1991) *The Logic of Delegation*,
@@ -116,6 +149,8 @@ Articule la hipótesis principal de cada uno de los siguientes trabajos, por qu�
 -   Siavelis (2000) ["Disconnected fire alarms in postauthoritarian Chile"](https://github.com/emagar/pc3/blob/master/lecturas/03delegacion/siavelis-Fire-alarms-chileJISWA2000.pdf) 27 pp.
 -   Polga y Trelles (2016) ["A research agenda for the study of bureaucratic politics in Latin America"](https://github.com/emagar/pc3/blob/master/lecturas/03delegacion/polga-trelles-Burpol-latam-reviewLAPS2016.pdf) 23 pp.
 
+
+<a id="orgd2af878"></a>
 
 # Revueltas electorales: Italia (semanas 13 y 14)
 
@@ -137,6 +172,8 @@ Articule la hipótesis principal de cada uno de los siguientes trabajos, por qu�
 -   Aldrich (1983) [A Downsian Spatial Model with Party Activism](https://github.com/emagar/pc3/blob/master/lecturas/04italia/aldrichDownsianActivists1983apsr.pdf) 27 pp.
 -   Miller y Schofield (2003) [Activists and Partisan Realignment in the United States](https://github.com/emagar/pc3/blob/master/lecturas/04italia/miller-schofield2003apsr.pdf) 16 pp.
 
+
+<a id="org5e7be45"></a>
 
 # La redistritación (semanas 15 y 16)
 
