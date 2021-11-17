@@ -1,17 +1,17 @@
 
 # &Iacute;ndice
 
-1.  [Trabajo final](#orgf4dafc3)
-2.  [Tres escuelas de política comparada (semana 1)](#org201d32a)
-3.  [Prueba de hipótesis y regresión lineal, un repaso (semanas 1 y 2)](#orgbb9456f)
-4.  [Representación política (semana 3)](#orge85438b)
-5.  [La conexión electoral (semanas 4 a 6)](#org2b42b85)
-6.  [Dinastías políticas (semana 7)](#orgfba746d)
-7.  [Luminosidad (semana 8)](#org47c8a4d)
-8.  [Los partidos como agentes de gobierno (semanas 9 y 10)](#org14f2087)
-9.  [La delegación: piedra nodal del gobierno (semanas 11 y 12)](#org1016f93)
-10. [Revueltas electorales: Italia (semanas 13 y 14)](#orgd2af878)
-11. [La redistritación (semanas 15 y 16)](#org5e7be45)
+1.  [Trabajo final](#org62bc526)
+2.  [Tres escuelas de política comparada (semana 1)](#org4d86ad7)
+3.  [Prueba de hipótesis y regresión lineal, un repaso (semanas 1 y 2)](#org9446513)
+4.  [Representación política (semana 3)](#orge4b40bc)
+5.  [La conexión electoral (semanas 4 a 6)](#orge4fc8cb)
+6.  [Dinastías políticas (semana 7)](#org9c4d8f1)
+7.  [Luminosidad (semana 8)](#org6c26bf0)
+8.  [Los partidos como agentes de gobierno (semanas 9 y 10)](#org011ff7b)
+9.  [La delegación: piedra nodal del gobierno (semanas 11 y 12)](#orgdb909c0)
+10. [Revueltas electorales: Italia (semanas 13 y 14)](#orgba6ea83)
+11. [La redistritación (semanas 15 y 16)](#org0c64299)
 
 ITAM Depto. de ciencia política, otoño 2021
 
@@ -42,7 +42,7 @@ Lunes y miércoles 11:30&#x2013;13:00, salón B-5 (RH)
 ---
 
 
-<a id="orgf4dafc3"></a>
+<a id="org62bc526"></a>
 
 # Trabajo final
 
@@ -51,12 +51,12 @@ Enlace [aquí](./final/). Fechas: la primera entrega (individual, que describe l
 ---
 
 
-<a id="org201d32a"></a>
+<a id="org4d86ad7"></a>
 
 # Tres escuelas de política comparada (semana 1)
 
 
-<a id="orgbb9456f"></a>
+<a id="org9446513"></a>
 
 # Prueba de hipótesis y regresión lineal, un repaso (semanas 1 y 2)
 
@@ -69,7 +69,7 @@ Articule la hipótesis principal de cada uno de los siguientes trabajos, por qu�
 -   Magar (2021) ["Mexico: Parties and Floor Access in the Cámara de Diputados"](https://github.com/emagar/pc3/blob/master/lecturas/magar-Speech-camara-Mx-2021oup.pdf) 27 pp.
 
 
-<a id="orge85438b"></a>
+<a id="orge4b40bc"></a>
 
 # Representación política (semana 3)
 
@@ -77,7 +77,7 @@ Articule la hipótesis principal de cada uno de los siguientes trabajos, por qu�
 -   Urbinati (2000) ["Representation as Advocacy"](https://github.com/emagar/pc3/blob/master/lecturas/02representacion/urbinati2000representationAsAdvocacy.pdf) 22 pp.
 
 
-<a id="org2b42b85"></a>
+<a id="orge4fc8cb"></a>
 
 # La conexión electoral (semanas 4 a 6)
 
@@ -94,7 +94,7 @@ Articule la hipótesis principal de cada uno de los siguientes trabajos, por qu�
 -   Cox y Katz (2002) [Elbridge Gerry's Salamander](https://github.com/emagar/pc3/blob/master/lecturas/06reeleccion/cox.katzEgerrySalamander2002book.pdf), caps. 8 y 9, 34 pp.
 
 
-<a id="orgfba746d"></a>
+<a id="org9c4d8f1"></a>
 
 # Dinastías políticas (semana 7)
 
@@ -110,7 +110,7 @@ Articule la hipótesis principal de cada uno de los siguientes trabajos, por qu�
 -   Querubín (2016) [Family and Politics: Dynastic persistence in the Philippines](https://github.com/emagar/pc3/blob/master/lecturas/07dinastias/querubin2016qjps.pdf) 30 pp.
 
 
-<a id="org47c8a4d"></a>
+<a id="org6c26bf0"></a>
 
 # Luminosidad (semana 8)
 
@@ -122,23 +122,23 @@ Articule la hipótesis principal de cada uno de los siguientes trabajos, por qu�
 -   Datos de luninosidad satelital en municipios y secciones electorales de México [aquí](https://github.com/emagar/luminosity)
 
 
-<a id="org14f2087"></a>
+<a id="org011ff7b"></a>
 
 # Los partidos como agentes de gobierno (semanas 9 y 10)
 
 -   Cox (1987) [The Efficient Secret](https://github.com/emagar/pc3/blob/master/lecturas/09partidos/cox.1987.efficientSecret.bookFi.org.djvu).
--   Krehbiel (1993) "Where's the party"
+-   Krehbiel (1993) [Where's the party](https://github.com/emagar/pc3/blob/master/lecturas/09partidos/krehbielWhereParty1993bjps.pdf) 32 pp.
 -   Cox y McCubbins (1993) Legislative Leviathan, 
-    -   Introduction, 15 pp.
-    -   cap. 3 "Subgovernments and the representativeness of committees" 21 pp.
-    -   cap. 5 "A theory of legislative parties" 30 pp.
-    -   cap. 8 "Contingents and parties" 42 pp.
+    -   [Introduction](https://github.com/emagar/pc3/blob/master/lecturas/09partidos/mcCoxLeviatanIntro.pdf) 15 pp.
+    -   cap. 3 [Subgovernments and the representativeness of committees](https://github.com/emagar/pc3/blob/master/lecturas/09partidos/mcCoxLeviatanCap3.pdf) 21 pp.
+    -   cap. 5 [A theory of legislative parties](https://github.com/emagar/pc3/blob/master/lecturas/09partidos/mcCoxLeviatanCap5.pdf) 30 pp.
+    -   cap. 8 [Contingents and parties](https://github.com/emagar/pc3/blob/master/lecturas/09partidos/mcCoxLeviatanCap8.pdf) 42 pp.
 -   Cox y Magar (1999) "How Much is Majority Status in US Congress Worth?" 12 pp.
 -   DenHartog and Monroe (2010) Parties in the Senate.
 -   Jones y Hwang (2005) "Party Government in Presidential Democracies: Extending Cartel Theory beyond the U.S. Congress" 16 pp.
 
 
-<a id="org1016f93"></a>
+<a id="orgdb909c0"></a>
 
 # La delegación: piedra nodal del gobierno (semanas 11 y 12)
 
@@ -150,7 +150,7 @@ Articule la hipótesis principal de cada uno de los siguientes trabajos, por qu�
 -   Polga y Trelles (2016) ["A research agenda for the study of bureaucratic politics in Latin America"](https://github.com/emagar/pc3/blob/master/lecturas/03delegacion/polga-trelles-Burpol-latam-reviewLAPS2016.pdf) 23 pp.
 
 
-<a id="orgd2af878"></a>
+<a id="orgba6ea83"></a>
 
 # Revueltas electorales: Italia (semanas 13 y 14)
 
@@ -173,7 +173,7 @@ Articule la hipótesis principal de cada uno de los siguientes trabajos, por qu�
 -   Miller y Schofield (2003) [Activists and Partisan Realignment in the United States](https://github.com/emagar/pc3/blob/master/lecturas/04italia/miller-schofield2003apsr.pdf) 16 pp.
 
 
-<a id="org5e7be45"></a>
+<a id="org0c64299"></a>
 
 # La redistritación (semanas 15 y 16)
 
