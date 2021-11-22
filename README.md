@@ -1,17 +1,17 @@
 
 # &Iacute;ndice
 
-1.  [Trabajo final](#org7fd2987)
-2.  [Tres escuelas de política comparada (semana 1)](#org2280e4f)
-3.  [Prueba de hipótesis y regresión lineal, un repaso (semanas 1 y 2)](#org3961538)
-4.  [Representación política (semana 3)](#org14f84e8)
-5.  [La conexión electoral (semanas 4 a 6)](#orgf890ab1)
-6.  [Dinastías políticas (semana 7)](#orgb19373e)
-7.  [Luminosidad (semana 8)](#org134ea4c)
-8.  [Los partidos como agentes de gobierno (semanas 9 y 10)](#org123c0be)
-9.  [La delegación: piedra nodal del gobierno (semanas 11 y 12)](#org35e4765)
-10. [Revueltas electorales: Italia (semanas 13 y 14)](#orge600875)
-11. [La redistritación (semanas 15 y 16)](#org4c8befc)
+1.  [Trabajo final](#orgdd226e9)
+2.  [Tres escuelas de política comparada (semana 1)](#orgcdf831f)
+3.  [Prueba de hipótesis y regresión lineal, un repaso (semanas 1 y 2)](#orge31d1b8)
+4.  [Representación política (semana 3)](#org14b6e48)
+5.  [La conexión electoral (semanas 4 a 6)](#org0ec5a25)
+6.  [Dinastías políticas (semana 7)](#orge4d503f)
+7.  [Luminosidad (semana 8)](#orgbb46a4c)
+8.  [Los partidos como agentes de gobierno (semanas 9 y 10)](#orgda9deb4)
+9.  [La delegación: piedra nodal del gobierno (semanas 11 y 12)](#orgb7a4618)
+10. [Revueltas electorales: Italia (semanas 13 y 14)](#org3c1ecfd)
+11. [La redistritación (semanas 15 y 16)](#org39ecd89)
 
 ITAM Depto. de ciencia política, otoño 2021
 
@@ -42,7 +42,7 @@ Lunes y miércoles 11:30&#x2013;13:00, salón B-5 (RH)
 ---
 
 
-<a id="org7fd2987"></a>
+<a id="orgdd226e9"></a>
 
 # Trabajo final
 
@@ -51,12 +51,12 @@ Enlace [aquí](./final/). Fechas: la primera entrega (individual, que describe l
 ---
 
 
-<a id="org2280e4f"></a>
+<a id="orgcdf831f"></a>
 
 # Tres escuelas de política comparada (semana 1)
 
 
-<a id="org3961538"></a>
+<a id="orge31d1b8"></a>
 
 # Prueba de hipótesis y regresión lineal, un repaso (semanas 1 y 2)
 
@@ -69,7 +69,7 @@ Articule la hipótesis principal de cada uno de los siguientes trabajos, por qu�
 -   Magar (2021) ["Mexico: Parties and Floor Access in the Cámara de Diputados"](https://github.com/emagar/pc3/blob/master/lecturas/magar-Speech-camara-Mx-2021oup.pdf) 27 pp.
 
 
-<a id="org14f84e8"></a>
+<a id="org14b6e48"></a>
 
 # Representación política (semana 3)
 
@@ -77,7 +77,7 @@ Articule la hipótesis principal de cada uno de los siguientes trabajos, por qu�
 -   Urbinati (2000) ["Representation as Advocacy"](https://github.com/emagar/pc3/blob/master/lecturas/02representacion/urbinati2000representationAsAdvocacy.pdf) 22 pp.
 
 
-<a id="orgf890ab1"></a>
+<a id="org0ec5a25"></a>
 
 # La conexión electoral (semanas 4 a 6)
 
@@ -94,7 +94,7 @@ Articule la hipótesis principal de cada uno de los siguientes trabajos, por qu�
 -   Cox y Katz (2002) [Elbridge Gerry's Salamander](https://github.com/emagar/pc3/blob/master/lecturas/06reeleccion/cox.katzEgerrySalamander2002book.pdf), caps. 8 y 9, 34 pp.
 
 
-<a id="orgb19373e"></a>
+<a id="orge4d503f"></a>
 
 # Dinastías políticas (semana 7)
 
@@ -110,7 +110,7 @@ Articule la hipótesis principal de cada uno de los siguientes trabajos, por qu�
 -   Querubín (2016) [Family and Politics: Dynastic persistence in the Philippines](https://github.com/emagar/pc3/blob/master/lecturas/07dinastias/querubin2016qjps.pdf) 30 pp.
 
 
-<a id="org134ea4c"></a>
+<a id="orgbb46a4c"></a>
 
 # Luminosidad (semana 8)
 
@@ -122,7 +122,7 @@ Articule la hipótesis principal de cada uno de los siguientes trabajos, por qu�
 -   Datos de luninosidad satelital en municipios y secciones electorales de México [aquí](https://github.com/emagar/luminosity)
 
 
-<a id="org123c0be"></a>
+<a id="orgda9deb4"></a>
 
 # Los partidos como agentes de gobierno (semanas 9 y 10)
 
@@ -135,7 +135,7 @@ Articule la hipótesis principal de cada uno de los siguientes trabajos, por qu�
     -   cap. 8 [Contingents and parties](https://github.com/emagar/pc3/blob/master/lecturas/09partidos/mcCoxLeviatanCap8.pdf) 42 pp.
 
 
-<a id="org35e4765"></a>
+<a id="orgb7a4618"></a>
 
 # La delegación: piedra nodal del gobierno (semanas 11 y 12)
 
@@ -147,30 +147,30 @@ Articule la hipótesis principal de cada uno de los siguientes trabajos, por qu�
 -   Polga y Trelles (2016) ["A research agenda for the study of bureaucratic politics in Latin America"](https://github.com/emagar/pc3/blob/master/lecturas/03delegacion/polga-trelles-Burpol-latam-reviewLAPS2016.pdf) 23 pp.
 
 
-<a id="orge600875"></a>
+<a id="org3c1ecfd"></a>
 
 # Revueltas electorales: Italia (semanas 13 y 14)
 
--   Rhodes-Purdy et al. (2021) ["Populist psychology: economics, culture, and emotions"](https://github.com/emagar/pc3/blob/master/lecturas/rhodes-purdy-etal-Populist-Psychology-2021jop.pdf) 30 pp. (excluya el largo apéndice).
+-   Rhodes-Purdy et al. (2021) ["Populist psychology: economics, culture, and emotions"](https://github.com/emagar/pc3/blob/master/lecturas/10revueltas-elec/rhodes-purdy-etal-Populist-Psychology-2021jop.pdf) 30 pp. (excluya el largo apéndice).
 -   Nanetti y Leonardi (2015) en Hancock *Politics in Europe* 
-    -   cap 4.1 [The context of Italian politics](https://github.com/emagar/pc3/blob/master/lecturas/04italia/nanetti-leonardi4.1TheContextOfItalianPolitics.pdf) 21 pp.
-    -   cap 4.2 [Where is the power?](https://github.com/emagar/pc3/blob/master/lecturas/04italia/nanetti-leonardi4.2WhereIsThePower.pdf) 22 pp.
-    -   cap 4.3 [Who has the power?](https://github.com/emagar/pc3/blob/master/lecturas/04italia/nanetti-leonardi4.3WhoHasThePower.pdf) 54 pp.
+    -   cap 4.1 [The context of Italian politics](https://github.com/emagar/pc3/blob/master/lecturas/10revueltas-elec/nanetti-leonardi4.1TheContextOfItalianPolitics.pdf) 21 pp.
+    -   cap 4.2 [Where is the power?](https://github.com/emagar/pc3/blob/master/lecturas/10revueltas-elec/nanetti-leonardi4.2WhereIsThePower.pdf) 22 pp.
+    -   cap 4.3 [Who has the power?](https://github.com/emagar/pc3/blob/master/lecturas/10revueltas-elec/nanetti-leonardi4.3WhoHasThePower.pdf) 54 pp.
 
 -   Putnam (1993) *Making Democracy Work*
-    -   cap 5 [Tracing the roots of the civic community](https://github.com/emagar/pc3/blob/master/lecturas/04italia/putnam-MakingDemWork-cap5.pdf) 40 pp.
--   Achen y Bartels (2016) [Democracy for Realists](https://github.com/emagar/pc3/blob/master/lecturas/04italia/achen-bartels2016democracy-for-realists.pdf)
+    -   cap 5 [Tracing the roots of the civic community](https://github.com/emagar/pc3/blob/master/lecturas/10revueltas-elec/putnam-MakingDemWork-cap5.pdf) 40 pp.
+-   Achen y Bartels (2016) [Democracy for Realists](https://github.com/emagar/pc3/blob/master/lecturas/10revueltas-elec/achen-bartels2016democracy-for-realists.pdf)
     -   cap 1 Democratic ideals and realities 20 pp.
     -   cap 4 A rational God of vengeance and of reward? The logic of retrospective accountability 25 pp.
     -   cap 5 Blind retrospection: electoral responses to droughts, floods, and shark attacks 29 pp.
     -   cap 7 A chicken in every pot: ideology and retrospection in the Great Depression 36 pp.
     -   cap 8 The very bases of reasons: groups, social identities, and political psychology 18 pp.
     -   cap 10 It feels like we're thinking: the rationalizing voter 29 pp.                                <&#x2013;
--   Aldrich (1983) [A Downsian Spatial Model with Party Activism](https://github.com/emagar/pc3/blob/master/lecturas/04italia/aldrichDownsianActivists1983apsr.pdf) 27 pp.
--   Miller y Schofield (2003) [Activists and Partisan Realignment in the United States](https://github.com/emagar/pc3/blob/master/lecturas/04italia/miller-schofield2003apsr.pdf) 16 pp.
+-   Aldrich (1983) [A Downsian Spatial Model with Party Activism](https://github.com/emagar/pc3/blob/master/lecturas/10revueltas-elec/aldrichDownsianActivists1983apsr.pdf) 27 pp.
+-   Miller y Schofield (2003) [Activists and Partisan Realignment in the United States](https://github.com/emagar/pc3/blob/master/lecturas/10revueltas-elec/miller-schofield2003apsr.pdf) 16 pp.
 
 
-<a id="org4c8befc"></a>
+<a id="org39ecd89"></a>
 
 # La redistritación (semanas 15 y 16)
 
