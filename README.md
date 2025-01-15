@@ -1,67 +1,50 @@
+- [Prueba de hipótesis y regresión lineal, un repaso (semanas 1 y 2)](#org9386fb6)
+- [Causalidad y método comparativo (semana 3)](#orgc824251)
+- [Representación política (semana 3)](#org6cbdeed)
+- [La delegación: piedra nodal del gobierno (semanas 4 y 5)](#orgd649b21)
+- [Los partidos como agentes de gobierno (semanas 6 y 7)](#org24cd965)
+- [La conexión electoral (semanas 8 y 9)](#org947b762)
+- [Dinastías políticas (semana 10)](#orgbdb411c)
+- [El proceso legislativo (semanas 11 y 12)](#org6ba98ea)
+- [La redistritación (semanas 13 y 14)](#org684539f)
+- [Las maquinarias partidistas (semana 15)](#org0e6c73a)
+- [El muy largo plazo (semanas 15 y 16)](#orgd6bed0e)
+- [La coordinación electoral (semana 17)](#orge152d60)
 
-# &Iacute;ndice
-
-1.  [Trabajo final](#orgdd226e9)
-2.  [Tres escuelas de política comparada (semana 1)](#orgcdf831f)
-3.  [Prueba de hipótesis y regresión lineal, un repaso (semanas 1 y 2)](#orge31d1b8)
-4.  [Representación política (semana 3)](#org14b6e48)
-5.  [La conexión electoral (semanas 4 a 6)](#org0ec5a25)
-6.  [Dinastías políticas (semana 7)](#orge4d503f)
-7.  [Luminosidad (semana 8)](#orgbb46a4c)
-8.  [Los partidos como agentes de gobierno (semanas 9 y 10)](#orgda9deb4)
-9.  [La delegación: piedra nodal del gobierno (semanas 11 y 12)](#orgb7a4618)
-10. [Revueltas electorales: Italia (semanas 13 y 14)](#org3c1ecfd)
-11. [La redistritación (semanas 15 y 16)](#org39ecd89)
-
-ITAM Depto. de ciencia política, otoño 2021
+ITAM Depto. de ciencia política, primavera 2025
 
 **Política Comparada III**
 
 Profesor: Eric Magar Meurs ([emagar@itam.mx](mailto:emagar@itam.mx))
 
-Lunes y miércoles 11:30&#x2013;13:00, salón B-5 (RH)
+Lunes y miércoles 10:00&#x2013;11:30, salón 308
 
-*Objetivo*: El curso cierra la serie de política comparada del programa de ciencia política. El hilo conductor del tercer curso será la representación política. Repasaremos la estructura y procesos de la representación, la distinción de sus aspectos sustanciales y simbólicos, el papel de las elecciones periódicas y la ambición política, así como el papel que juegan las reglas electorales y los partidos. Haremos hincapié en la conexión fundamental entre la teoría y la evidencia que la sustenta.
+*Objetivo*: El curso cierra la serie de política comparada del programa de ciencia política. El hilo conductor del tercer curso será la representación política, con digresiones para cubrir la economía política histórica, la coordinación electoral y los equilibrios electorales. Repasaremos la estructura y procesos de la representación, la distinción de sus aspectos sustanciales y simbólicos, el papel de las elecciones periódicas y la ambición política, así como el papel que juegan las reglas electorales y los partidos. Haremos hincapié en la conexión fundamental entre la teoría y la evidencia que la sustenta.
 
-*Horas de oficina*: Serán únicamente con cita para evitar hacinamientos, y podrán ser en mi oficina o vía zoom.
+*Horas de oficina*: lunes y miércoles de 11:30 a 13:00, o con cita.
 
-*Clases presenciales*: Este curso migra a la modalidad híbrida en la **etapa 2** el 30 de agosto. Esto podría cambiar según evolucionen las condiciones y los [lineamientos de vicerrectoría](https://www.itam.mx/es/conoce-las-medidas-para-el-inicio-de-las-actividades-semipresenciales-en-el-itam). 
+*Evaluación*: Habrá un trabajo parcial y otro final. Contarán 40% de la calificación final cada uno. En su momento anunciaré sus formatos. El 20% restante valorará su desempeño en clase, participación y conocimiento de las lecturas.
 
-*Evaluación*: Habrá un trabajo final que contará 80% de su calificación final: 30% la primera entrega y 50% la final. El 20% restante valorará la participación en clase y la impresión general que deje en su profesor.  
+*Notas*: (1) La página del curso es <https://github.com/emagar/pc3/>. Alberga este temario, las lecturas y materiales del curso. (2) El temario sufrirá modificaciones marginales en el transcurso del semestre para quitar, añadir o cambiar la secuencia de algunos temas. Anunciaré esto en clase y se verá reflejado en el temario.
 
-*Notas*: (1) La página del curso es <https://github.com/emagar/pc3/>. Alberga este temario, las lecturas y materiales diversos. (2) El temario sufrirá modificaciones marginales en el transcurso del semestre para quitar, añadir o cambiar la secuencia de algunos temas. Anunciaré esto en clase y se verá reflejado en el temario.
+*Días de asueto*: lunes 3 de febrero (Constitución), lunes 17 de marzo (Benito Juárez), lunes 14 al viernes 18 de abril (Semana Santa) y jueves 1 y viernes 2 de mayo (Trabajo).
 
-*Días de asueto*: 2021-11-01 (muertos) y 2021-11-15 (Aniv. de la Rev.?)
+*No habrá clases*: lunes 24 y miércoles 26 de febrero.
 
-*No habrá clases*: <del>2021-10-25 ni el</del> 2021-10-27
+*Última clase*: miércoles 14 de mayo.
 
-*Última clase*: 2021-12-01
-
-*Examen final*: 2021-12-14 7:00-10:00. 
+*Exámenes finales*: del lunes 19 al sábado 31 de mayo.
 
 ---
 
 
-<a id="orgdd226e9"></a>
-
-# Trabajo final
-
-Enlace [aquí](./final/). Fechas: la primera entrega (individual, que describe lo que piensan explorar) deben hacerla antes del lunes 8 de noviembre; la entrega final (individual o en equipo) el día que nos asigne Dirección Escolar. 
-
----
-
-
-<a id="orgcdf831f"></a>
-
-# Tres escuelas de política comparada (semana 1)
-
-
-<a id="orge31d1b8"></a>
+<a id="org9386fb6"></a>
 
 # Prueba de hipótesis y regresión lineal, un repaso (semanas 1 y 2)
 
--   Shively (1974) *The Craft of Political Research*, 
+-   Shively (1974) *The Craft of Political Research*,
     -   cap. 7 ["Introduction to statistics: measuring relationships for interval data"](https://github.com/emagar/pc3/blob/master/lecturas/shivelyRegression.pdf) 22 pp.
+-   Pain (2016) [How to (seriously) read a scientific paper](https://www.science.org/content/article/how-seriously-read-scientific-paper) 5 pp.
 
 Articule la hipótesis principal de cada uno de los siguientes trabajos, por qué importa teóricamente y resuma la evidencia que aportan los modelos de regresión:
 
@@ -69,36 +52,88 @@ Articule la hipótesis principal de cada uno de los siguientes trabajos, por qu�
 -   Magar (2021) ["Mexico: Parties and Floor Access in the Cámara de Diputados"](https://github.com/emagar/pc3/blob/master/lecturas/magar-Speech-camara-Mx-2021oup.pdf) 27 pp.
 
 
-<a id="org14b6e48"></a>
+<a id="orgc824251"></a>
+
+# Causalidad y método comparativo (semana 3)
+
+-   Holland (1986) ["Statistics and causal inference"](https://github.com/emagar/pc3/blob/master/lecturas/hollandCausalInference1986jasa.pdf) 16 pp.
+-   [Scientific Method (2015) Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/scientific-method/#SciMetSciEduSeeSci)
+
+
+<a id="org6cbdeed"></a>
 
 # Representación política (semana 3)
 
--   Pitkin (2004) ["Representation and Democracy: Uneasy Alliance"](https://github.com/emagar/pc3/blob/master/lecturas/02representacion/pitkin2004representationAndDemocUneasyAlliance.pdf) 8 pp.
--   Urbinati (2000) ["Representation as Advocacy"](https://github.com/emagar/pc3/blob/master/lecturas/02representacion/urbinati2000representationAsAdvocacy.pdf) 22 pp.
+-   Pitkin (2004) ["Representation and Democracy: Uneasy Alliance"](https://github.com/emagar/pc3/blob/master/lecturas/pitkin2004representationAndDemocUneasyAlliance.pdf) 8 pp.
+-   Urbinati (2000) ["Representation as Advocacy"](https://github.com/emagar/pc3/blob/master/lecturas/urbinati2000representationAsAdvocacy.pdf) 22 pp.
+-   Bhavnani (2009) ["Do Electoral Quotas Work after They Are Withdrawn? Evidence from a Natural Experiment in India"](https://github.com/emagar/pc3/blob/master/lecturas/bhavnani-quotas-india-withdrawn2009apsr.pdf) 13 pp.
 
 
-<a id="org0ec5a25"></a>
+<a id="orgd649b21"></a>
 
-# La conexión electoral (semanas 4 a 6)
+# La delegación: piedra nodal del gobierno (semanas 4 y 5)
 
--   Mayhew, [Congress: The Electoral Connection](https://github.com/emagar/pc3/blob/master/lecturas/06reeleccion/mayhewInMcSullivan.pdf) (1974), pp. 18-29. ([Aquí](https://github.com/emagar/pc3/blob/master/lecturas/06reeleccion/mayhewCongressTheElectoralConnection2004book.pdf) el libro completo.)
--   Cain, Ferejohn y Fiorina, The personal vote
-    -   [Introduction](https://github.com/emagar/pc3/blob/master/lecturas/06reeleccion/cainFerejohnFiorinaIntro.pdf) 24 pp.
-    -   cap. 1 [Member visibility and member images](https://github.com/emagar/pc3/blob/master/lecturas/06reeleccion/cainFerejohnFiorina1.pdf) 23 pp.
-    -   cap. 5 [Unravelling a paradox](https://github.com/emagar/pc3/blob/master/lecturas/06reeleccion/cainFerejohnFiorina5.pdf) 14 pp.
--   Carson et al. (2020) [Nationalization and the Incumbency Advantage](https://github.com/emagar/pc3/blob/master/lecturas/06reeleccion/carson-etal-Incumb-advantage-2020prq.pdf) 13 pp.
+-   Kiewiet y McCubbins (1991) *The Logic of Delegation*,
+    -   cap. 2 ["Delegation and agency problems"](https://github.com/emagar/pc3/blob/master/lecturas/kiewiet.mccubbinsLogicDelegationCap2.pdf) 17 pp.
+-   McCubbins y Schwartz (1984) ["Congressional oversight overlooked: police patrols vs. fire alarms"](https://github.com/emagar/pc3/blob/master/lecturas/mccubbins.schwartzFireAlarms1984ajps.pdf) 15 pp.
+-   Raustiala (2004) ["Police patrols and fire alarms in the NAAEC"](https://github.com/emagar/pc3/blob/master/lecturas/raustialaFireAlarmsNAFTA2004.pdf) 25 pp.
+-   Siavelis (2000) ["Disconnected fire alarms in postauthoritarian Chile"](https://github.com/emagar/pc3/blob/master/lecturas/siavelis-Fire-alarms-chileJISWA2000.pdf) 27 pp.
+-   Estévez, Magar y Rosas (2008) ["Partisanship in non-partisan electoral agencies and democratic compliance: Evidence from Mexico's IFE"](https://github.com/emagar/ep3/blob/master/lecturas/EstevezMagarRosasIfeElecStud2008.pdf) 15 pp.
+
+
+<a id="org24cd965"></a>
+
+# Los partidos como agentes de gobierno (semanas 6 y 7)
+
+-   Cox (1987) [*The Efficient Secret*](https://github.com/emagar/pc3/blob/master/lecturas/cox.1987.efficientSecret.pdf)
+
+-   cap. 1 "Introduction and outline" 8 pp.
+-   cap. 2 "The historical setting" 10 pp.
+-   cap. 3 "The measurement and theory of party cohesion" 13 pp.
+-   cap. 4 "The Peelites and the disruption of the party system" 5 pp.
+-   cap. 5 "The caucus" 8 pp.
+-   cap. 6 "The origin of the efficient secret" 23 pp.
+-   cap. 7 "The electoral connection and ministerial ambition" 11 pp.
+-   cap. 8 "The cabinet's strength: threats of resignation and dissolution" 8 pp.
+
+-   cap. 9 "The development of a party oriented electorate" 22 pp.
+-   cap. 10 "The causes of a party-oriented electorate" 24 pp.
+-   cap. 11 "The legislative consequences of a party-oriented electorate" 11 pp.
+-   cap. 12 "The inflouence of constituents in Victorian England" 18 pp.
+-   cap. 13 "The history of party voting" 2 pp.
+-   Appendix 5 pp.
+
+-   Cox (2006) [The organization of democratic legislatures](https://github.com/emagar/ep3/blob/master/lecturas/coxOrgDemLeg2006oxford.pdf) 19 pp.
+-   Krehbiel (1993) [Where's the party](https://github.com/emagar/pc3/blob/master/lecturas/krehbielWhereParty1993bjps.pdf) 32 pp.
+-   Cox y McCubbins (1993) *Legislative Leviathan*,
+    -   [Introduction](https://github.com/emagar/pc3/blob/master/lecturas/mcCoxLeviatanIntro.pdf) 15 pp.
+    -   cap. 3 [Subgovernments and the representativeness of committees](https://github.com/emagar/pc3/blob/master/lecturas/mcCoxLeviatanCap3.pdf) 21 pp.
+    -   cap. 5 [A theory of legislative parties](https://github.com/emagar/pc3/blob/master/lecturas/mcCoxLeviatanCap5.pdf) 30 pp.
+    -   cap. 8 [Contingents and parties](https://github.com/emagar/pc3/blob/master/lecturas/mcCoxLeviatanCap8.pdf) 42 pp.
+
+
+<a id="org947b762"></a>
+
+# La conexión electoral (semanas 8 y 9)
+
+-   Mayhew, [Congress: The Electoral Connection](https://github.com/emagar/pc3/blob/master/lecturas/mayhewInMcSullivan.pdf) (1974), pp. 18-29. ([Aquí](https://github.com/emagar/pc3/blob/master/lecturas/mayhewCongressTheElectoralConnection2004book.pdf) el libro completo.)
+-   Schlesinger, Micozzi
+-   Cain, Ferejohn y Fiorina, *The personal vote*
+    -   [Introduction](https://github.com/emagar/pc3/blob/master/lecturas/cainFerejohnFiorinaIntro.pdf) 24 pp.
+    -   cap. 1 [Member visibility and member images](https://github.com/emagar/pc3/blob/master/lecturas/cainFerejohnFiorina1.pdf) 23 pp.
+    -   cap. 5 [Unravelling a paradox](https://github.com/emagar/pc3/blob/master/lecturas/cainFerejohnFiorina5.pdf) 14 pp.
+-   Carson et al. (2020) [Nationalization and the Incumbency Advantage](https://github.com/emagar/pc3/blob/master/lecturas/carson-etal-Incumb-advantage-2020prq.pdf) 13 pp.
 -   Merino, Fierro, Zarkin (2013) [Por qué la reelección sirve y por qué no servirá en México](https://www.animalpolitico.com/blogueros-salir-de-dudas/2013/12/05/por-que-la-reeleccion-sirve-y-por-que-servira-en-mexico/).
--   Zaller (1998) [Politicians as Prize Fighters: Electoral Selection and Incumbency Advantage](https://github.com/emagar/pc3/blob/master/lecturas/06reeleccion/zallerPrizeFighters1998.pdf).
--   Motolinia (2020) [Electoral Accountability and Particularistic Legislation: Evidence from an Electoral Reform in Mexico](https://github.com/emagar/pc3/blob/master/lecturas/06reeleccion/motolinia2020particularistic.pdf).
+-   Zaller (1998) [Politicians as Prize Fighters: Electoral Selection and Incumbency Advantage](https://github.com/emagar/pc3/blob/master/lecturas/zallerPrizeFighters1998.pdf) 51 pp.
+-   Motolinia (2020) [Electoral Accountability and Particularistic Legislation: Evidence from an Electoral Reform in Mexico](https://github.com/emagar/pc3/blob/master/lecturas/motolinia2020particularistic.pdf) 46 pp.
 -   Jacobson (1985) Money and votes reconsidered, Congressional elections 57 pp.
--   Cox y Katz (2002) [Elbridge Gerry's Salamander](https://github.com/emagar/pc3/blob/master/lecturas/06reeleccion/cox.katzEgerrySalamander2002book.pdf), caps. 8 y 9, 34 pp.
 
 
-<a id="orge4d503f"></a>
+<a id="orgbdb411c"></a>
 
-# Dinastías políticas (semana 7)
+# Dinastías políticas (semana 10)
 
--   Smith (2017) [Dynasties and Democracy](https://github.com/emagar/pc3/blob/master/lecturas/07dinastias/smithDanDynasticBookManuscript-1-24-2017.pdf)
+-   Smith (2017) [Dynasties and Democracy](https://github.com/emagar/pc3/blob/master/lecturas/smithDanDynasticBookManuscript-1-24-2017.pdf)
     -   cap. 1 Introduction 27 pp.
     -   cap. 2 Japan into comparative perspective 20 pp.
     -   cap. 3 Theory of dynastic candidate selection 34 pp.
@@ -108,77 +143,64 @@ Articule la hipótesis principal de cada uno de los siguientes trabajos, por qu�
 -   Ríos (2018) [El déficit meritocrático](https://github.com/emagar/pc3/blob/master/lecturas/07dinastias/riosDeficitMeritocratico2018.pdf) 70 pp.
 -   Enríquez (2017) [Dinastías políticas municipales](https://github.com/emagar/pc3/blob/master/lecturas/07dinastias/jose-ramon-enriquez-dinastias2017tesis.pdf) 110 pp.
 -   Querubín (2016) [Family and Politics: Dynastic persistence in the Philippines](https://github.com/emagar/pc3/blob/master/lecturas/07dinastias/querubin2016qjps.pdf) 30 pp.
+-   Velasco (2015) [Political Dynasties and Party Strength: Evidence from Victorian Britain](https://github.com/emagar/pc3/blob/master/lecturas/07dinastias/velascoDynasticBritain2015draft.pdf) 47 pp.
 
 
-<a id="orgbb46a4c"></a>
+<a id="org6ba98ea"></a>
 
-# Luminosidad (semana 8)
+# El proceso legislativo (semanas 11 y 12)
 
--   Chen y Nordhaus (2011) ["Using luminosity data as a proxy for economic statistics"](https://github.com/emagar/pc3/blob/master/lecturas/08luminosidad/chen-nordhaus-Luminosity-gdp-2011pnas.pdf) 6 pp.
--   Livny (2021) ["Can religiosity be sensed with satellite data?"](https://github.com/emagar/pc3/blob/master/lecturas/08luminosidad/livny-Religiosity-satellite2021.pdf) 28 pp.
--   Goettsch et al. (2021) [Extinction risk of Mesoamerican crop wild relatives](https://nph.onlinelibrary.wiley.com/doi/full/10.1002/ppp3.10225)
--   Franco et al. (2021) ["Long-term effects of the Inca road"](https://github.com/emagar/pc3/blob/master/lecturas/franco-etal-Inca-road2021.pdf) 30 pp.
-
--   Datos de luninosidad satelital en municipios y secciones electorales de México [aquí](https://github.com/emagar/luminosity)
-
-
-<a id="orgda9deb4"></a>
-
-# Los partidos como agentes de gobierno (semanas 9 y 10)
-
--   Cox (1987) [The Efficient Secret](https://github.com/emagar/pc3/blob/master/lecturas/09partidos/cox.1987.efficientSecret.bookFi.org.djvu).
--   Krehbiel (1993) [Where's the party](https://github.com/emagar/pc3/blob/master/lecturas/09partidos/krehbielWhereParty1993bjps.pdf) 32 pp.
--   Cox y McCubbins (1993) Legislative Leviathan, 
-    -   [Introduction](https://github.com/emagar/pc3/blob/master/lecturas/09partidos/mcCoxLeviatanIntro.pdf) 15 pp.
-    -   cap. 3 [Subgovernments and the representativeness of committees](https://github.com/emagar/pc3/blob/master/lecturas/09partidos/mcCoxLeviatanCap3.pdf) 21 pp.
-    -   cap. 5 [A theory of legislative parties](https://github.com/emagar/pc3/blob/master/lecturas/09partidos/mcCoxLeviatanCap5.pdf) 30 pp.
-    -   cap. 8 [Contingents and parties](https://github.com/emagar/pc3/blob/master/lecturas/09partidos/mcCoxLeviatanCap8.pdf) 42 pp.
+-   Krehbiel (1998) *Pivotal Politics*
+    -   cap. 2, ["A theory"](https://github.com/emagar/pc3/blob/master/lecturas/krehbiel1998Ch2.pdf) 29 pp.
+-   Magar et al. (2021) ["Presidents on the Fast Track: Fighting Floor Amendments with Restrictive Rules"](https://github.com/emagar/pc3/blob/master/lecturas/magar-etal-Pdts-fast-track2021jop.pdf) 14 pp.
+-   Magar (2021) ["Mexico: Parties and Floor Access in the Cámara de Diputados"](https://github.com/emagar/pc3/blob/master/lecturas/magar-Speech-camara-Mx-2021oup.pdf) 27 pp.
+-   Bawn y Rosenbluth (2006) ["Short versus long coalitions"](https://github.com/emagar/ep3/blob/master/lecturas/bawn+rosenbluthCoalitionSize2006ajps.pdf) 15 pp.
+-   Huber (1996) ["The vote of confidence in parliamentary democracies"](https://github.com/emagar/ep3/blob/master/lecturas/huberConfidVoteApsr1996.pdf) 14 pp.
+-   Heller (2001) ["Making policy stick: why government gets what it wants in multiparty Parliaments"](https://github.com/emagar/ep3/blob/master/lecturas/hellerPolicyStickAjps2001.pdf) 19 pp.
 
 
-<a id="orgb7a4618"></a>
+<a id="org684539f"></a>
 
-# La delegación: piedra nodal del gobierno (semanas 11 y 12)
+# La redistritación (semanas 13 y 14)
 
--   Kiewiet y McCubbins (1991) *The Logic of Delegation*,
-    -   cap. 2 ["Delegation and agency problems"](https://github.com/emagar/pc3/blob/master/lecturas/03delegacion/kiewiet.mccubbinsLogicDelegationCap2.pdf) 17 pp.
--   McCubbins y Schwartz (1984) ["Congressional oversight overlooked: police patrols vs. fire alarms"](https://github.com/emagar/pc3/blob/master/lecturas/03delegacion/mccubbins.schwartzFireAlarms1984ajps.pdf) 15 pp.
--   Raustiala (2004) ["Police patrols and fire alarms in the NAAEC"](https://github.com/emagar/pc3/blob/master/lecturas/03delegacion/raustialaFireAlarmsNAFTA2004.pdf) 25 pp.
--   Siavelis (2000) ["Disconnected fire alarms in postauthoritarian Chile"](https://github.com/emagar/pc3/blob/master/lecturas/03delegacion/siavelis-Fire-alarms-chileJISWA2000.pdf) 27 pp.
--   Polga y Trelles (2016) ["A research agenda for the study of bureaucratic politics in Latin America"](https://github.com/emagar/pc3/blob/master/lecturas/03delegacion/polga-trelles-Burpol-latam-reviewLAPS2016.pdf) 23 pp.
-
-
-<a id="org3c1ecfd"></a>
-
-# Revueltas electorales: Italia (semanas 13 y 14)
-
--   Rhodes-Purdy et al. (2021) ["Populist psychology: economics, culture, and emotions"](https://github.com/emagar/pc3/blob/master/lecturas/10revueltas-elec/rhodes-purdy-etal-Populist-Psychology-2021jop.pdf) 30 pp. (excluya el largo apéndice).
--   Nanetti y Leonardi (2015) en Hancock *Politics in Europe* 
-    -   cap 4.1 [The context of Italian politics](https://github.com/emagar/pc3/blob/master/lecturas/10revueltas-elec/nanetti-leonardi4.1TheContextOfItalianPolitics.pdf) 21 pp.
-    -   cap 4.2 [Where is the power?](https://github.com/emagar/pc3/blob/master/lecturas/10revueltas-elec/nanetti-leonardi4.2WhereIsThePower.pdf) 22 pp.
-    -   cap 4.3 [Who has the power?](https://github.com/emagar/pc3/blob/master/lecturas/10revueltas-elec/nanetti-leonardi4.3WhoHasThePower.pdf) 54 pp.
-
--   Putnam (1993) *Making Democracy Work*
-    -   cap 5 [Tracing the roots of the civic community](https://github.com/emagar/pc3/blob/master/lecturas/10revueltas-elec/putnam-MakingDemWork-cap5.pdf) 40 pp.
--   Achen y Bartels (2016) [Democracy for Realists](https://github.com/emagar/pc3/blob/master/lecturas/10revueltas-elec/achen-bartels2016democracy-for-realists.pdf)
-    -   cap 1 Democratic ideals and realities 20 pp.
-    -   cap 4 A rational God of vengeance and of reward? The logic of retrospective accountability 25 pp.
-    -   cap 5 Blind retrospection: electoral responses to droughts, floods, and shark attacks 29 pp.
-    -   cap 7 A chicken in every pot: ideology and retrospection in the Great Depression 36 pp.
-    -   cap 8 The very bases of reasons: groups, social identities, and political psychology 18 pp.
-    -   cap 10 It feels like we're thinking: the rationalizing voter 29 pp.                                <&#x2013;
--   Aldrich (1983) [A Downsian Spatial Model with Party Activism](https://github.com/emagar/pc3/blob/master/lecturas/10revueltas-elec/aldrichDownsianActivists1983apsr.pdf) 27 pp.
--   Miller y Schofield (2003) [Activists and Partisan Realignment in the United States](https://github.com/emagar/pc3/blob/master/lecturas/10revueltas-elec/miller-schofield2003apsr.pdf) 16 pp.
-
-
-<a id="org39ecd89"></a>
-
-# La redistritación (semanas 15 y 16)
-
--   Handley y Grofman (2008) [*Redistricting in Comparative Perspective*](https://github.com/emagar/pc3/blob/master/lecturas/08redistritacion/grofmanHandleyRedistrictingCompPersBook.pdf)
+-   Handley y Grofman (2008) [*Redistricting in Comparative Perspective*](https://github.com/emagar/pc3/blob/master/lecturas/grofmanHandleyRedistrictingCompPersBook.pdf)
     -   cap. 3 Lujambio y Vives "From politics to technicalities: Mexican redistricting" 12 pp.
     -   cap. 4 McDonald "United States redistricting: comparative look at the 50 states" 18 pp.
--   Cox y Katz (2002) [*Elbridge Gerry's Salamander*](https://github.com/emagar/pc3/blob/master/lecturas/08redistritacion/cox.katzEgerrySalamander2002book.pdf)
--   Johnston, Pattie y Rossiter (2008) "Electoral distortion despite redistricting by independent commissions" 20 pp.
--   Magar et al polGeo
--   Engstrom Partisan gerrymandering
+-   Engstrom (2006) ["Stacking the States, Stacking the House: The Partisan Consequences of Congressional Redistricting in the 19th Century"](https://github.com/emagar/pc3/blob/master/lecturas/engstromRedistricting19thC2006apsr.pdf) 9 pp.
 
+-   Magar et al. (2016) ["Components of partisan bias originating from single-member districts in multi-party systems"](https://github.com/emagar/pc3/blob/master/magar.etalComponentsPartisanBiasMultiparty2017pg-webPub.pdf) 12 pp.
+
+
+<a id="org0e6c73a"></a>
+
+# Las maquinarias partidistas (semana 15)
+
+-   Riordon, *Plunkitt of Tamany Hall*, 135 pp.
+    -   [parte I](https://github.com/emagar/pc2/blob/master/lecturas/plunkitt1.pdf)
+    -   [parte II](https://github.com/emagar/pc2/blob/master/lecturas/plunkitt2.pdf)
+-   OJO: esta clase será más larga. Nos reuniremos de 15:00 a 17:30 para ver y discutir la película All the King’s Men de R. Rossen (1949).
+
+
+<a id="orgd6bed0e"></a>
+
+# El muy largo plazo (semanas 15 y 16)
+
+-   Garfias (2018) ["Elite competition and State capacity development: Theory and evidence from post-Revolutionary Mexico"](https://github.com/emagar/pc3/blob/master/lecturas/garfias-state-developmnebt2018apsr.pdf) 19 pp.
+-   Nunn y Wantchenkon (2011) ["The Slave Trade and the Origins of Mistrust in Africa"](https://github.com/emagar/pc3/blob/master/lecturas/nunn.wantchekon.Slave-Trade-Mistrust2011aer.pdf) 32 pp.
+-   Franco et al. (2021) ["The Long-Term Effects of the Inca Road"](https://github.com/emagar/pc3/blob/master/lecturas/franco-etal-Inca-road2021.pdf) 30 pp.
+-   Degrave, [Local Rule, Elites, and Popular Grievances: Evidence from *Ancien Régime* France](https://github.com/emagar/paper-mirror/blob/master/lit/degrave-paysdetat2022jhpe.pdf), 30 pp.
+-   Livny (2021) ["Can religiosity be sensed with satellite data?"](https://github.com/emagar/pc3/blob/master/lecturas/livny-Religiosity-satellite2021.pdf) 28 pp.
+
+
+<a id="orge152d60"></a>
+
+# La coordinación electoral (semana 17)
+
+-   Cox, [*Making Votes Count*](https://github.com/emagar/pc3/blob/master/lecturas/cox.1987.efficientSecret.pdf) (1997)
+    -   cap. 2 Duverger's propositions 21 pp.
+    -   cap. 3 On electoral systems 32 pp.
+    -   cap. 4 Strategic voting in single-member single-ballot systems 29 pp.
+    -   cap. 5 Strategic voting in multimember systems 24 pp.
+    -   cap. 7 Some concluding comments on strategic voting 10 pp.
+    -   cap. 8 Strategic voting, party labels, and entry 24 pp.
+    -   cap. 9 Rational entry and the conservation of disproportionality: Evidence from Japan 6 pp.
