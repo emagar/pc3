@@ -1,15 +1,15 @@
-- [Prueba de hipótesis y regresión lineal, un repaso (semanas 1 y 2)](#org6e43b27)
-- [Causalidad y método comparativo (semana 3)](#org5cb5966)
-- [Representación política (semana 3)](#orgf188d92)
-- [La delegación: piedra nodal del gobierno (semanas 4 y 5)](#org49d1ab2)
-- [Los partidos como agentes de gobierno (semanas 6 y 7)](#org872e7b5)
-- [La conexión electoral (semanas 8 y 9)](#org794a4e2)
-- [Dinastías políticas (semana 10)](#org9a74123)
-- [El proceso legislativo (semanas 11 y 12)](#org1e3aa96)
-- [La redistritación (semanas 13 y 14)](#org9f14316)
-- [Las maquinarias partidistas (semana 15)](#orge1176c1)
-- [El muy largo plazo (semanas 15 y 16)](#orgdd3a07d)
-- [La coordinación electoral (semana 17)](#orgd8a6c53)
+- [Prueba de hipótesis y regresión lineal, un repaso (semanas 1 y 2)](#orga199001)
+- [Causalidad y método comparativo (semana 3)](#org765a1d7)
+- [Representación política (semana 3)](#org76178fe)
+- [La delegación: piedra nodal del gobierno (semanas 4 y 5)](#orgf92f895)
+- [Los partidos como agentes de gobierno (semanas 6 y 7)](#org755345c)
+- [La conexión electoral (semanas 8 y 9)](#org3c5c18e)
+- [Dinastías políticas (semana 10)](#org9dfc0cc)
+- [El proceso legislativo (semanas 11 y 12)](#org115cc5b)
+- [La redistritación (semanas 13 y 14)](#org3556d5e)
+- [Las maquinarias partidistas (semana 15)](#orge4918ab)
+- [El muy largo plazo (semanas 15 y 16)](#org2a4a55e)
+- [La coordinación electoral (semana 17)](#orgc020090)
 
 ITAM Depto. de ciencia política, primavera 2025
 
@@ -17,7 +17,7 @@ ITAM Depto. de ciencia política, primavera 2025
 
 Profesor: Eric Magar Meurs ([emagar@itam.mx](mailto:emagar@itam.mx))
 
-Lunes y miércoles 10:00&#x2013;11:30, salón 308
+Lunes y miércoles 8:30&#x2013;10:00, salón 308
 
 *Objetivo*: El curso cierra la serie de política comparada del programa de ciencia política. El hilo conductor del tercer curso será la representación política, con digresiones para cubrir la economía política histórica, la coordinación electoral y los equilibrios electorales. Repasaremos la estructura y procesos de la representación, la distinción de sus aspectos sustanciales y simbólicos, el papel de las elecciones periódicas y la ambición política, así como el papel que juegan las reglas electorales y los partidos. Haremos hincapié en la conexión fundamental entre la teoría y la evidencia que la sustenta.
 
@@ -38,7 +38,7 @@ Lunes y miércoles 10:00&#x2013;11:30, salón 308
 ---
 
 
-<a id="org6e43b27"></a>
+<a id="orga199001"></a>
 
 # Prueba de hipótesis y regresión lineal, un repaso (semanas 1 y 2)
 
@@ -52,7 +52,7 @@ Articule la hipótesis principal de cada uno de los siguientes trabajos, por qu�
 -   Magar (2021) ["Mexico: Parties and Floor Access in the Cámara de Diputados"](https://github.com/emagar/pc3/blob/master/lecturas/magar-Speech-camara-Mx-2021oup.pdf) 27 pp.
 
 
-<a id="org5cb5966"></a>
+<a id="org765a1d7"></a>
 
 # Causalidad y método comparativo (semana 3)
 
@@ -60,7 +60,7 @@ Articule la hipótesis principal de cada uno de los siguientes trabajos, por qu�
 -   [Scientific Method (2015) Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/scientific-method/#SciMetSciEduSeeSci)
 
 
-<a id="orgf188d92"></a>
+<a id="org76178fe"></a>
 
 # Representación política (semana 3)
 
@@ -69,7 +69,7 @@ Articule la hipótesis principal de cada uno de los siguientes trabajos, por qu�
 -   Bhavnani (2009) ["Do Electoral Quotas Work after They Are Withdrawn? Evidence from a Natural Experiment in India"](https://github.com/emagar/pc3/blob/master/lecturas/bhavnani-quotas-india-withdrawn2009apsr.pdf) 13 pp.
 
 
-<a id="org49d1ab2"></a>
+<a id="orgf92f895"></a>
 
 # La delegación: piedra nodal del gobierno (semanas 4 y 5)
 
@@ -81,7 +81,7 @@ Articule la hipótesis principal de cada uno de los siguientes trabajos, por qu�
 -   Estévez, Magar y Rosas (2008) ["Partisanship in non-partisan electoral agencies and democratic compliance: Evidence from Mexico's IFE"](https://github.com/emagar/ep3/blob/master/lecturas/EstevezMagarRosasIfeElecStud2008.pdf) 15 pp.
 
 
-<a id="org872e7b5"></a>
+<a id="org755345c"></a>
 
 # Los partidos como agentes de gobierno (semanas 6 y 7)
 
@@ -109,7 +109,7 @@ Articule la hipótesis principal de cada uno de los siguientes trabajos, por qu�
     -   cap. 8 [Contingents and parties](https://github.com/emagar/pc3/blob/master/lecturas/mcCoxLeviatanCap8.pdf) 42 pp.
 
 
-<a id="org794a4e2"></a>
+<a id="org3c5c18e"></a>
 
 # La conexión electoral (semanas 8 y 9)
 
@@ -126,7 +126,7 @@ Articule la hipótesis principal de cada uno de los siguientes trabajos, por qu�
 -   Jacobson (1985) Money and votes reconsidered, Congressional elections 57 pp.
 
 
-<a id="org9a74123"></a>
+<a id="org9dfc0cc"></a>
 
 # Dinastías políticas (semana 10)
 
@@ -143,7 +143,7 @@ Articule la hipótesis principal de cada uno de los siguientes trabajos, por qu�
 -   Velasco (2015) [Political Dynasties and Party Strength: Evidence from Victorian Britain](https://github.com/emagar/pc3/blob/master/lecturas/07dinastias/velascoDynasticBritain2015draft.pdf) 47 pp.
 
 
-<a id="org1e3aa96"></a>
+<a id="org115cc5b"></a>
 
 # El proceso legislativo (semanas 11 y 12)
 
@@ -156,7 +156,7 @@ Articule la hipótesis principal de cada uno de los siguientes trabajos, por qu�
 -   Heller (2001) ["Making policy stick: why government gets what it wants in multiparty Parliaments"](https://github.com/emagar/ep3/blob/master/lecturas/hellerPolicyStickAjps2001.pdf) 19 pp.
 
 
-<a id="org9f14316"></a>
+<a id="org3556d5e"></a>
 
 # La redistritación (semanas 13 y 14)
 
@@ -168,7 +168,7 @@ Articule la hipótesis principal de cada uno de los siguientes trabajos, por qu�
 -   Magar et al. (2016) ["Components of partisan bias originating from single-member districts in multi-party systems"](https://github.com/emagar/pc3/blob/master/magar.etalComponentsPartisanBiasMultiparty2017pg-webPub.pdf) 12 pp.
 
 
-<a id="orge1176c1"></a>
+<a id="orge4918ab"></a>
 
 # Las maquinarias partidistas (semana 15)
 
@@ -178,7 +178,7 @@ Articule la hipótesis principal de cada uno de los siguientes trabajos, por qu�
 -   OJO: esta clase será más larga. Nos reuniremos de 15:00 a 17:30 para ver y discutir la película All the King’s Men de R. Rossen (1949).
 
 
-<a id="orgdd3a07d"></a>
+<a id="org2a4a55e"></a>
 
 # El muy largo plazo (semanas 15 y 16)
 
@@ -189,7 +189,7 @@ Articule la hipótesis principal de cada uno de los siguientes trabajos, por qu�
 -   Livny (2021) ["Can religiosity be sensed with satellite data?"](https://github.com/emagar/pc3/blob/master/lecturas/livny-Religiosity-satellite2021.pdf) 28 pp.
 
 
-<a id="orgd8a6c53"></a>
+<a id="orgc020090"></a>
 
 # La coordinación electoral (semana 17)
 
