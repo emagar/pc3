@@ -1,15 +1,15 @@
-- [Prueba de hipótesis y regresión lineal, un repaso (semanas 1 y 2)](#org9386fb6)
-- [Causalidad y método comparativo (semana 3)](#orgc824251)
-- [Representación política (semana 3)](#org6cbdeed)
-- [La delegación: piedra nodal del gobierno (semanas 4 y 5)](#orgd649b21)
-- [Los partidos como agentes de gobierno (semanas 6 y 7)](#org24cd965)
-- [La conexión electoral (semanas 8 y 9)](#org947b762)
-- [Dinastías políticas (semana 10)](#orgbdb411c)
-- [El proceso legislativo (semanas 11 y 12)](#org6ba98ea)
-- [La redistritación (semanas 13 y 14)](#org684539f)
-- [Las maquinarias partidistas (semana 15)](#org0e6c73a)
-- [El muy largo plazo (semanas 15 y 16)](#orgd6bed0e)
-- [La coordinación electoral (semana 17)](#orge152d60)
+- [Prueba de hipótesis y regresión lineal, un repaso (semanas 1 y 2)](#org6e43b27)
+- [Causalidad y método comparativo (semana 3)](#org5cb5966)
+- [Representación política (semana 3)](#orgf188d92)
+- [La delegación: piedra nodal del gobierno (semanas 4 y 5)](#org49d1ab2)
+- [Los partidos como agentes de gobierno (semanas 6 y 7)](#org872e7b5)
+- [La conexión electoral (semanas 8 y 9)](#org794a4e2)
+- [Dinastías políticas (semana 10)](#org9a74123)
+- [El proceso legislativo (semanas 11 y 12)](#org1e3aa96)
+- [La redistritación (semanas 13 y 14)](#org9f14316)
+- [Las maquinarias partidistas (semana 15)](#orge1176c1)
+- [El muy largo plazo (semanas 15 y 16)](#orgdd3a07d)
+- [La coordinación electoral (semana 17)](#orgd8a6c53)
 
 ITAM Depto. de ciencia política, primavera 2025
 
@@ -38,7 +38,7 @@ Lunes y miércoles 10:00&#x2013;11:30, salón 308
 ---
 
 
-<a id="org9386fb6"></a>
+<a id="org6e43b27"></a>
 
 # Prueba de hipótesis y regresión lineal, un repaso (semanas 1 y 2)
 
@@ -52,7 +52,7 @@ Articule la hipótesis principal de cada uno de los siguientes trabajos, por qu�
 -   Magar (2021) ["Mexico: Parties and Floor Access in the Cámara de Diputados"](https://github.com/emagar/pc3/blob/master/lecturas/magar-Speech-camara-Mx-2021oup.pdf) 27 pp.
 
 
-<a id="orgc824251"></a>
+<a id="org5cb5966"></a>
 
 # Causalidad y método comparativo (semana 3)
 
@@ -60,7 +60,7 @@ Articule la hipótesis principal de cada uno de los siguientes trabajos, por qu�
 -   [Scientific Method (2015) Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/scientific-method/#SciMetSciEduSeeSci)
 
 
-<a id="org6cbdeed"></a>
+<a id="orgf188d92"></a>
 
 # Representación política (semana 3)
 
@@ -69,7 +69,7 @@ Articule la hipótesis principal de cada uno de los siguientes trabajos, por qu�
 -   Bhavnani (2009) ["Do Electoral Quotas Work after They Are Withdrawn? Evidence from a Natural Experiment in India"](https://github.com/emagar/pc3/blob/master/lecturas/bhavnani-quotas-india-withdrawn2009apsr.pdf) 13 pp.
 
 
-<a id="orgd649b21"></a>
+<a id="org49d1ab2"></a>
 
 # La delegación: piedra nodal del gobierno (semanas 4 y 5)
 
@@ -81,28 +81,25 @@ Articule la hipótesis principal de cada uno de los siguientes trabajos, por qu�
 -   Estévez, Magar y Rosas (2008) ["Partisanship in non-partisan electoral agencies and democratic compliance: Evidence from Mexico's IFE"](https://github.com/emagar/ep3/blob/master/lecturas/EstevezMagarRosasIfeElecStud2008.pdf) 15 pp.
 
 
-<a id="org24cd965"></a>
+<a id="org872e7b5"></a>
 
 # Los partidos como agentes de gobierno (semanas 6 y 7)
 
 -   Cox (1987) [*The Efficient Secret*](https://github.com/emagar/pc3/blob/master/lecturas/cox.1987.efficientSecret.pdf)
-
--   cap. 1 "Introduction and outline" 8 pp.
--   cap. 2 "The historical setting" 10 pp.
--   cap. 3 "The measurement and theory of party cohesion" 13 pp.
--   cap. 4 "The Peelites and the disruption of the party system" 5 pp.
--   cap. 5 "The caucus" 8 pp.
--   cap. 6 "The origin of the efficient secret" 23 pp.
--   cap. 7 "The electoral connection and ministerial ambition" 11 pp.
--   cap. 8 "The cabinet's strength: threats of resignation and dissolution" 8 pp.
-
--   cap. 9 "The development of a party oriented electorate" 22 pp.
--   cap. 10 "The causes of a party-oriented electorate" 24 pp.
--   cap. 11 "The legislative consequences of a party-oriented electorate" 11 pp.
--   cap. 12 "The inflouence of constituents in Victorian England" 18 pp.
--   cap. 13 "The history of party voting" 2 pp.
--   Appendix 5 pp.
-
+    -   cap. 1 "Introduction and outline" 8 pp.
+    -   cap. 2 "The historical setting" 10 pp.
+    -   cap. 3 "The measurement and theory of party cohesion" 13 pp.
+    -   cap. 4 "The Peelites and the disruption of the party system" 5 pp.
+    -   cap. 5 "The caucus" 8 pp.
+    -   cap. 6 "The origin of the efficient secret" 23 pp.
+    -   cap. 7 "The electoral connection and ministerial ambition" 11 pp.
+    -   cap. 8 "The cabinet's strength: threats of resignation and dissolution" 8 pp.
+    -   cap. 9 "The development of a party oriented electorate" 22 pp.
+    -   cap. 10 "The causes of a party-oriented electorate" 24 pp.
+    -   cap. 11 "The legislative consequences of a party-oriented electorate" 11 pp.
+    -   cap. 12 "The inflouence of constituents in Victorian England" 18 pp.
+    -   cap. 13 "The history of party voting" 2 pp.
+    -   Appendix 5 pp.
 -   Cox (2006) [The organization of democratic legislatures](https://github.com/emagar/ep3/blob/master/lecturas/coxOrgDemLeg2006oxford.pdf) 19 pp.
 -   Krehbiel (1993) [Where's the party](https://github.com/emagar/pc3/blob/master/lecturas/krehbielWhereParty1993bjps.pdf) 32 pp.
 -   Cox y McCubbins (1993) *Legislative Leviathan*,
@@ -112,7 +109,7 @@ Articule la hipótesis principal de cada uno de los siguientes trabajos, por qu�
     -   cap. 8 [Contingents and parties](https://github.com/emagar/pc3/blob/master/lecturas/mcCoxLeviatanCap8.pdf) 42 pp.
 
 
-<a id="org947b762"></a>
+<a id="org794a4e2"></a>
 
 # La conexión electoral (semanas 8 y 9)
 
@@ -129,7 +126,7 @@ Articule la hipótesis principal de cada uno de los siguientes trabajos, por qu�
 -   Jacobson (1985) Money and votes reconsidered, Congressional elections 57 pp.
 
 
-<a id="orgbdb411c"></a>
+<a id="org9a74123"></a>
 
 # Dinastías políticas (semana 10)
 
@@ -146,7 +143,7 @@ Articule la hipótesis principal de cada uno de los siguientes trabajos, por qu�
 -   Velasco (2015) [Political Dynasties and Party Strength: Evidence from Victorian Britain](https://github.com/emagar/pc3/blob/master/lecturas/07dinastias/velascoDynasticBritain2015draft.pdf) 47 pp.
 
 
-<a id="org6ba98ea"></a>
+<a id="org1e3aa96"></a>
 
 # El proceso legislativo (semanas 11 y 12)
 
@@ -159,7 +156,7 @@ Articule la hipótesis principal de cada uno de los siguientes trabajos, por qu�
 -   Heller (2001) ["Making policy stick: why government gets what it wants in multiparty Parliaments"](https://github.com/emagar/ep3/blob/master/lecturas/hellerPolicyStickAjps2001.pdf) 19 pp.
 
 
-<a id="org684539f"></a>
+<a id="org9f14316"></a>
 
 # La redistritación (semanas 13 y 14)
 
@@ -171,7 +168,7 @@ Articule la hipótesis principal de cada uno de los siguientes trabajos, por qu�
 -   Magar et al. (2016) ["Components of partisan bias originating from single-member districts in multi-party systems"](https://github.com/emagar/pc3/blob/master/magar.etalComponentsPartisanBiasMultiparty2017pg-webPub.pdf) 12 pp.
 
 
-<a id="org0e6c73a"></a>
+<a id="orge1176c1"></a>
 
 # Las maquinarias partidistas (semana 15)
 
@@ -181,7 +178,7 @@ Articule la hipótesis principal de cada uno de los siguientes trabajos, por qu�
 -   OJO: esta clase será más larga. Nos reuniremos de 15:00 a 17:30 para ver y discutir la película All the King’s Men de R. Rossen (1949).
 
 
-<a id="orgd6bed0e"></a>
+<a id="orgdd3a07d"></a>
 
 # El muy largo plazo (semanas 15 y 16)
 
@@ -192,7 +189,7 @@ Articule la hipótesis principal de cada uno de los siguientes trabajos, por qu�
 -   Livny (2021) ["Can religiosity be sensed with satellite data?"](https://github.com/emagar/pc3/blob/master/lecturas/livny-Religiosity-satellite2021.pdf) 28 pp.
 
 
-<a id="orge152d60"></a>
+<a id="orgd8a6c53"></a>
 
 # La coordinación electoral (semana 17)
 
