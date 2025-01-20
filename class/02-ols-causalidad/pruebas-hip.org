@@ -1,0 +1,61 @@
+Clase pruebas de hipótesis --- OLS
+
+I intro
+Objetivo: documentar patrones en lo que observamos para tomar decisión basada en datos
+1. describir la variación
+2. contrastar grupos
+3. establecer causalidad
+
+2 y 3 echan mano de pruebas de hipótesis
+
+Empiricismo: inferencia para inducción (2) o para deducción (3)
+
+II Pruebas de hipótesis
+
+Buscas inferir diferencias entre grupos de la población con base en una muestra. Parte fundamental del método científico.
+
+Involucra hipótesis nula y alternativa y un nivel de significancia. Aclararemos estos términos y la intuición detrás.
+
+- H0 vs HA exhaustivas y mutuamente excluyentes. Típicamente H0 afirma que no hay diferencia entre dos grupos
+
+Ejemplos: Cuál es la H0 y su problema teórico, diseña una prueba
+- incrementar el salario mínimo por ley (sin incrementar la productividad) genera desempleo y sustitución de trabajadores por otros más productivos
+- cobrar US$0.75 en la distribución de mosquiteros contra la malaria aumenta su uso https://poverty-action.org/free-distribution-or-cost-sharing-evidence-malaria-prevention-experiment-kenya
+- Daylight savings reduce la participación electoral (DS terminó el domingo 3 de noviembre 2024)
+
+
+
+- Nivel de la prueba: qué tan fuerte tiene que ser la evidencia para rechazar H0
+
+Filosofía de la ciencia: HA es lo que defiendes, cargas los dados en favor de H0
+
+Ejemplo: tómbolas de Morena
+- ¿producen candidatos diferentes? ¿en qué aspectos? edad sexo región biografía-pol...
+- ¿afectan pr(disentir de liderazgo)? vote-nay o abstención como criterio de disentir
+
+Nota: en censo también llevas a cabo prueba de hipótesis como si fuera muestra ¿por qué?
+
+III Regresión
+
+Bread and butter en ciencias sociales
+
+Supones que el valor Y
+- tiene componentes sistemático y aleatorio
+- el sistemático es una combinación lineal de factores explicativos
+
+Ej: turnout = b0 + b1 dist del límite de huso horario + b2 educación + b3 ingreso + error
+
+El: Ansolabehere y Gerber
+Interpretación de coeficientes
+
+Estimación: ilustrar con reg bivariada turnout = b0 + b1 dist del límite de huso horario + error
+
+IV Holland on causality --- de apuntes ep3
+
+V Experimento vs datos observacionales
+
+Continuum X: Anécdota ------ Prueba sistemática
+
+Continuum Y: Observacional ------ experimento controlado
+
+Si representamos la confianza de la inferencia sería una L logarítmica (perfecto control permite una anécdota N=1, reembobinando)

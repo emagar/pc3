@@ -1,0 +1,29 @@
+Argumento Garfias
+
+- México 1920s: hay dos élites, propietaria de los recursos productivos (hacendado) y la militar (gobernante) que controla un estado con escasa capacidad
+- El poder de mercado (monopsonio laboral) permite al hacendado desmovilizar al campesinado
+- El hacendado fuerte destina ganancias a dotarse de guardias blancas que disuaden recaudación futura o expropiación amenazando arrebatar el gobierno
+- El gobernante fuerte puede invertir en capacidad recaudatoria futura, expropiar para movilizar campesinos, o ambas
+- Estado de naturaleza = Competencia distributiva = bonapartismo sin estado = low capacity trap:
+  - élites no pelean mientras haya equilibrio de fuerzas
+  - desequilibrio -> hacendado intentará recuperar el estado o gobernante expropia tierra y desarrolla recaudación
+- Expropiar permite movilizar campesinos, debilita a la élite
+- Invertir en capacidad recaudatoria fortalece al gobernante futuro: lo hará si confía que seguirá en el poder
+
+
+Empirics
+- Capacidad estatal = capacidad de instrumentar = burocracia; medida = funcionarios en el municipio (y recaudación municipal hoy)
+- Municipios 1920s recaudaban para sus actividades con escasa ayuda estatal o federal; impuestos predial, a servicios y venta de algunas materias primas. Burocracia recaudatoria local. 
+- Cuasi experimento: un shock temporal que debilite a la élite económica en unas regiones pero no en otras
+- GD = shock temporal al precio/ganancias de algunos cash crops. Pruebas: 
+  - café (precio cayó) vs plátano (se sostuvo)
+
+Complementa explicación de guerra (state-building), apoyo externo (japón post ww2) y cambio tecnológico (henequén).
+Permite explicar variaciones subnacionales
+
+Medición capacidad = infrastructural power = presencia de oficiales gubernamentales (N burócratas)
+
+
+
+
+
