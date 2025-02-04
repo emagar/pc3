@@ -1,0 +1,132 @@
+Representación
+
+Dos visiones de la representación
+- pesimista (Pitkin)
+- optimista (Urbinati)
+
+Debate sobre los alcances/límites de la representación
+
+
+1 PITKIN
+========
+
+  1. Tratado original subrayaba la falta de definición aceptada de
+     representación. Cuatro acepciones comunes:
+     - formal = mecanismos institucionales para convertirte en
+       representante, autorización vs /accountability/
+     - symbólica = modos en que representante toma posición por sus
+       reresentados, lo que significa para los representados
+     - descriptiva = modos en que representante se parece a sus
+       representados
+     - sustancial = la actividad del representante, las acciones y
+       resultados como agente de sus representados
+  2. Este texto subraya otra dificultad: la naturaleza contradictoria de
+     la representación. En la definición hay un oximore en "ausente pero
+     presente", 4 conceptos lo comparten. ¿Qué es un *oximore*?
+     - P.ej.: John Milton "infierno = ausencia de luz, o más bien la
+       oscuridad visible" (No light; but rather darkness visible);
+       Revolución institucionalizada
+     - /Central core of meaning: that somebody or something not
+       literally present is nevertheless present in some non-literal
+       sense/
+  3. La contradicción permitió que en S18/19:
+     - para los demócratas era *medio* (con sufragio extendido) para una
+       república a grande escala (Federalist 10)
+     - para conservadores era *límite* al alcance de la democracia
+       (Burke y el /trustee/ / depositario)
+     - --> tensión representación-democracia
+  4. Representación es una forma de oligarquía que excluye al votante de
+     la vida pública
+  5. *Madison* entendió la tensión, distingue la representación
+      (república) de la soberanía popular sin límite (democracia)
+     - EMM *Caos* en democracia ateniense --- Hale y la armada de
+       triremes
+     - EMM *República romana* no era democrática, "filtraba" las
+       decisiones
+  6. "Los ingleses se imaginan libres, pero de hecho son libres solo en
+     el momento en que depositan su boleta en una elección;
+     inmediatamente después sosobran de vuelta a la esclavitud, dejando
+     de existir como pueblo" (Rousseau). EMM: elabore
+  7. Arendt: en la práctica, la representación suplantó a la democracia
+     - "Despite repeated efforts to democratize the representative
+       system, the predominant result has been that representation has
+       supplanted democracy *instead* of serving it. Our governors have
+       become a self-perpetuating elite that rules --- or rather,
+       administers --- passive or privatized masses of people. The
+       representatives act not as agents of the people but simply
+       instead of them." Elabore instead...
+  8. Visión tocqueviliana ofrece cierta esperanza: si en el gobierno
+     nacional pareciera inevitable olarquía, a nivel local hay mejores
+     condiciones de participación y deliberación democrática.  Combo gob
+     representativo + democracia participativa en nivel local <--
+     *opción*
+  9. Pesimismo de Pitkin:
+        The third obstacle is difficult to designate by a single
+        apt name. It is about ideas and their shaping. Deception,
+        propaganda, and indoctrination have always played a role
+        in the rough and tumble of actual political life, but they
+        take on new, disturbing dimensions in our age of
+        electronic media and satellite surveillance, of ‘hype’,
+        ‘spin’, and the ‘infomercial’, of ‘image’, ‘credibility’,
+        and ‘virtual reality’. Watching television from infancy,
+        people not only acquire misinformation; they become
+        habituated to the role of spectator. The line between
+        fantasy and reality blurs (indeed, the line between
+        television image and one’s own fantasy blurs). As for
+        those who set policy and shape the images, insulated from
+        any reality check, they soon become captive to their own
+        fictions. All this does not bode well for democracy,
+        either.
+  1. EMM: si oligarquía en gob nacional y la pasividad ciudadana
+     parecen inevitables, la pregunta relevante es si subsiste algún
+     grado importante de *influencia* del representado al representante
+     --- visión más UCSD, conecta con Urbinati
+
+
+2 URBINATI
+==========
+
+  1. "Hoy, en política, democracia es el nombre de aquello que es
+     inalcanzable, pero no podemos dejar de querer alcanzar" (Today, in
+     politics, democracy is the name of what we cannot have --- yet
+     cannot cease to want) -- refleja el difícil combo democ+repre
+  2. Redefine el problema de la pasividad ciudadana para mostrar la
+     relevancia de la representación, en particular en el aspecto
+     deliberativo
+  3. Participación y representación no son alternativas, son dimensiones
+     $\pm$ ortogonales
+  4. *Indirectness*: Si la acción directa es lo que da el valor a la
+      democracia, necesario entender *qué es lo que el ciudadano debe
+      hacer "directamente" para gozar de status democrático*.
+  5. Atenas pagaba al ciudadano por *asistir* a la sesión de la ekklesía
+     (asamblea), no para hablar. Los más sólo *escuchaban el debate* y
+     al final votaban la moción. Attendance and speech are the
+     structural forms of democratic participation. Siempre se ha
+     producido/se produce una élite activa y una masa pasiva.
+  6. El acto de votar en electorados masivos es para Madison--Mill del
+     mismo orden: participación democrática --> la deliberación pública
+     y no el simple acto de votar caracteriza a la democracia.
+  7. Por otro lado, hay elemento indirecto en la democracia directa:
+     habla la elite politica, defienden mociones, el resto escucha y
+     vota.
+     - Tácito: modelo de ekklesía /con agenda abierta/
+     - Elaborando el modelo se puede plantear si hay restricciones,
+       ¿quién controla la agenda? (cf. McCox) -> incide en la naturaleza
+       de la deliberación
+  8. PLT no es lo indirecto lo que contrapone a la democ representativa
+     de la directa. Lo que la hace especial es el *grado* con que se usa
+     la delegación política. Dem rep carece de simultaneidad de la
+     deliberación y la acción, es "democracia pospuesta".
+  9. Papel crucial de medios de comunicación, para difundir la palabra
+     de la élite y permitir el voto subsecuente.
+  10. Discutir /trustee/ (depositario Burke) vs /delegate/ (Mill,
+      Madison)
+  11. Discutir Popkin y la vaciedad de la palabra
+  12. *PR*: Fundamental porque, aun si la mayoría retiene 'derecho de
+       decisión', no le resta a la minoría el 'derecho a la
+       representación' (y PLT a la deliberación de sus intereses)
+  13. Mill hijo vs Mill padre: padre veía sólo representación de
+      intereses, hijo ve representantes con ideas y opiniones de sus
+      intereses, que se matizan y revelan con la discusión.
+  14. *Advocacy (abogar por)* Two components: rep's passionate link to
+       elector's cause and relative autonomy of judgement
