@@ -1,15 +1,15 @@
-- [Prueba de hipótesis y regresión lineal, un repaso (semanas 1 y 2)](#org220309e)
-- [Causalidad y método comparativo (semana 3)](#org781a7c5)
-- [La representación política (semana 4)](#orgdef59c1)
-- [La delegación: piedra nodal del gobierno (semanas 5 y 6)](#orgba3dd4c)
-- [Los partidos como agentes de gobierno (semanas 6 y 7)](#orgd78932d)
-- [La conexión electoral (semanas 8 y 9)](#org577645d)
-- [Dinastías políticas (semana 10)](#org62cf053)
-- [El proceso legislativo (semanas 11 y 12)](#orgfd3ee52)
-- [La redistritación (semanas 13 y 14)](#orge031b12)
-- [Las maquinarias partidistas (semana 15)](#orgc4d1757)
-- [El muy largo plazo (semanas 15 y 16)](#org661db88)
-- [La coordinación electoral (semana 17)](#org0dc6bc7)
+- [Prueba de hipótesis y regresión lineal, un repaso (semanas 1 y 2)](#org857d463)
+- [Causalidad y método comparativo (semana 3)](#org9a7a35e)
+- [La representación política (semana 4)](#org15565d5)
+- [La delegación: piedra nodal del gobierno (semanas 5 y 6)](#orge02210b)
+- [La conexión electoral (semanas 7 y 8)](#org0b14ae7)
+- [Dinastías políticas (semana 9)](#org1dd982a)
+- [Los partidos como agentes de gobierno (semanas 10 y 11)](#orgf053d21)
+- [La redistritación (semanas 12 y 13)](#org4a3cf29)
+- [El proceso legislativo (semanas 14 y 15)](#org60a053f)
+- [Las maquinarias partidistas (semana 15)](#orgd2dd89c)
+- [El muy largo plazo (semanas 15 y 16)](#orgc307015)
+- [La coordinación electoral (semana 17)](#org054e661)
 
 ITAM Depto. de ciencia política, primavera 2025
 
@@ -38,7 +38,7 @@ Lunes y miércoles 8:30&#x2013;10:00, salón 308
 ---
 
 
-<a id="org220309e"></a>
+<a id="org857d463"></a>
 
 # Prueba de hipótesis y regresión lineal, un repaso (semanas 1 y 2)
 
@@ -56,7 +56,7 @@ Extra
 -   Brambor et al. (2006) ["Understanding Interaction Models: Improving Empirical Analyses"](https://github.com/emagar/pc3/blob/master/lecturas/bramborEtalInteractions2005pa.pdf) 20 pp.
 
 
-<a id="org781a7c5"></a>
+<a id="org9a7a35e"></a>
 
 # Causalidad y método comparativo (semana 3)
 
@@ -64,7 +64,7 @@ Extra
 -   [Scientific Method (2015) Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/scientific-method/#SciMetSciEduSeeSci)
 
 
-<a id="orgdef59c1"></a>
+<a id="org15565d5"></a>
 
 # La representación política (semana 4)
 
@@ -73,7 +73,7 @@ Extra
 -   Bhavnani (2009) ["Do Electoral Quotas Work after They Are Withdrawn? Evidence from a Natural Experiment in India"](https://github.com/emagar/pc3/blob/master/lecturas/bhavnani-quotas-india-withdrawn2009apsr.pdf) 13 pp.
 
 
-<a id="orgba3dd4c"></a>
+<a id="orge02210b"></a>
 
 # La delegación: piedra nodal del gobierno (semanas 5 y 6)
 
@@ -84,9 +84,43 @@ Extra
 -   Estévez, Magar y Rosas (2008) ["Partisanship in non-partisan electoral agencies and democratic compliance: Evidence from Mexico's IFE"](https://github.com/emagar/ep3/blob/master/lecturas/EstevezMagarRosasIfeElecStud2008.pdf) 15 pp.
 
 
-<a id="orgd78932d"></a>
+<a id="org0b14ae7"></a>
 
-# Los partidos como agentes de gobierno (semanas 6 y 7)
+# La conexión electoral (semanas 7 y 8)
+
+-   Mayhew, [Congress: The Electoral Connection](https://github.com/emagar/pc3/blob/master/lecturas/mayhewInMcSullivan.pdf) (1974), pp. 18-29. ([Aquí](https://github.com/emagar/pc3/blob/master/lecturas/mayhewCongressTheElectoralConnection2004book.pdf) el libro completo.)
+-   Schlesinger, Micozzi
+-   Cain, Ferejohn y Fiorina, *The personal vote*
+    -   [Introduction](https://github.com/emagar/pc3/blob/master/lecturas/cainFerejohnFiorinaIntro.pdf) 24 pp.
+    -   cap. 1 [Member visibility and member images](https://github.com/emagar/pc3/blob/master/lecturas/cainFerejohnFiorina1.pdf) 23 pp.
+    -   cap. 5 [Unravelling a paradox](https://github.com/emagar/pc3/blob/master/lecturas/cainFerejohnFiorina5.pdf) 14 pp.
+-   Carson et al. (2020) [Nationalization and the Incumbency Advantage](https://github.com/emagar/pc3/blob/master/lecturas/carson-etal-Incumb-advantage-2020prq.pdf) 13 pp.
+-   Merino, Fierro, Zarkin (2013) [Por qué la reelección sirve y por qué no servirá en México](https://www.animalpolitico.com/blogueros-salir-de-dudas/2013/12/05/por-que-la-reeleccion-sirve-y-por-que-servira-en-mexico/).
+-   Zaller (1998) [Politicians as Prize Fighters: Electoral Selection and Incumbency Advantage](https://github.com/emagar/pc3/blob/master/lecturas/zallerPrizeFighters1998.pdf) 51 pp.
+-   Motolinia (2020) [Electoral Accountability and Particularistic Legislation: Evidence from an Electoral Reform in Mexico](https://github.com/emagar/pc3/blob/master/lecturas/motolinia2020particularistic.pdf) 46 pp.
+-   Jacobson (1985) Money and votes reconsidered, Congressional elections 57 pp.
+
+
+<a id="org1dd982a"></a>
+
+# Dinastías políticas (semana 9)
+
+-   Smith (2017) [Dynasties and Democracy](https://github.com/emagar/pc3/blob/master/lecturas/smithDanDynasticBookManuscript-1-24-2017.pdf)
+    -   cap. 1 Introduction 27 pp.
+    -   cap. 2 Japan into comparative perspective 20 pp.
+    -   cap. 3 Theory of dynastic candidate selection 34 pp.
+    -   cap. 4 Selection 50 pp.
+    -   cap. 5 Inherited incumbency advantage 25 pp.
+-   *The Economist* (2021) [Data on inbred nobles](https://github.com/emagar/pc3/blob/master/lecturas/07dinastias/economist-inbreeding2021.pdf) 5 pp. (y el artículo académico [aquí](https://github.com/emagar/pc3/blob/master/lecturas/07dinastias/ottinger-voigtlander-Inbred-leaders2021.pdf))
+-   Ríos (2018) [El déficit meritocrático](https://github.com/emagar/pc3/blob/master/lecturas/07dinastias/riosDeficitMeritocratico2018.pdf) 70 pp.
+-   Enríquez (2017) [Dinastías políticas municipales](https://github.com/emagar/pc3/blob/master/lecturas/07dinastias/jose-ramon-enriquez-dinastias2017tesis.pdf) 110 pp.
+-   Querubín (2016) [Family and Politics: Dynastic persistence in the Philippines](https://github.com/emagar/pc3/blob/master/lecturas/07dinastias/querubin2016qjps.pdf) 30 pp.
+-   Velasco (2015) [Political Dynasties and Party Strength: Evidence from Victorian Britain](https://github.com/emagar/pc3/blob/master/lecturas/07dinastias/velascoDynasticBritain2015draft.pdf) 47 pp.
+
+
+<a id="orgf053d21"></a>
+
+# Los partidos como agentes de gobierno (semanas 10 y 11)
 
 -   Cox (1987) [*The Efficient Secret*](https://github.com/emagar/pc3/blob/master/lecturas/cox.1987.efficientSecret.pdf)
     -   cap. 1 "Introduction and outline" 8 pp.
@@ -112,43 +146,21 @@ Extra
     -   cap. 8 [Contingents and parties](https://github.com/emagar/pc3/blob/master/lecturas/mcCoxLeviatanCap8.pdf) 42 pp.
 
 
-<a id="org577645d"></a>
+<a id="org4a3cf29"></a>
 
-# La conexión electoral (semanas 8 y 9)
+# La redistritación (semanas 12 y 13)
 
--   Mayhew, [Congress: The Electoral Connection](https://github.com/emagar/pc3/blob/master/lecturas/mayhewInMcSullivan.pdf) (1974), pp. 18-29. ([Aquí](https://github.com/emagar/pc3/blob/master/lecturas/mayhewCongressTheElectoralConnection2004book.pdf) el libro completo.)
--   Schlesinger, Micozzi
--   Cain, Ferejohn y Fiorina, *The personal vote*
-    -   [Introduction](https://github.com/emagar/pc3/blob/master/lecturas/cainFerejohnFiorinaIntro.pdf) 24 pp.
-    -   cap. 1 [Member visibility and member images](https://github.com/emagar/pc3/blob/master/lecturas/cainFerejohnFiorina1.pdf) 23 pp.
-    -   cap. 5 [Unravelling a paradox](https://github.com/emagar/pc3/blob/master/lecturas/cainFerejohnFiorina5.pdf) 14 pp.
--   Carson et al. (2020) [Nationalization and the Incumbency Advantage](https://github.com/emagar/pc3/blob/master/lecturas/carson-etal-Incumb-advantage-2020prq.pdf) 13 pp.
--   Merino, Fierro, Zarkin (2013) [Por qué la reelección sirve y por qué no servirá en México](https://www.animalpolitico.com/blogueros-salir-de-dudas/2013/12/05/por-que-la-reeleccion-sirve-y-por-que-servira-en-mexico/).
--   Zaller (1998) [Politicians as Prize Fighters: Electoral Selection and Incumbency Advantage](https://github.com/emagar/pc3/blob/master/lecturas/zallerPrizeFighters1998.pdf) 51 pp.
--   Motolinia (2020) [Electoral Accountability and Particularistic Legislation: Evidence from an Electoral Reform in Mexico](https://github.com/emagar/pc3/blob/master/lecturas/motolinia2020particularistic.pdf) 46 pp.
--   Jacobson (1985) Money and votes reconsidered, Congressional elections 57 pp.
+-   Handley y Grofman (2008) [*Redistricting in Comparative Perspective*](https://github.com/emagar/pc3/blob/master/lecturas/grofmanHandleyRedistrictingCompPersBook.pdf)
+    -   cap. 3 Lujambio y Vives "From politics to technicalities: Mexican redistricting" 12 pp.
+    -   cap. 4 McDonald "United States redistricting: comparative look at the 50 states" 18 pp.
+-   Engstrom (2006) ["Stacking the States, Stacking the House: The Partisan Consequences of Congressional Redistricting in the 19th Century"](https://github.com/emagar/pc3/blob/master/lecturas/engstromRedistricting19thC2006apsr.pdf) 9 pp.
+
+-   Magar et al. (2016) ["Components of partisan bias originating from single-member districts in multi-party systems"](https://github.com/emagar/pc3/blob/master/magar.etalComponentsPartisanBiasMultiparty2017pg-webPub.pdf) 12 pp.
 
 
-<a id="org62cf053"></a>
+<a id="org60a053f"></a>
 
-# Dinastías políticas (semana 10)
-
--   Smith (2017) [Dynasties and Democracy](https://github.com/emagar/pc3/blob/master/lecturas/smithDanDynasticBookManuscript-1-24-2017.pdf)
-    -   cap. 1 Introduction 27 pp.
-    -   cap. 2 Japan into comparative perspective 20 pp.
-    -   cap. 3 Theory of dynastic candidate selection 34 pp.
-    -   cap. 4 Selection 50 pp.
-    -   cap. 5 Inherited incumbency advantage 25 pp.
--   *The Economist* (2021) [Data on inbred nobles](https://github.com/emagar/pc3/blob/master/lecturas/07dinastias/economist-inbreeding2021.pdf) 5 pp. (y el artículo académico [aquí](https://github.com/emagar/pc3/blob/master/lecturas/07dinastias/ottinger-voigtlander-Inbred-leaders2021.pdf))
--   Ríos (2018) [El déficit meritocrático](https://github.com/emagar/pc3/blob/master/lecturas/07dinastias/riosDeficitMeritocratico2018.pdf) 70 pp.
--   Enríquez (2017) [Dinastías políticas municipales](https://github.com/emagar/pc3/blob/master/lecturas/07dinastias/jose-ramon-enriquez-dinastias2017tesis.pdf) 110 pp.
--   Querubín (2016) [Family and Politics: Dynastic persistence in the Philippines](https://github.com/emagar/pc3/blob/master/lecturas/07dinastias/querubin2016qjps.pdf) 30 pp.
--   Velasco (2015) [Political Dynasties and Party Strength: Evidence from Victorian Britain](https://github.com/emagar/pc3/blob/master/lecturas/07dinastias/velascoDynasticBritain2015draft.pdf) 47 pp.
-
-
-<a id="orgfd3ee52"></a>
-
-# El proceso legislativo (semanas 11 y 12)
+# El proceso legislativo (semanas 14 y 15)
 
 -   Krehbiel (1998) *Pivotal Politics*
     -   cap. 2, ["A theory"](https://github.com/emagar/pc3/blob/master/lecturas/krehbiel1998Ch2.pdf) 29 pp.
@@ -159,19 +171,7 @@ Extra
 -   Heller (2001) ["Making policy stick: why government gets what it wants in multiparty Parliaments"](https://github.com/emagar/ep3/blob/master/lecturas/hellerPolicyStickAjps2001.pdf) 19 pp.
 
 
-<a id="orge031b12"></a>
-
-# La redistritación (semanas 13 y 14)
-
--   Handley y Grofman (2008) [*Redistricting in Comparative Perspective*](https://github.com/emagar/pc3/blob/master/lecturas/grofmanHandleyRedistrictingCompPersBook.pdf)
-    -   cap. 3 Lujambio y Vives "From politics to technicalities: Mexican redistricting" 12 pp.
-    -   cap. 4 McDonald "United States redistricting: comparative look at the 50 states" 18 pp.
--   Engstrom (2006) ["Stacking the States, Stacking the House: The Partisan Consequences of Congressional Redistricting in the 19th Century"](https://github.com/emagar/pc3/blob/master/lecturas/engstromRedistricting19thC2006apsr.pdf) 9 pp.
-
--   Magar et al. (2016) ["Components of partisan bias originating from single-member districts in multi-party systems"](https://github.com/emagar/pc3/blob/master/magar.etalComponentsPartisanBiasMultiparty2017pg-webPub.pdf) 12 pp.
-
-
-<a id="orgc4d1757"></a>
+<a id="orgd2dd89c"></a>
 
 # Las maquinarias partidistas (semana 15)
 
@@ -181,7 +181,7 @@ Extra
 -   OJO: esta clase será más larga. Nos reuniremos de 15:00 a 17:30 para ver y discutir la película All the King’s Men de R. Rossen (1949).
 
 
-<a id="org661db88"></a>
+<a id="orgc307015"></a>
 
 # El muy largo plazo (semanas 15 y 16)
 
@@ -192,7 +192,7 @@ Extra
 -   Livny (2021) ["Can religiosity be sensed with satellite data?"](https://github.com/emagar/pc3/blob/master/lecturas/livny-Religiosity-satellite2021.pdf) 28 pp.
 
 
-<a id="org0dc6bc7"></a>
+<a id="org054e661"></a>
 
 # La coordinación electoral (semana 17)
 
