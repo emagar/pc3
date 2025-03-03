@@ -1,15 +1,16 @@
-- [Prueba de hipótesis y regresión lineal, un repaso (semanas 1 y 2)](#org857d463)
-- [Causalidad y método comparativo (semana 3)](#org9a7a35e)
-- [La representación política (semana 4)](#org15565d5)
-- [La delegación: piedra nodal del gobierno (semanas 5 y 6)](#orge02210b)
-- [La conexión electoral (semanas 7 y 8)](#org0b14ae7)
-- [Dinastías políticas (semana 9)](#org1dd982a)
-- [Los partidos como agentes de gobierno (semanas 10 y 11)](#orgf053d21)
-- [La redistritación (semanas 12 y 13)](#org4a3cf29)
-- [El proceso legislativo (semanas 14 y 15)](#org60a053f)
-- [Las maquinarias partidistas (semana 15)](#orgd2dd89c)
-- [El muy largo plazo (semanas 15 y 16)](#orgc307015)
-- [La coordinación electoral (semana 17)](#org054e661)
+- [Trabajos parcial y final](#org2b95267)
+- [Prueba de hipótesis y regresión lineal, un repaso (semanas 1 y 2)](#org3c085d9)
+- [Causalidad y método comparativo (semana 3)](#orgca2a6d2)
+- [La representación política (semana 4 y 5)](#org8bad665)
+- [La delegación: piedra nodal del gobierno (semanas 5 y 6)](#org8adf4cf)
+- [La conexión electoral (semanas 7 y 8)](#orgb95dccc)
+- [Dinastías políticas (semana 9)](#orga04f3af)
+- [Los partidos como agentes de gobierno (semanas 10 y 11)](#orge480db6)
+- [La redistritación (semanas 12 y 13)](#org25df2a6)
+- [El proceso legislativo (semanas 14 y 15)](#org9b67240)
+- [Las maquinarias partidistas (semana 15)](#org5953272)
+- [El muy largo plazo (semanas 15 y 16)](#org0920450)
+- [La coordinación electoral (semana 17)](#org6b17dba)
 
 ITAM Depto. de ciencia política, primavera 2025
 
@@ -38,7 +39,14 @@ Lunes y miércoles 8:30&#x2013;10:00, salón 308
 ---
 
 
-<a id="org857d463"></a>
+<a id="org2b95267"></a>
+
+# Trabajos parcial y final
+
+Enlace [aquí](./parcial-final/). El trabajo parcial es individual y es la versión preliminar del trabajo final. Fechas: deberá entregar su trabajo parcial a más tardar el lunes 8 de noviembre; la entrega final (individual o en equipo) el día que nos asigne Dirección Escolar.
+
+
+<a id="org3c085d9"></a>
 
 # Prueba de hipótesis y regresión lineal, un repaso (semanas 1 y 2)
 
@@ -56,7 +64,7 @@ Extra
 -   Brambor et al. (2006) ["Understanding Interaction Models: Improving Empirical Analyses"](https://github.com/emagar/pc3/blob/master/lecturas/bramborEtalInteractions2005pa.pdf) 20 pp.
 
 
-<a id="org9a7a35e"></a>
+<a id="orgca2a6d2"></a>
 
 # Causalidad y método comparativo (semana 3)
 
@@ -64,16 +72,17 @@ Extra
 -   [Scientific Method (2015) Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/scientific-method/#SciMetSciEduSeeSci)
 
 
-<a id="org15565d5"></a>
+<a id="org8bad665"></a>
 
-# La representación política (semana 4)
+# La representación política (semana 4 y 5)
 
 -   Pitkin (2004) ["Representation and Democracy: Uneasy Alliance"](https://github.com/emagar/pc3/blob/master/lecturas/pitkin2004representationAndDemocUneasyAlliance.pdf) 8 pp.
 -   Urbinati (2000) ["Representation as Advocacy"](https://github.com/emagar/pc3/blob/master/lecturas/urbinati2000representationAsAdvocacy.pdf) 22 pp.
 -   Bhavnani (2009) ["Do Electoral Quotas Work after They Are Withdrawn? Evidence from a Natural Experiment in India"](https://github.com/emagar/pc3/blob/master/lecturas/bhavnani-quotas-india-withdrawn2009apsr.pdf) 13 pp.
+-   Wolkenstein y Wratil (2021) "Multidimensional Representation" 15 pp.
 
 
-<a id="orge02210b"></a>
+<a id="org8adf4cf"></a>
 
 # La delegación: piedra nodal del gobierno (semanas 5 y 6)
 
@@ -84,7 +93,7 @@ Extra
 -   Estévez, Magar y Rosas (2008) ["Partisanship in non-partisan electoral agencies and democratic compliance: Evidence from Mexico's IFE"](https://github.com/emagar/ep3/blob/master/lecturas/EstevezMagarRosasIfeElecStud2008.pdf) 15 pp.
 
 
-<a id="org0b14ae7"></a>
+<a id="orgb95dccc"></a>
 
 # La conexión electoral (semanas 7 y 8)
 
@@ -101,7 +110,7 @@ Extra
 -   Jacobson (1985) Money and votes reconsidered, Congressional elections 57 pp.
 
 
-<a id="org1dd982a"></a>
+<a id="orga04f3af"></a>
 
 # Dinastías políticas (semana 9)
 
@@ -118,7 +127,7 @@ Extra
 -   Velasco (2015) [Political Dynasties and Party Strength: Evidence from Victorian Britain](https://github.com/emagar/pc3/blob/master/lecturas/07dinastias/velascoDynasticBritain2015draft.pdf) 47 pp.
 
 
-<a id="orgf053d21"></a>
+<a id="orge480db6"></a>
 
 # Los partidos como agentes de gobierno (semanas 10 y 11)
 
@@ -146,7 +155,7 @@ Extra
     -   cap. 8 [Contingents and parties](https://github.com/emagar/pc3/blob/master/lecturas/mcCoxLeviatanCap8.pdf) 42 pp.
 
 
-<a id="org4a3cf29"></a>
+<a id="org25df2a6"></a>
 
 # La redistritación (semanas 12 y 13)
 
@@ -158,7 +167,7 @@ Extra
 -   Magar et al. (2016) ["Components of partisan bias originating from single-member districts in multi-party systems"](https://github.com/emagar/pc3/blob/master/magar.etalComponentsPartisanBiasMultiparty2017pg-webPub.pdf) 12 pp.
 
 
-<a id="org60a053f"></a>
+<a id="org9b67240"></a>
 
 # El proceso legislativo (semanas 14 y 15)
 
@@ -171,7 +180,7 @@ Extra
 -   Heller (2001) ["Making policy stick: why government gets what it wants in multiparty Parliaments"](https://github.com/emagar/ep3/blob/master/lecturas/hellerPolicyStickAjps2001.pdf) 19 pp.
 
 
-<a id="orgd2dd89c"></a>
+<a id="org5953272"></a>
 
 # Las maquinarias partidistas (semana 15)
 
@@ -181,7 +190,7 @@ Extra
 -   OJO: esta clase será más larga. Nos reuniremos de 15:00 a 17:30 para ver y discutir la película All the King’s Men de R. Rossen (1949).
 
 
-<a id="orgc307015"></a>
+<a id="org0920450"></a>
 
 # El muy largo plazo (semanas 15 y 16)
 
@@ -192,7 +201,7 @@ Extra
 -   Livny (2021) ["Can religiosity be sensed with satellite data?"](https://github.com/emagar/pc3/blob/master/lecturas/livny-Religiosity-satellite2021.pdf) 28 pp.
 
 
-<a id="org054e661"></a>
+<a id="org6b17dba"></a>
 
 # La coordinación electoral (semana 17)
 
