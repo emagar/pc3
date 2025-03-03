@@ -1,12 +1,10 @@
-**La reelección consecutiva**
-
-Trabajos parcial y final
+**Trabajos parcial y final: La reelección consecutiva**
 
 Política Comparada III
 
 Primavera 2025
 
-El archivo [aymu1988-on-v7-coalSplit.csv](https://github.com/emagar/reelec/data/aymu1988-on-v7-coalSplit.csv) contiene la fracción del voto que obtuvieron los partidos en elecciones de Ayuntamientos. El archivo y [aymu1989-on.incumbents.csv](https://github.com/emagar/elecRetrns/blob/master/data/aymu1989-on.incumbents.csv) contiene los alcaldes electos. Y el archivo [fechasEleccionesMexicoDesde1994.xlsx](https://github.com/emagar/calendariosReelec/data/fechasEleccionesMexicoDesde1994.xlsx) sintetiza las instituciones de reelección municipal consecutiva de los estados.
+El archivo [aymu1988-on-v7-coalSplit.csv](https://github.com/emagar/reelec/blob/master/data/aymu1988-on-v7-coalSplit.csv) contiene la fracción del voto que obtuvieron los partidos en elecciones de Ayuntamientos. El archivo [aymu1989-on.incumbents.csv](https://github.com/emagar/elecRetrns/blob/master/data/aymu1989-on.incumbents.csv) contiene los alcaldes electos. Y el archivo [fechasEleccionesMexicoDesde1994.xlsx](https://github.com/emagar/calendariosReelec/blob/master/data/fechasEleccionesMexicoDesde1994.xlsx) sintetiza las instituciones de reelección municipal consecutiva de los estados.
 
 (El README del repositorio <https://github.com/emagar/elecRtrns> contiene una descripción detallada del contenido de cada archivo.)
 
