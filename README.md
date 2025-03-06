@@ -1,16 +1,16 @@
-- [Trabajos parcial y final](#org2719c64)
-- [Prueba de hipótesis y regresión lineal, un repaso (semanas 1 y 2)](#orgcbb76e1)
-- [Causalidad y método comparativo (semana 3)](#orgb29f054)
-- [La representación política (semana 4 y 5)](#orgd33a594)
-- [La delegación: piedra nodal del gobierno (semanas 5 y 6)](#org59ec422)
-- [La conexión electoral (semanas 7 y 8)](#org9fb3e63)
-- [Dinastías políticas (semana 9)](#org465dfc1)
-- [Los partidos como agentes de gobierno (semanas 10 y 11)](#orgcf94af4)
-- [La redistritación (semanas 12 y 13)](#orgb3cb204)
-- [El proceso legislativo (semanas 14 y 15)](#org6046631)
-- [Las maquinarias partidistas (semana 15)](#org5f64df8)
-- [El muy largo plazo (semanas 15 y 16)](#org6846472)
-- [La coordinación electoral (semana 17)](#org9e5a991)
+- [Trabajos parcial y final](#org05f57ab)
+- [Prueba de hipótesis y regresión lineal, un repaso (semanas 1 y 2)](#orgab52e2c)
+- [Causalidad y método comparativo (semana 3)](#org4a2ef98)
+- [La representación política (semana 4 y 5)](#orgbc3da5a)
+- [La delegación: piedra nodal del gobierno (semanas 5 y 6)](#orgf9e473b)
+- [La conexión electoral (semanas 7 y 8)](#org474a310)
+- [Dinastías políticas (semana 9)](#org6db31f3)
+- [Los partidos como agentes de gobierno (semanas 10 y 11)](#org0be0298)
+- [La redistritación (semanas 12 y 13)](#orgc15cd5b)
+- [El proceso legislativo (semanas 14 y 15)](#org6ba5b7d)
+- [Las maquinarias partidistas (semana 15)](#orgb6b43d1)
+- [El muy largo plazo (semanas 15 y 16)](#orgcfcd112)
+- [La coordinación electoral (semana 17)](#org4e31778)
 
 ITAM Depto. de ciencia política, primavera 2025
 
@@ -39,14 +39,14 @@ Lunes y miércoles 8:30&#x2013;10:00, salón 308
 ---
 
 
-<a id="org2719c64"></a>
+<a id="org05f57ab"></a>
 
 # Trabajos parcial y final
 
 Enlace [aquí](./parcial-final/). El trabajo parcial es individual y es la versión preliminar del trabajo final. Fechas: deberá entregar su trabajo parcial a más tardar el lunes 31 de marzo; la entrega final (individual o en equipo) el día que nos asigne Dirección Escolar.
 
 
-<a id="orgcbb76e1"></a>
+<a id="orgab52e2c"></a>
 
 # Prueba de hipótesis y regresión lineal, un repaso (semanas 1 y 2)
 
@@ -64,7 +64,7 @@ Extra
 -   Brambor et al. (2006) ["Understanding Interaction Models: Improving Empirical Analyses"](https://github.com/emagar/pc3/blob/master/lecturas/bramborEtalInteractions2005pa.pdf) 20 pp.
 
 
-<a id="orgb29f054"></a>
+<a id="org4a2ef98"></a>
 
 # Causalidad y método comparativo (semana 3)
 
@@ -72,7 +72,7 @@ Extra
 -   [Scientific Method (2015) Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/scientific-method/#SciMetSciEduSeeSci)
 
 
-<a id="orgd33a594"></a>
+<a id="orgbc3da5a"></a>
 
 # La representación política (semana 4 y 5)
 
@@ -82,7 +82,7 @@ Extra
 -   Wolkenstein y Wratil (2021) "Multidimensional Representation" 15 pp.
 
 
-<a id="org59ec422"></a>
+<a id="orgf9e473b"></a>
 
 # La delegación: piedra nodal del gobierno (semanas 5 y 6)
 
@@ -93,12 +93,12 @@ Extra
 -   Estévez, Magar y Rosas (2008) ["Partisanship in non-partisan electoral agencies and democratic compliance: Evidence from Mexico's IFE"](https://github.com/emagar/ep3/blob/master/lecturas/EstevezMagarRosasIfeElecStud2008.pdf) 15 pp.
 
 
-<a id="org9fb3e63"></a>
+<a id="org474a310"></a>
 
 # La conexión electoral (semanas 7 y 8)
 
--   Mayhew, [Congress: The Electoral Connection](https://github.com/emagar/pc3/blob/master/lecturas/mayhewInMcSullivan.pdf) (1974), pp. 18-29. ([Aquí](https://github.com/emagar/pc3/blob/master/lecturas/mayhewCongressTheElectoralConnection2004book.pdf) el libro completo.)
--   Cain, Ferejohn y Fiorina, *The personal vote*
+-   Mayhew (1974) [Congress: The Electoral Connection](https://github.com/emagar/pc3/blob/master/lecturas/mayhewInMcSullivan.pdf), pp. 18-29. ([Aquí](https://github.com/emagar/pc3/blob/master/lecturas/mayhewCongressTheElectoralConnection2004book.pdf) el libro completo.)
+-   Cain, Ferejohn y Fiorina, *The personal vote* (1987)
     -   [Introduction](https://github.com/emagar/pc3/blob/master/lecturas/cainFerejohnFiorinaIntro.pdf) 24 pp.
     -   cap. 1 [Member visibility and member images](https://github.com/emagar/pc3/blob/master/lecturas/cainFerejohnFiorina1.pdf) 23 pp.
     -   cap. 5 [Unravelling a paradox](https://github.com/emagar/pc3/blob/master/lecturas/cainFerejohnFiorina5.pdf) 14 pp.
@@ -110,7 +110,7 @@ Extra
 -   Jacobson (1985) Money and votes reconsidered, Congressional elections 57 pp.
 
 
-<a id="org465dfc1"></a>
+<a id="org6db31f3"></a>
 
 # Dinastías políticas (semana 9)
 
@@ -127,7 +127,7 @@ Extra
 -   Velasco (2015) [Political Dynasties and Party Strength: Evidence from Victorian Britain](https://github.com/emagar/pc3/blob/master/lecturas/07dinastias/velascoDynasticBritain2015draft.pdf) 47 pp.
 
 
-<a id="orgcf94af4"></a>
+<a id="org0be0298"></a>
 
 # Los partidos como agentes de gobierno (semanas 10 y 11)
 
@@ -155,7 +155,7 @@ Extra
     -   cap. 8 [Contingents and parties](https://github.com/emagar/pc3/blob/master/lecturas/mcCoxLeviatanCap8.pdf) 42 pp.
 
 
-<a id="orgb3cb204"></a>
+<a id="orgc15cd5b"></a>
 
 # La redistritación (semanas 12 y 13)
 
@@ -167,7 +167,7 @@ Extra
 -   Magar et al. (2016) ["Components of partisan bias originating from single-member districts in multi-party systems"](https://github.com/emagar/pc3/blob/master/magar.etalComponentsPartisanBiasMultiparty2017pg-webPub.pdf) 12 pp.
 
 
-<a id="org6046631"></a>
+<a id="org6ba5b7d"></a>
 
 # El proceso legislativo (semanas 14 y 15)
 
@@ -180,7 +180,7 @@ Extra
 -   Heller (2001) ["Making policy stick: why government gets what it wants in multiparty Parliaments"](https://github.com/emagar/ep3/blob/master/lecturas/hellerPolicyStickAjps2001.pdf) 19 pp.
 
 
-<a id="org5f64df8"></a>
+<a id="orgb6b43d1"></a>
 
 # Las maquinarias partidistas (semana 15)
 
@@ -190,7 +190,7 @@ Extra
 -   OJO: esta clase será más larga. Nos reuniremos de 15:00 a 17:30 para ver y discutir la película All the King’s Men de R. Rossen (1949).
 
 
-<a id="org6846472"></a>
+<a id="orgcfcd112"></a>
 
 # El muy largo plazo (semanas 15 y 16)
 
@@ -201,7 +201,7 @@ Extra
 -   Livny (2021) ["Can religiosity be sensed with satellite data?"](https://github.com/emagar/pc3/blob/master/lecturas/livny-Religiosity-satellite2021.pdf) 28 pp.
 
 
-<a id="org9e5a991"></a>
+<a id="org4e31778"></a>
 
 # La coordinación electoral (semana 17)
 

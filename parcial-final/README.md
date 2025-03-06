@@ -6,7 +6,7 @@ Primavera 2025
 
 El archivo [aymu1988-on-v7-coalSplit.csv](https://github.com/emagar/reelec/blob/master/data/aymu1988-on-v7-coalSplit.csv) contiene la fracción del voto que obtuvieron los partidos en elecciones de Ayuntamientos. El archivo [aymu1989-on.incumbents.csv](https://github.com/emagar/elecRetrns/blob/master/data/aymu1989-on.incumbents.csv) contiene los alcaldes electos. Y el archivo [fechasEleccionesMexicoDesde1994.xlsx](https://github.com/emagar/calendarioReelecion/blob/master/data/fechasEleccionesMexicoDesde1994.xlsx) sintetiza las instituciones de reelección municipal consecutiva de los estados.
 
-(El README del repositorio <https://github.com/emagar/elecRtrns> contiene una descripción detallada del contenido de cada archivo.)
+(El README de [este repositorio](https://github.com/emagar/elecRetrns/) contiene una descripción detallada del contenido de cada archivo.)
 
 Seleccione el periodo de 2018 a la fecha para analizar la reelección consecutiva en los municipios del país.
 
