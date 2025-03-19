@@ -1,17 +1,17 @@
-- [Reposiciones](#org55a946e)
-- [Trabajos parcial y final](#org9a7d8db)
-- [Prueba de hipótesis y regresión lineal, un repaso (semanas 1 y 2)](#orgce304b0)
-- [Causalidad y método comparativo (semana 3)](#org690dde3)
-- [La representación política (semana 4 y 5)](#org063a3c0)
-- [La delegación: piedra nodal del gobierno (semanas 5 y 6)](#orgde485bf)
-- [La conexión electoral (semanas 7 y 8)](#org5647975)
-- [Dinastías políticas (semana 9)](#orgfa91484)
-- [La redistritación (semanas 10 y 11)](#org83c39b7)
-- [Los partidos como agentes de gobierno (semanas 12 y 13)](#org92c9a61)
-- [El proceso legislativo (semanas 14 y 15)](#org2668e9b)
-- [Las maquinarias partidistas (semana 15)](#orgec25161)
-- [El muy largo plazo (semanas 15 y 16)](#orga852bc9)
-- [La coordinación electoral (semana 17)](#org0aaf164)
+- [Reposiciones](#org3d0f075)
+- [Trabajos parcial y final](#orga0525d6)
+- [Prueba de hipótesis y regresión lineal, un repaso (semanas 1 y 2)](#org345dd09)
+- [Causalidad y método comparativo (semana 3)](#orgb543632)
+- [La representación política (semana 4 y 5)](#orga157565)
+- [La delegación: piedra nodal del gobierno (semanas 5 y 6)](#orgf8abb6b)
+- [La conexión electoral (semanas 7 y 8)](#org05c1af3)
+- [Dinastías políticas (semana 9)](#org85dc88d)
+- [La redistritación (semanas 10 y 11)](#org5e12f14)
+- [Los partidos como agentes de gobierno (semanas 12 y 13)](#orgc36c0ec)
+- [El proceso legislativo (semanas 14 y 15)](#orgad2b062)
+- [Las maquinarias partidistas (semana 15)](#org5affd94)
+- [El muy largo plazo (semanas 15 y 16)](#org70dc506)
+- [La coordinación electoral (semana 17)](#org9973599)
 
 ITAM Depto. de ciencia política, primavera 2025
 
@@ -40,19 +40,19 @@ Lunes y miércoles 8:30&#x2013;10:00, salón 308
 ---
 
 
-<a id="org55a946e"></a>
+<a id="org3d0f075"></a>
 
 # Reposiciones
 
 Habrá dos clases de reposición.
 
--   Una el **lunes 17 de marzo de 8:30 a 10am** será transmitida por zoom (en [este](https://itam.zoom.us/j/93922901282) enlace) y grabada para que puedan tomarla a destiempo. No será presencial porque el ITAM cierra ese día. La grabación se encuentra [aquí](https://itam.zoom.us/rec/share/_HJ55MpSuA_zuFDwOy9zFbLhQZSuabPJbIxBwbWYTr1fgxkvMiNtYJMvTXjzcxRd.vKbksEHTx0PCzHMh?startTime=1742221669000).
--   Otra el **viernes 21 de marzo de 8:30 a 10am** será en el salón 202 y transmitida por zoom (en el mismo enlace).
+-   Una el **lunes 17 de marzo de 8:30 a 10am** será transmitida por zoom (en [este](https://itam.zoom.us/j/93922901282) enlace). La grabación se encuentra [aquí](https://itam.zoom.us/rec/share/_HJ55MpSuA_zuFDwOy9zFbLhQZSuabPJbIxBwbWYTr1fgxkvMiNtYJMvTXjzcxRd.vKbksEHTx0PCzHMh?startTime=1742221669000).
+-   El **viernes 21 de marzo de 8:30 a 10am** podrán hacer cita para dudas del examen parcial. Para ello es necesario tener avance en la exploración de los datos. Sin ello no hay de qué hablar.
 
 ---
 
 
-<a id="org9a7d8db"></a>
+<a id="orga0525d6"></a>
 
 # Trabajos parcial y final
 
@@ -61,7 +61,7 @@ Enlace [aquí](./parcial-final/). El trabajo parcial es individual y es la versi
 ---
 
 
-<a id="orgce304b0"></a>
+<a id="org345dd09"></a>
 
 # Prueba de hipótesis y regresión lineal, un repaso (semanas 1 y 2)
 
@@ -79,7 +79,7 @@ Extra
 -   Brambor et al. (2006) ["Understanding Interaction Models: Improving Empirical Analyses"](https://github.com/emagar/pc3/blob/master/lecturas/bramborEtalInteractions2005pa.pdf) 20 pp.
 
 
-<a id="org690dde3"></a>
+<a id="orgb543632"></a>
 
 # Causalidad y método comparativo (semana 3)
 
@@ -87,7 +87,7 @@ Extra
 -   [Scientific Method (2015) Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/scientific-method/#SciMetSciEduSeeSci)
 
 
-<a id="org063a3c0"></a>
+<a id="orga157565"></a>
 
 # La representación política (semana 4 y 5)
 
@@ -97,7 +97,7 @@ Extra
 -   Wolkenstein y Wratil (2021) "Multidimensional Representation" 15 pp.
 
 
-<a id="orgde485bf"></a>
+<a id="orgf8abb6b"></a>
 
 # La delegación: piedra nodal del gobierno (semanas 5 y 6)
 
@@ -108,7 +108,7 @@ Extra
 -   Estévez, Magar y Rosas (2008) ["Partisanship in non-partisan electoral agencies and democratic compliance: Evidence from Mexico's IFE"](https://github.com/emagar/ep3/blob/master/lecturas/EstevezMagarRosasIfeElecStud2008.pdf) 15 pp.
 
 
-<a id="org5647975"></a>
+<a id="org05c1af3"></a>
 
 # La conexión electoral (semanas 7 y 8)
 
@@ -126,7 +126,7 @@ Extra
 -   Jacobson (1985) Money and votes reconsidered, Congressional elections 57 pp.
 
 
-<a id="orgfa91484"></a>
+<a id="org85dc88d"></a>
 
 # Dinastías políticas (semana 9)
 
@@ -143,7 +143,7 @@ Extra
 -   Velasco (2015) [Political Dynasties and Party Strength: Evidence from Victorian Britain](https://github.com/emagar/pc3/blob/master/lecturas/07dinastias/velascoDynasticBritain2015draft.pdf) 47 pp.
 
 
-<a id="org83c39b7"></a>
+<a id="org5e12f14"></a>
 
 # La redistritación (semanas 10 y 11)
 
@@ -155,7 +155,7 @@ Extra
 -   Magar et al. (2016) ["Components of partisan bias originating from single-member districts in multi-party systems"](https://github.com/emagar/pc3/blob/master/magar.etalComponentsPartisanBiasMultiparty2017pg-webPub.pdf) 12 pp.
 
 
-<a id="org92c9a61"></a>
+<a id="orgc36c0ec"></a>
 
 # Los partidos como agentes de gobierno (semanas 12 y 13)
 
@@ -183,7 +183,7 @@ Extra
     -   cap. 8 [Contingents and parties](https://github.com/emagar/pc3/blob/master/lecturas/mcCoxLeviatanCap8.pdf) 42 pp.
 
 
-<a id="org2668e9b"></a>
+<a id="orgad2b062"></a>
 
 # El proceso legislativo (semanas 14 y 15)
 
@@ -196,7 +196,7 @@ Extra
 -   Heller (2001) ["Making policy stick: why government gets what it wants in multiparty Parliaments"](https://github.com/emagar/ep3/blob/master/lecturas/hellerPolicyStickAjps2001.pdf) 19 pp.
 
 
-<a id="orgec25161"></a>
+<a id="org5affd94"></a>
 
 # Las maquinarias partidistas (semana 15)
 
@@ -206,7 +206,7 @@ Extra
 -   OJO: esta clase será más larga. Nos reuniremos de 15:00 a 17:30 para ver y discutir la película All the King’s Men de R. Rossen (1949).
 
 
-<a id="orga852bc9"></a>
+<a id="org70dc506"></a>
 
 # El muy largo plazo (semanas 15 y 16)
 
@@ -217,7 +217,7 @@ Extra
 -   Livny (2021) ["Can religiosity be sensed with satellite data?"](https://github.com/emagar/pc3/blob/master/lecturas/livny-Religiosity-satellite2021.pdf) 28 pp.
 
 
-<a id="org0aaf164"></a>
+<a id="org9973599"></a>
 
 # La coordinación electoral (semana 17)
 
