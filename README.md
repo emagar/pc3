@@ -1,17 +1,17 @@
-- [Reposiciones](#org906dd76)
-- [Trabajos parcial y final](#orga9c4920)
-- [Prueba de hipótesis y regresión lineal, un repaso (semanas 1 y 2)](#org93d5f7d)
-- [Causalidad y método comparativo (semana 3)](#org3363bd0)
-- [La representación política (semana 4 y 5)](#orgc4ce1db)
-- [La delegación: piedra nodal del gobierno (semanas 5 y 6)](#orgf871dea)
-- [La conexión electoral (semanas 7 y 8)](#orgac1ca5d)
-- [Dinastías políticas (semana 9)](#org9a417bf)
-- [La redistritación (semanas 10 y 11)](#org35b57d2)
-- [Los partidos como agentes de gobierno (semanas 12 y 13)](#orgfb24f8a)
-- [El proceso legislativo (semanas 14 y 15)](#org852f010)
-- [Las maquinarias partidistas (semana 15)](#org18c8ccb)
-- [El muy largo plazo (semanas 15 y 16)](#org9748e01)
-- [La coordinación electoral (semana 17)](#org8c6d82e)
+- [Reposiciones](#orgaf49708)
+- [Trabajos parcial y final](#org03a2c28)
+- [Prueba de hipótesis y regresión lineal, un repaso (semanas 1 y 2)](#org35f45d8)
+- [Causalidad y método comparativo (semana 3)](#org72a654b)
+- [La representación política (semana 4 y 5)](#org386e0d4)
+- [La delegación: piedra nodal del gobierno (semanas 5 y 6)](#orge02fa2f)
+- [La conexión electoral (semanas 7 y 8)](#org0d433ee)
+- [Dinastías políticas (semana 9)](#org8104810)
+- [La redistritación (semanas 10 y 11)](#orgf837cba)
+- [Los partidos como agentes de gobierno (semanas 12 y 13)](#orgc63ebae)
+- [El proceso legislativo (semanas 14 y 15)](#org68a712a)
+- [Las maquinarias partidistas (semana 15)](#org34de147)
+- [El muy largo plazo (semanas 15 y 16)](#org2c905e3)
+- [La coordinación electoral (semana 17)](#org9494a25)
 
 ITAM Depto. de ciencia política, primavera 2025
 
@@ -40,7 +40,7 @@ Lunes y miércoles 8:30&#x2013;10:00, salón 308
 ---
 
 
-<a id="org906dd76"></a>
+<a id="orgaf49708"></a>
 
 # Reposiciones
 
@@ -52,7 +52,7 @@ Habrá dos clases de reposición.
 ---
 
 
-<a id="orga9c4920"></a>
+<a id="org03a2c28"></a>
 
 # Trabajos parcial y final
 
@@ -61,7 +61,7 @@ Enlace [aquí](./parcial-final/). El trabajo parcial es individual y es la versi
 ---
 
 
-<a id="org93d5f7d"></a>
+<a id="org35f45d8"></a>
 
 # Prueba de hipótesis y regresión lineal, un repaso (semanas 1 y 2)
 
@@ -79,7 +79,7 @@ Extra
 -   Brambor et al. (2006) ["Understanding Interaction Models: Improving Empirical Analyses"](https://github.com/emagar/pc3/blob/master/lecturas/bramborEtalInteractions2005pa.pdf) 20 pp.
 
 
-<a id="org3363bd0"></a>
+<a id="org72a654b"></a>
 
 # Causalidad y método comparativo (semana 3)
 
@@ -87,7 +87,7 @@ Extra
 -   [Scientific Method (2015) Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/scientific-method/#SciMetSciEduSeeSci)
 
 
-<a id="orgc4ce1db"></a>
+<a id="org386e0d4"></a>
 
 # La representación política (semana 4 y 5)
 
@@ -97,7 +97,7 @@ Extra
 -   Wolkenstein y Wratil (2021) "Multidimensional Representation" 15 pp.
 
 
-<a id="orgf871dea"></a>
+<a id="orge02fa2f"></a>
 
 # La delegación: piedra nodal del gobierno (semanas 5 y 6)
 
@@ -108,7 +108,7 @@ Extra
 -   Estévez, Magar y Rosas (2008) ["Partisanship in non-partisan electoral agencies and democratic compliance: Evidence from Mexico's IFE"](https://github.com/emagar/ep3/blob/master/lecturas/EstevezMagarRosasIfeElecStud2008.pdf) 15 pp.
 
 
-<a id="orgac1ca5d"></a>
+<a id="org0d433ee"></a>
 
 # La conexión electoral (semanas 7 y 8)
 
@@ -126,7 +126,7 @@ Extra
 -   Jacobson (1985) Money and votes reconsidered, Congressional elections 57 pp.
 
 
-<a id="org9a417bf"></a>
+<a id="org8104810"></a>
 
 # Dinastías políticas (semana 9)
 
@@ -142,10 +142,10 @@ Extra
 -   Querubín (2016) [Family and Politics: Dynastic persistence in the Philippines](https://github.com/emagar/pc3/blob/master/lecturas/07dinastias/querubin2016qjps.pdf) 30 pp.
 -   Velasco (2015) [Political Dynasties and Party Strength: Evidence from Victorian Britain](https://github.com/emagar/pc3/blob/master/lecturas/07dinastias/velascoDynasticBritain2015draft.pdf) 47 pp.
 
-OJO: El lunes 1 de abril la clase será en sala de video de la biblioteca para ver y discutir la película The Last Hurrah de J. Ford (1958).
+OJO: El lunes 31 de marzo veremos y discutiremos la película The Last Hurrah de J. Ford (1958). La clase proyección será en el salón de clase.
 
 
-<a id="org35b57d2"></a>
+<a id="orgf837cba"></a>
 
 # La redistritación (semanas 10 y 11)
 
@@ -157,7 +157,7 @@ OJO: El lunes 1 de abril la clase será en sala de video de la biblioteca para v
 -   Magar et al. (2016) ["Components of partisan bias originating from single-member districts in multi-party systems"](https://github.com/emagar/pc3/blob/master/magar.etalComponentsPartisanBiasMultiparty2017pg-webPub.pdf) 12 pp.
 
 
-<a id="orgfb24f8a"></a>
+<a id="orgc63ebae"></a>
 
 # Los partidos como agentes de gobierno (semanas 12 y 13)
 
@@ -185,7 +185,7 @@ OJO: El lunes 1 de abril la clase será en sala de video de la biblioteca para v
     -   cap. 8 [Contingents and parties](https://github.com/emagar/pc3/blob/master/lecturas/mcCoxLeviatanCap8.pdf) 42 pp.
 
 
-<a id="org852f010"></a>
+<a id="org68a712a"></a>
 
 # El proceso legislativo (semanas 14 y 15)
 
@@ -198,7 +198,7 @@ OJO: El lunes 1 de abril la clase será en sala de video de la biblioteca para v
 -   Heller (2001) ["Making policy stick: why government gets what it wants in multiparty Parliaments"](https://github.com/emagar/ep3/blob/master/lecturas/hellerPolicyStickAjps2001.pdf) 19 pp.
 
 
-<a id="org18c8ccb"></a>
+<a id="org34de147"></a>
 
 # Las maquinarias partidistas (semana 15)
 
@@ -208,7 +208,7 @@ OJO: El lunes 1 de abril la clase será en sala de video de la biblioteca para v
 -   OJO: esta clase será más larga. Nos reuniremos de 15:00 a 17:30 para ver y discutir la película All the King’s Men de R. Rossen (1949).
 
 
-<a id="org9748e01"></a>
+<a id="org2c905e3"></a>
 
 # El muy largo plazo (semanas 15 y 16)
 
@@ -219,7 +219,7 @@ OJO: El lunes 1 de abril la clase será en sala de video de la biblioteca para v
 -   Livny (2021) ["Can religiosity be sensed with satellite data?"](https://github.com/emagar/pc3/blob/master/lecturas/livny-Religiosity-satellite2021.pdf) 28 pp.
 
 
-<a id="org8c6d82e"></a>
+<a id="org9494a25"></a>
 
 # La coordinación electoral (semana 17)
 
