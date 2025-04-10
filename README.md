@@ -1,17 +1,17 @@
-- [Reposiciones](#orgbb1059f)
-- [Trabajos parcial y final](#org3bd8f07)
-- [Prueba de hipótesis y regresión lineal, un repaso (semanas 1 y 2)](#org9434c68)
-- [Causalidad y método comparativo (semana 3)](#orga9582f7)
-- [La representación política (semana 4 y 5)](#org43d315b)
-- [La delegación: piedra nodal del gobierno (semanas 5 y 6)](#org5bad0de)
-- [La conexión electoral (semanas 7 y 8)](#orgfd4d361)
-- [Dinastías políticas (semana 9)](#orgc4b900a)
-- [La redistritación (semanas 10 y 11)](#orge8411f8)
-- [Los partidos como agentes de gobierno (semanas 12 y 13)](#org78fc92c)
-- [El proceso legislativo (semanas 14 y 15)](#org3f1cf70)
-- [Las maquinarias partidistas (semana 15)](#org1b14f32)
-- [El muy largo plazo (semanas 15 y 16)](#org73fe9b1)
-- [La coordinación electoral (semana 17)](#org1086ae7)
+- [Reposiciones](#org5fffcf1)
+- [Trabajos parcial y final](#orgee25722)
+- [Prueba de hipótesis y regresión lineal, un repaso (semanas 1 y 2)](#org64ca78a)
+- [Causalidad y método comparativo (semana 3)](#org21234b7)
+- [La representación política (semana 4 y 5)](#org93e6c77)
+- [La delegación: piedra nodal del gobierno (semanas 5 y 6)](#org55f686c)
+- [La conexión electoral (semanas 7 y 8)](#org8a0024b)
+- [Dinastías políticas (semana 9)](#orga601197)
+- [La redistritación (semanas 10 y 11)](#org91e201a)
+- [Los partidos como agentes de gobierno (semanas 12 y 13)](#orga70b24d)
+- [El proceso legislativo (semanas 14 y 15)](#orgb9ac5f6)
+- [Las maquinarias partidistas (semana 15)](#orgee9740f)
+- [El muy largo plazo (semanas 15 y 16)](#orgd894509)
+- [La coordinación electoral (semana 17)](#org8f934f9)
 
 ITAM Depto. de ciencia política, primavera 2025
 
@@ -35,12 +35,12 @@ Lunes y miércoles 8:30&#x2013;10:00, salón 308
 
 *Última clase*: miércoles 14 de mayo.
 
-*Exámenes finales*: del lunes 19 al sábado 31 de mayo.
+*Examen final*: 2025-5-28 13:00-16:00.
 
 ---
 
 
-<a id="orgbb1059f"></a>
+<a id="org5fffcf1"></a>
 
 # Reposiciones
 
@@ -52,7 +52,7 @@ Habrá dos clases de reposición.
 ---
 
 
-<a id="org3bd8f07"></a>
+<a id="orgee25722"></a>
 
 # Trabajos parcial y final
 
@@ -61,7 +61,7 @@ Enlace [aquí](./parcial-final/). El trabajo parcial es individual y es la versi
 ---
 
 
-<a id="org9434c68"></a>
+<a id="org64ca78a"></a>
 
 # Prueba de hipótesis y regresión lineal, un repaso (semanas 1 y 2)
 
@@ -79,7 +79,7 @@ Extra
 -   Brambor et al. (2006) ["Understanding Interaction Models: Improving Empirical Analyses"](https://github.com/emagar/pc3/blob/master/lecturas/bramborEtalInteractions2005pa.pdf) 20 pp.
 
 
-<a id="orga9582f7"></a>
+<a id="org21234b7"></a>
 
 # Causalidad y método comparativo (semana 3)
 
@@ -87,7 +87,7 @@ Extra
 -   [Scientific Method (2015) Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/scientific-method/#SciMetSciEduSeeSci)
 
 
-<a id="org43d315b"></a>
+<a id="org93e6c77"></a>
 
 # La representación política (semana 4 y 5)
 
@@ -97,7 +97,7 @@ Extra
 -   Wolkenstein y Wratil (2021) "Multidimensional Representation" 15 pp.
 
 
-<a id="org5bad0de"></a>
+<a id="org55f686c"></a>
 
 # La delegación: piedra nodal del gobierno (semanas 5 y 6)
 
@@ -108,7 +108,7 @@ Extra
 -   Estévez, Magar y Rosas (2008) ["Partisanship in non-partisan electoral agencies and democratic compliance: Evidence from Mexico's IFE"](https://github.com/emagar/ep3/blob/master/lecturas/EstevezMagarRosasIfeElecStud2008.pdf) 15 pp.
 
 
-<a id="orgfd4d361"></a>
+<a id="org8a0024b"></a>
 
 # La conexión electoral (semanas 7 y 8)
 
@@ -126,7 +126,7 @@ Extra
 -   Jacobson (1985) Money and votes reconsidered, Congressional elections 57 pp.
 
 
-<a id="orgc4b900a"></a>
+<a id="orga601197"></a>
 
 # Dinastías políticas (semana 9)
 
@@ -145,7 +145,7 @@ Extra
 OJO: El lunes 31 de marzo veremos y discutiremos la película The Last Hurrah de J. Ford (1958). La clase proyección será en el salón de clase.
 
 
-<a id="orge8411f8"></a>
+<a id="org91e201a"></a>
 
 # La redistritación (semanas 10 y 11)
 
@@ -160,7 +160,7 @@ OJO: El lunes 31 de marzo veremos y discutiremos la película The Last Hurrah de
 -   Magar et al. (2016) ["Components of partisan bias originating from single-member districts in multi-party systems"](https://github.com/emagar/pc3/blob/master/magar.etalComponentsPartisanBiasMultiparty2017pg-webPub.pdf) 12 pp.
 
 
-<a id="org78fc92c"></a>
+<a id="orga70b24d"></a>
 
 # Los partidos como agentes de gobierno (semanas 12 y 13)
 
@@ -188,7 +188,7 @@ OJO: El lunes 31 de marzo veremos y discutiremos la película The Last Hurrah de
     -   cap. 8 [Contingents and parties](https://github.com/emagar/pc3/blob/master/lecturas/mcCoxLeviatanCap8.pdf) 42 pp.
 
 
-<a id="org3f1cf70"></a>
+<a id="orgb9ac5f6"></a>
 
 # El proceso legislativo (semanas 14 y 15)
 
@@ -201,7 +201,7 @@ OJO: El lunes 31 de marzo veremos y discutiremos la película The Last Hurrah de
 -   Heller (2001) ["Making policy stick: why government gets what it wants in multiparty Parliaments"](https://github.com/emagar/ep3/blob/master/lecturas/hellerPolicyStickAjps2001.pdf) 19 pp.
 
 
-<a id="org1b14f32"></a>
+<a id="orgee9740f"></a>
 
 # Las maquinarias partidistas (semana 15)
 
@@ -211,7 +211,7 @@ OJO: El lunes 31 de marzo veremos y discutiremos la película The Last Hurrah de
 -   OJO: esta clase será más larga. Nos reuniremos de 15:00 a 17:30 para ver y discutir la película All the King’s Men de R. Rossen (1949).
 
 
-<a id="org73fe9b1"></a>
+<a id="orgd894509"></a>
 
 # El muy largo plazo (semanas 15 y 16)
 
@@ -222,7 +222,7 @@ OJO: El lunes 31 de marzo veremos y discutiremos la película The Last Hurrah de
 -   Livny (2021) ["Can religiosity be sensed with satellite data?"](https://github.com/emagar/pc3/blob/master/lecturas/livny-Religiosity-satellite2021.pdf) 28 pp.
 
 
-<a id="org1086ae7"></a>
+<a id="org8f934f9"></a>
 
 # La coordinación electoral (semana 17)
 
